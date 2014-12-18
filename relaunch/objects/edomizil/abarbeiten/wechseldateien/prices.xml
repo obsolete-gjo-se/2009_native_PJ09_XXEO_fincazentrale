@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resultset>
+  <domizil id="1264" UnitOwnerID="8323" InternalUnitID="Test Nr 1" InternalUnitID2="" container="season_details">
+    <season_info>
+      <season id="3" name="Nebensaison">
+        <rental_prices>
+          <rental_price calculation="w" unit="1" persons="4">
+            <name>Price per week</name>
+            <price>2000,00</price>
+            <currency id="6">EUR</currency>
+          </rental_price>
+          <rental_price calculation="d" unit="1" persons="4">
+            <name>Price for 3 days</name>
+            <price>200,00</price>
+            <currency id="6">EUR</currency>
+          </rental_price>
+          <rental_price calculation="d" unit="1" persons="4">
+            <name>Price for 4 days</name>
+            <price>300,00</price>
+            <currency id="6">EUR</currency>
+          </rental_price>
+          <rental_price calculation="d" unit="1" persons="4">
+            <name>Price for 5 days</name>
+            <price>400,00</price>
+            <currency id="6">EUR</currency>
+          </rental_price>
+          <rental_price calculation="d" unit="1" persons="4">
+            <name>Price for 6 days</name>
+            <price>500,00</price>
+            <currency id="6">EUR</currency>
+          </rental_price>
+        </rental_prices>
+        <add_prices>
+          <add_price reason="V" calculation="d" unit="1" persons="4">
+            <name>Price for Extension Day</name>
+            <price>100,00</price>
+            <currency id="6">EUR</currency>
+          </add_price>
+        </add_prices>
+        <dates>
+          <date from="08.05.2009" to="15.05.2010"/>
+        </dates>
+      </season>
+    </season_info>
+  </domizil>
+  <domizil id="1264" UnitOwnerID="8323" InternalUnitID="Test Nr 1" InternalUnitID2="" container="extracost_details">
+    <extra_costs>
+      <extra_cost type="2" payment_art="2" payment_type="0" measure="1" payment_mode="5" discount_flag="0" child_discount="0.00" youth_discount="0.00" optional="N" valid_from="2007-01-01" valid_till="2050-01-01" original="Y">
+        <price>10.00</price>
+        <currency id="6">EUR</currency>
+        <name language="DE">Strom</name>
+        <name language="EN">Electricity</name>
+        <name language="FR">Courant électrique</name>
+        <name language="ES">Electricidad&#x0D;</name>
+        <name language="IT">Corrente elettrica</name>
+      </extra_cost>
+      <extra_cost type="5" payment_art="2" payment_type="0" measure="6" payment_mode="7" discount_flag="0" child_discount="0.00" youth_discount="0.00" optional="Y" valid_from="2007-01-01" valid_till="2050-01-01" original="Y">
+        <price>5.50</price>
+        <currency id="6">EUR</currency>
+        <name language="DE">Handtücher</name>
+        <name language="EN">Towels</name>
+        <name language="FR">Serviettes</name>
+        <name language="ES">Toallas</name>
+        <name language="IT">Asciugamani</name>
+      </extra_cost>
+      <extra_cost type="7" payment_art="2" payment_type="0" measure="5" payment_mode="5" discount_flag="0" child_discount="0.00" youth_discount="0.00" optional="N" valid_from="2007-01-01" valid_till="2050-01-01" original="Y">
+        <price>150.00</price>
+        <currency id="6">EUR</currency>
+        <name language="DE">Endreinigung</name>
+        <name language="EN">Final cleaning</name>
+        <name language="FR">Nettoyage final</name>
+        <name language="ES">Limpieza final</name>
+        <name language="IT">Pulizia finale</name>
+      </extra_cost>
+      <extra_cost type="8" payment_art="2" payment_type="0" measure="3" payment_mode="5" discount_flag="0" child_discount="0.00" youth_discount="0.00" optional="N" valid_from="2007-01-01" valid_till="2050-01-01" original="Y">
+        <price>35.00</price>
+        <currency id="6">EUR</currency>
+        <name language="DE">SonnenbrilleDE</name>
+        <name language="EN">SonnenbrilleEN</name>
+        <name language="FR">SonnenbrilleFR</name>
+        <name language="ES">SonnenbrilleES</name>
+        <name language="IT">SonnenbrilleIT</name>
+      </extra_cost>
+      <extra_cost type="3" payment_art="0" payment_type="0" measure="1" payment_mode="4" discount_flag="0" child_discount="0.00" youth_discount="0.00" optional="N" valid_from="2007-01-01" valid_till="2050-01-01" original="Y">
+        <price>0.00</price>
+        <currency id="6">EUR</currency>
+        <name language="DE">Heizung</name>
+        <name language="EN">Heating</name>
+        <name language="FR">Chauffage</name>
+        <name language="ES">Calefacción</name>
+        <name language="IT">Riscaldamento</name>
+      </extra_cost>
+      <extra_cost type="6" payment_art="2" payment_type="0" measure="3" payment_mode="5" discount_flag="0" child_discount="0.00" youth_discount="0.00" optional="N" valid_from="2007-01-01" valid_till="2009-12-31" original="Y">
+        <price>1.70</price>
+        <currency id="6">EUR</currency>
+        <name language="DE">Kurtaxe</name>
+        <name language="EN">Visitor's tax</name>
+        <name language="FR">Taxe de séjour</name>
+        <name language="ES">Tasa de estancia</name>
+        <name language="IT">Tassa di soggiorno</name>
+      </extra_cost>
+      <extra_cost type="13" payment_art="0" payment_type="0" measure="1" payment_mode="4" discount_flag="0" child_discount="0.00" youth_discount="0.00" optional="N" valid_from="2007-01-01" valid_till="2050-01-01" original="Y">
+        <price>0.00</price>
+        <currency id="6">EUR</currency>
+        <name language="DE">Wasser</name>
+        <name language="EN">Water</name>
+        <name language="FR">Eau</name>
+        <name language="ES">Agua</name>
+        <name language="IT">Acqua</name>
+      </extra_cost>
+      <extra_cost type="16" payment_art="0" payment_type="0" measure="1" payment_mode="4" discount_flag="0" child_discount="0.00" youth_discount="0.00" optional="N" valid_from="2007-01-01" valid_till="2009-12-31" original="Y">
+        <price>0.00</price>
+        <currency id="6">EUR</currency>
+        <name language="DE">Gas</name>
+        <name language="EN">Gas</name>
+        <name language="FR">Gaz</name>
+        <name language="ES">Gas</name>
+        <name language="IT">Gas</name>
+      </extra_cost>
+      <extra_cost type="14" payment_art="2" payment_type="0" measure="2" payment_mode="5" discount_flag="0" child_discount="0.00" youth_discount="0.00" optional="Y" valid_from="2007-01-01" valid_till="2009-12-31" original="Y">
+        <price>50.00</price>
+        <currency id="6">EUR</currency>
+        <name language="DE">Kaminholz</name>
+        <name language="EN">Wood for chimney</name>
+        <name language="FR">Bois de cheminée</name>
+        <name language="ES">Leña de chimenea</name>
+        <name language="IT">Legna da ardere</name>
+      </extra_cost>
+      <extra_cost type="16" payment_art="2" payment_type="0" measure="1" payment_mode="5" discount_flag="0" child_discount="0.00" youth_discount="0.00" optional="N" valid_from="2007-01-01" valid_till="2009-12-31" original="Y">
+        <price>20.00</price>
+        <currency id="6">EUR</currency>
+        <name language="DE">Gas</name>
+        <name language="EN">Gas</name>
+        <name language="FR">Gaz</name>
+        <name language="ES">Gas</name>
+        <name language="IT">Gas</name>
+      </extra_cost>
+      <extra_cost type="12" payment_art="2" payment_type="0" measure="2" payment_mode="5" discount_flag="0" child_discount="0.00" youth_discount="0.00" optional="N" valid_from="2007-01-01" valid_till="2050-01-01" original="Y">
+        <price>7.50</price>
+        <currency id="6">EUR</currency>
+        <name language="DE">Haustier</name>
+        <name language="EN">Pet</name>
+        <name language="FR">Animal domestique</name>
+        <name language="ES">Animal doméstico</name>
+        <name language="IT">Animale domestico</name>
+      </extra_cost>
+      <extra_cost type="15" payment_art="2" payment_type="0" measure="6" payment_mode="7" discount_flag="0" child_discount="0.00" youth_discount="0.00" optional="N" valid_from="2007-01-01" valid_till="2050-01-01" original="Y">
+        <price>120.00</price>
+        <currency id="6">EUR</currency>
+        <name language="DE">Kinderbett</name>
+        <name language="EN">Cot for children</name>
+        <name language="FR">Lit enfant</name>
+        <name language="ES">Cuna</name>
+        <name language="IT">Lettino per bambini</name>
+      </extra_cost>
+      <extra_cost type="20" payment_art="0" payment_type="0" measure="1" payment_mode="4" discount_flag="0" child_discount="0.00" youth_discount="0.00" optional="N" valid_from="2007-01-01" valid_till="2050-01-01" original="Y">
+        <price>0.00</price>
+        <currency id="6">EUR</currency>
+        <name language="DE">Telefon</name>
+        <name language="EN">Telephone</name>
+        <name language="FR">Téléphone</name>
+        <name language="ES">Teléfono</name>
+        <name language="IT">Telefono</name>
+      </extra_cost>
+      <extra_cost type="18" payment_art="2" payment_type="0" measure="5" payment_mode="5" discount_flag="0" child_discount="0.00" youth_discount="0.00" optional="N" valid_from="2007-01-01" valid_till="2009-12-31" original="Y">
+        <price>120.50</price>
+        <currency id="6">EUR</currency>
+        <name language="DE">Klimaanlage</name>
+        <name language="EN">Air condition</name>
+        <name language="FR">Air conditionné</name>
+        <name language="ES">Aire acondicionado</name>
+        <name language="IT">Climatizzatore</name>
+      </extra_cost>
+      <extra_cost type="19" payment_art="2" payment_type="0" measure="1" payment_mode="7" discount_flag="0" child_discount="0.00" youth_discount="0.00" optional="Y" valid_from="2007-01-01" valid_till="2050-01-01" original="Y">
+        <price>1.50</price>
+        <currency id="6">EUR</currency>
+        <name language="DE">Parkmöglichkeit</name>
+        <name language="EN">Parking facilities</name>
+        <name language="FR">Possibilité de stationnement</name>
+        <name language="ES">Posibilidades de aparcamiento</name>
+        <name language="IT">Posto auto</name>
+      </extra_cost>
+      <extra_cost type="21" payment_art="0" payment_type="0" measure="1" payment_mode="4" discount_flag="0" child_discount="0.00" youth_discount="0.00" optional="N" valid_from="2007-01-01" valid_till="2050-01-01" original="Y">
+        <price>0.00</price>
+        <currency id="6">EUR</currency>
+        <name language="DE">Internet</name>
+        <name language="EN">Internet</name>
+        <name language="FR">Internet</name>
+        <name language="ES">Internet</name>
+        <name language="IT">Internet</name>
+      </extra_cost>
+      <extra_cost type="22" payment_art="2" payment_type="0" measure="3" payment_mode="5" discount_flag="0" child_discount="0.00" youth_discount="0.00" optional="Y" valid_from="2007-01-01" valid_till="2050-01-01" original="Y">
+        <price>1.50</price>
+        <currency id="6">EUR</currency>
+        <name language="DE">Sauna</name>
+        <name language="EN">Sauna</name>
+        <name language="FR">Sauna</name>
+        <name language="ES">Sauna</name>
+        <name language="IT">Sauna</name>
+      </extra_cost>
+      <extra_cost type="23" payment_art="1" payment_type="0" measure="1" payment_mode="1" discount_flag="0" child_discount="0.00" youth_discount="0.00" optional="N" valid_from="2007-01-01" valid_till="2050-01-01" original="Y">
+        <price>0.00</price>
+        <currency id="6">EUR</currency>
+        <name language="DE">Zwischenreinigung</name>
+        <name language="EN">Intermediate cleaning</name>
+        <name language="FR">Nettoyage intermédiaire</name>
+        <name language="ES">Limpieza intermedia</name>
+        <name language="IT">Pulizia durante il soggiorno</name>
+      </extra_cost>
+      <extra_cost type="8" payment_art="2" payment_type="0" measure="3" payment_mode="5" discount_flag="0" child_discount="0.00" youth_discount="0.00" optional="N" valid_from="2007-01-01" valid_till="2050-01-01" original="Y">
+        <price>2.00</price>
+        <currency id="6">EUR</currency>
+        <name language="DE">ÖkosteuerDE</name>
+        <name language="EN">ÖkosteuerEN</name>
+        <name language="FR">ÖkosteuerFR</name>
+        <name language="ES">ÖkosteuerES</name>
+        <name language="IT">ÖkosteuerIT</name>
+      </extra_cost>
+      <extra_cost type="8" payment_art="2" payment_type="0" measure="1" payment_mode="5" discount_flag="0" child_discount="0.00" youth_discount="0.00" optional="Y" valid_from="2007-01-01" valid_till="2050-01-01" original="Y">
+        <price>250.00</price>
+        <currency id="6">EUR</currency>
+        <name language="DE">PutzfrauDE</name>
+        <name language="EN">PutzfrauEN</name>
+        <name language="FR">PutzfrauFR</name>
+        <name language="ES">PutzfrauES</name>
+        <name language="IT">PutzfrauIT</name>
+      </extra_cost>
+      <extra_cost type="4" payment_art="1" payment_type="0" measure="1" payment_mode="6" discount_flag="0" child_discount="0.00" youth_discount="0.00" optional="N" valid_from="2007-01-01" valid_till="2050-01-01" original="Y">
+        <price>0.00</price>
+        <currency id="6">EUR</currency>
+        <name language="DE">Bettwäsche</name>
+        <name language="EN">Bed linen</name>
+        <name language="FR">Draps</name>
+        <name language="ES">Ropa de cama</name>
+        <name language="IT">Lenzuola</name>
+      </extra_cost>
+      <extra_cost type="6" payment_art="2" payment_type="0" measure="6" payment_mode="5" discount_flag="0" child_discount="0.00" youth_discount="0.00" optional="N" valid_from="2007-01-01" valid_till="2009-12-31" original="Y">
+        <price>21.00</price>
+        <currency id="6">EUR</currency>
+        <name language="DE">Kurtaxe</name>
+        <name language="EN">Visitor's tax</name>
+        <name language="FR">Taxe de séjour</name>
+        <name language="ES">Tasa de estancia</name>
+        <name language="IT">Tassa di soggiorno</name>
+      </extra_cost>
+    </extra_costs>
+    <price_children ok="true" age="14"/>
+    <deposit>
+      <price>100,00</price>
+      <currency id="6">EUR</currency>
+    </deposit>
+  </domizil>
+</Resultset>

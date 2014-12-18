@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<xs:element name="AttributLookups">
+		<xs:annotation>
+			<xs:documentation>Comment describing your root element</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="AttributeLookup" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="Nr">
+								<xs:annotation>
+									<xs:documentation xml:lang="DE">Nummer des Lookup-Elements</xs:documentation>
+									<xs:documentation xml:lang="EN">Number of the Lookup-element</xs:documentation>
+								</xs:annotation>
+							</xs:element>
+							<xs:element name="ID">
+								<xs:annotation>
+									<xs:documentation xml:lang="DE">Eindeutige ID der Lookup-Gruppe; Referenz zur Datei Attributes.xml, Element "Lookup"</xs:documentation>
+									<xs:documentation xml:lang="EN">ID of Lookup-group; Reference to Attributes.xml, Element "Lookup"</xs:documentation>
+								</xs:annotation>
+							</xs:element>
+							<xs:element name="WertDE">
+								<xs:annotation>
+									<xs:documentation xml:lang="DE">Deutscher Name des Lookup-Elements</xs:documentation>
+									<xs:documentation xml:lang="EN">German name of the Lookup-element</xs:documentation>
+								</xs:annotation>
+							</xs:element>
+							<xs:element name="WertEN" minOccurs="0">
+								<xs:annotation>
+									<xs:documentation xml:lang="DE">Englischer Name des Lookup-Elements</xs:documentation>
+									<xs:documentation xml:lang="EN">English name of the Lookup-element</xs:documentation>
+								</xs:annotation>
+							</xs:element>
+							<xs:element name="WertFR" minOccurs="0">
+								<xs:annotation>
+									<xs:documentation xml:lang="DE">Französischer Name des Lookup-Elements</xs:documentation>
+									<xs:documentation xml:lang="EN">French name of the Lookup-element</xs:documentation>
+								</xs:annotation>
+							</xs:element>
+							<xs:element name="WertSP" minOccurs="0">
+								<xs:annotation>
+									<xs:documentation xml:lang="DE">Spanischer Name des Lookup-Elements</xs:documentation>
+									<xs:documentation xml:lang="EN">Spanish name of the Lookup-element</xs:documentation>
+								</xs:annotation>
+							</xs:element>
+							<xs:element name="WertIT" minOccurs="0">
+								<xs:annotation>
+									<xs:documentation xml:lang="DE">Italienischer Name des Lookup-Elements</xs:documentation>
+									<xs:documentation xml:lang="EN">Italian name of the Lookup-element</xs:documentation>
+								</xs:annotation>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

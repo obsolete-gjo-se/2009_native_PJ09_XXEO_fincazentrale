@@ -1,0 +1,37 @@
+=======================
+= Kontaktformular.org =
+=======================
+
+Installation:
+=============
+1. kontakt.php konfigurieren: Tragen Sie in Zeile 6 Ihre Email-Adresse ein (ändern Sie info@domain.tld ab)
+   und speichern Sie die Datei ab.
+
+2. Laden Sie die Dateien captcha_form.php, kontakt.php und den Ordner "files" in einen Ordner auf Ihrem Server.
+
+3. Das Script kann durch 2 verschiedene Möglichkeiten eingebunden werden:
+
+   Per I-Frame in eine Seite einbinden, der HTML-Code lautet: 
+   <iframe src="http://www.meine-domain.tld/ordner/kontakt.php" width="540" height="560" frameborder="0" scrolling="no">Kontaktformular</iframe>
+
+   oder
+
+   direkt als php-Seite aufrufen (Passen Sie dazu ggf. die Datei kontakt.php für Ihr Design an - Für erfahrene Benutzer)
+
+ 
+
+Lizenzbestimmungen: 
+=============
+Die Lizenzbestimmungen befinden sich in der Datei Lizenzbestimmungen.txt
+
+Hinweis: 
+=============
+Ihr Server muß PHP ausführen können!
+Für auftretende Fehler oder Schäden wird keine Gewährleistung übernommen!
+
+Fonts:
+=============
+Xenowort by http://www.larabiefonts.com
+Refrigeration by http://www.vicfieger.com/
+
+www.Kontaktformular.org

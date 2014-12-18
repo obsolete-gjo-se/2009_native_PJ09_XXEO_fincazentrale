@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<xs:element name="Attributs">
+		<xs:annotation>
+			<xs:documentation>Comment describing your root element</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Attribut" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="Nr">
+								<xs:annotation>
+									<xs:documentation xml:lang="DE">Attributsnummer</xs:documentation>
+									<xs:documentation xml:lang="EN">Number of attribute</xs:documentation>
+								</xs:annotation>
+							</xs:element>
+							<xs:element name="KategorieNr">
+								<xs:annotation>
+									<xs:documentation xml:lang="DE">Nummer der Attributkategorie</xs:documentation>
+									<xs:documentation xml:lang="EN">Number of attribute category</xs:documentation>
+								</xs:annotation>
+							</xs:element>
+							<xs:element name="Typ">
+								<xs:annotation>
+									<xs:documentation xml:lang="DE">Attributstyp</xs:documentation>
+									<xs:documentation xml:lang="EN">Type of attribute; Reference to AttributTypes.xml</xs:documentation>
+								</xs:annotation>
+							</xs:element>
+							<xs:element name="Minimalwert" minOccurs="0">
+								<xs:annotation>
+									<xs:documentation xml:lang="DE">Kleinstwert für Attribut, wenn notwendig</xs:documentation>
+									<xs:documentation xml:lang="EN">Minimum value for attribute if it is necessary</xs:documentation>
+								</xs:annotation>
+							</xs:element>
+							<xs:element name="Maximalwert" minOccurs="0">
+								<xs:annotation>
+									<xs:documentation xml:lang="DE">Höchstwert für Attribut, wenn notwendig</xs:documentation>
+									<xs:documentation xml:lang="EN">Maximum value for attribute if it is necessary</xs:documentation>
+								</xs:annotation>
+							</xs:element>
+							<xs:element name="AttributDE">
+								<xs:annotation>
+									<xs:documentation xml:lang="DE">Deutscher Name des Attributs</xs:documentation>
+									<xs:documentation xml:lang="EN">German name of attribute</xs:documentation>
+								</xs:annotation>
+							</xs:element>
+							<xs:element name="AttributEN" minOccurs="0">
+								<xs:annotation>
+									<xs:documentation xml:lang="DE">Englischer Name des Attributs</xs:documentation>
+									<xs:documentation xml:lang="EN">English name of attribute</xs:documentation>
+								</xs:annotation>
+							</xs:element>
+							<xs:element name="AttributFR" minOccurs="0">
+								<xs:annotation>
+									<xs:documentation xml:lang="DE">Französischer Name des Attributs</xs:documentation>
+									<xs:documentation xml:lang="EN">French name of attribute</xs:documentation>
+								</xs:annotation>
+							</xs:element>
+							<xs:element name="AttributSP" minOccurs="0">
+								<xs:annotation>
+									<xs:documentation xml:lang="DE">Spanischer Name des Attributs</xs:documentation>
+									<xs:documentation xml:lang="EN">Spanish name of attribute</xs:documentation>
+								</xs:annotation>
+							</xs:element>
+							<xs:element name="AttributIT" minOccurs="0">
+								<xs:annotation>
+									<xs:documentation xml:lang="DE">Italienischer Name des Attributs</xs:documentation>
+									<xs:documentation xml:lang="EN">Italian name of attribute</xs:documentation>
+								</xs:annotation>
+							</xs:element>
+							<xs:element name="EinheitDE" minOccurs="0">
+								<xs:annotation>
+									<xs:documentation xml:lang="DE">Deutscher Name der Attributseinheit</xs:documentation>
+									<xs:documentation xml:lang="EN">German name of attribute unit</xs:documentation>
+								</xs:annotation>
+							</xs:element>
+							<xs:element name="EinheitEN" minOccurs="0">
+								<xs:annotation>
+									<xs:documentation xml:lang="DE">Englischer Name der Attributseinheit</xs:documentation>
+									<xs:documentation xml:lang="EN">English name of attribute unit</xs:documentation>
+								</xs:annotation>
+							</xs:element>
+							<xs:element name="EinheitFR" minOccurs="0">
+								<xs:annotation>
+									<xs:documentation xml:lang="DE">Französischer Name der Attributseinheit</xs:documentation>
+									<xs:documentation xml:lang="EN">French name of attribute unit</xs:documentation>
+								</xs:annotation>
+							</xs:element>
+							<xs:element name="EinheitSP" minOccurs="0">
+								<xs:annotation>
+									<xs:documentation xml:lang="DE">Spanischer Name der Attributseinheit</xs:documentation>
+									<xs:documentation xml:lang="EN">Spanish name of attribute unit</xs:documentation>
+								</xs:annotation>
+							</xs:element>
+							<xs:element name="EinheitIT" minOccurs="0">
+								<xs:annotation>
+									<xs:documentation xml:lang="DE">Italienischer Name der Attributseinheit</xs:documentation>
+									<xs:documentation xml:lang="EN">Italian name of attribute unit</xs:documentation>
+								</xs:annotation>
+							</xs:element>
+							<xs:element name="Lookup" minOccurs="0">
+								<xs:annotation>
+									<xs:documentation xml:lang="DE">ID der Lookup-Gruppe</xs:documentation>
+									<xs:documentation xml:lang="EN">ID of Lookup-group</xs:documentation>
+								</xs:annotation>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resultset>
+  <domizil id="1264" UnitOwnerID="8323" InternalUnitID="Test Nr 1" InternalUnitID2="" container="property_view" type="1">
+
+
+
+    <location>
+      <country iso_code="DE">Deutschland</country>
+      <region region_code="1-32">Hessen</region>
+      <regionnew regionnew_code="140">Rhein-Main Region</regionnew>
+      <postcode>61440</postcode>
+      <city>Oberursel</city>
+      <geocodes latitude="50.18840" longitude="8.57164" type="1"/>
+    </location>
+
+	  4-1 <category id="4-1" title="Wohnzimmer1">
+        <attribute id="136" title="Größe Wohnzimmer" language="DE">30 m²</attribute>
+        <attribute id="136" title="Living room size" language="EN">30 m²</attribute>
+        <attribute id="136" title="Superficie salón" language="ES">30 m²</attribute>
+        <attribute id="136" title="Dimensions de la pièce de séjour" language="FR">30 m²</attribute>
+        <attribute id="136" title="Dimensioni soggiorno" language="IT">30 m²</attribute>
+        <attribute id="137" title="Wohnzimmer dient auch als Schlafzimmer" language="DE"/>
+        <attribute id="137" title="Living room also serves as a  bedroom" language="EN"/>
+        <attribute id="137" title="Salón también sirve de dormitorio" language="ES"/>
+        <attribute id="137" title="La salle de séjour sert aussi de chambre à coucher" language="FR"/>
+        <attribute id="137" title="Soggiorno anche ad uso camera da letto" language="IT"/>
+        <attribute id="144" title="Wohnzimmerausstattung" language="DE">Couchecke, Ofen, Kamin, Separate Essecke, Wohnküche, Kamin/Ofen</attribute>
+        <attribute id="144" title="Living room furniture" language="EN">Sofa, Oven, Fireplace, Separate dining area, Combined kitchen/living room, Fireplace/oven</attribute>
+        <attribute id="144" title="Equipamiento del salón" language="ES">Rincón-salón, Estufa, Chimenea abierta , Rincón-comedor, Cocina-comedor, Chimenea/estufa</attribute>
+        <attribute id="144" title="Équipement de la salle de séjour" language="FR">Table basse, Poêle de faience, Cheminée, Coin cuisine séparé, Cuisine et salon combinés, Cheminée/poêle</attribute>
+        <attribute id="144" title="Dotazione soggiorno" language="IT">Angolo salotto, Forno, Camino, Angolo pranzo separato, Cucina abitabile, Camino / forno</attribute>
+        <attribute id="145" title="Sonstige Wohnzimmerausstattung" language="DE">Testrr_Wohnzimmer1_DE</attribute>
+        <attribute id="145" title="Other living room features" language="EN">Testrr_Wohnzimmer1_EN</attribute>
+        <attribute id="145" title="Otros equipamiento del salón" language="ES">Testrr_Wohnzimmer1_ES</attribute>
+        <attribute id="145" title="Autre équipement de la salle de séjour" language="FR">Testrr_Wohnzimmer1_FR</attribute>
+        <attribute id="145" title="Altra dotazione soggiorno" language="IT">Testrr_Wohnzimmer1_IT</attribute>
+        <attribute id="307" title="Anzahl Schlafgelegenheiten" language="DE">1</attribute>
+        <attribute id="307" title="Number of sleeping facilities" language="EN">1</attribute>
+        <attribute id="307" title="Nº de camas" language="ES">1</attribute>
+        <attribute id="307" title="Nombre de lits" language="FR">1</attribute>
+        <attribute id="307" title="Totale posti letto" language="IT">1</attribute>
+        <attribute id="350" title="Beschreibung Schlafgelegenheit" language="DE">Schrankbett, Zustellbett, Bett</attribute>
+        <attribute id="350" title="Type of sleeping facilities" language="EN">Fold-away bed, Additional bed, Bed</attribute>
+        <attribute id="350" title="Descripción de las camas" language="ES">Cama-armario, Plegatín, Cama</attribute>
+        <attribute id="350" title="Description des lits" language="FR">Bahut lit, Lit supplémentaire, Lit</attribute>
+        <attribute id="350" title="Descrizione posto letto" language="IT">Letto a scomparsa, Letto aggiuntivo, Letto</attribute>
+        <attribute id="351" title="Wohnzimmer abdunkelbar" language="DE"/>
+        <attribute id="351" title="Blinds available" language="EN"/>
+        <attribute id="351" title="Salón con persianas o cortinas opacas" language="ES"/>
+        <attribute id="351" title="Salle de séjour occultable" language="FR"/>
+        <attribute id="351" title="Soggiorno oscurabile" language="IT"/>
+      </category>
+      
+      6-0 <category id="6-0" title="Umgebung des Ferienobjektes">
+        <attribute id="286" title="Sonstige Lage" language="DE">Ruhige Alleinlage am Waldrand</attribute>
+        <attribute id="286" title="Other location" language="EN">Quiet position at the edge of forest</attribute>
+        <attribute id="286" title="Otros situación" language="ES">Ruhige Alleinlage am Waldrand</attribute>
+        <attribute id="286" title="Autre situation" language="FR">Situé au bord de la forêt, très tranquille</attribute>
+        <attribute id="286" title="Altra posizione" language="IT">Ruhige Alleinlage am Waldrand</attribute>
+      </category>
+
+      7-0 <category id="7-0" title="Garten und Aussenanlagen">
+        <attribute id="192" title="Beschreibung der Objektanlage" language="DE">Parkähnliche Anlage, Keine Einsicht von Straße oder Nachbargrundstück, Nicht umzäunt, Umzäunt mit einer Hecke, Mauer oder Zaun</attribute>
+        <attribute id="192" title="Garden description" language="EN">Park-like location, Not visible from the road or neighbouring properties, Unfenced, Enclosed with a hedge, a wall or a fence</attribute>
+        <attribute id="192" title="Descripción del conjunto del alojamiento" language="ES">Recinto ajardinado similar a un parque, Sin poder ser visto desde la calle o parcela vecina, Sin vallar, Rodeado por seto, muro o valla</attribute>
+        <attribute id="192" title="Jardin/installations de l'objet" language="FR">Installation semblable à un parc, Pas de vision de la route ou du terrain limitrophe, Non clôturé, Clôturé par une haie, un mur ou une clôture</attribute>
+        <attribute id="192" title="Descrizione del centro" language="IT">Zona tipo parco, Riparato dalla strada e dal terreno adiacente, Senza staccionata, Dotato di siepe, muro o staccionata</attribute>
+        <attribute id="197" title="Anbindung" language="DE">Zufahrt zum Objekt über befestigte Straße</attribute>
+        <attribute id="197" title="Connections" language="EN">Access of the holiday home over fixed road</attribute>
+        <attribute id="197" title="conexiones" language="ES">acceso al alojamiento por calle con buen firme</attribute>
+        <attribute id="197" title="Liaison et trafic" language="FR">Accès à l'objet au moyen d'un chemin asphalté</attribute>
+        <attribute id="197" title="Collegamenti" language="IT">Accesso all'oggetto su strada pavimentata</attribute>
+        <attribute id="198" title="Zufahrt im Sommer" language="DE">Direkt bis zum Objekt</attribute>
+        <attribute id="198" title="Summer route" language="EN">Directly up to the holiday home</attribute>
+        <attribute id="198" title="acceso en verano" language="ES">directamente hasta el alojamiento</attribute>
+        <attribute id="198" title="Accès en été" language="FR">Directement jusqu'à l'objet</attribute>
+        <attribute id="198" title="Accesso in estate" language="IT">Direttamente fino all'oggetto</attribute>
+        <attribute id="199" title="Zufahrt im Winter" language="DE">Direkt bis zum Objekt</attribute>
+        <attribute id="199" title="Winter route" language="EN">Directly up to the holiday home</attribute>
+        <attribute id="199" title="acceso en invierno" language="ES">directamente hasta el alojamiento</attribute>
+        <attribute id="199" title="Accès en hiver" language="FR">Directement jusqu'à l'objet</attribute>
+        <attribute id="199" title="Accesso in inverno" language="IT">Direttamente fino all'oggetto</attribute>
+        <attribute id="222" title="Freizeiteinrichtungen am Objekt" language="DE">Außenswimmingpool, Dampfbad, Innenswimmingpool, Sauna, Separater Fitnessraum, Solarium, Spielplatz, Tennisplatz, Tischtennis, Whirlpool, Badebassin, Swimmingpool</attribute>
+        <attribute id="222" title="On-site leisure facilities" language="EN">Outdoor swimming pool, Steam bath, Indoor swimming pool, Sauna, Separate fitness room, Solarium, Playground, Tennis court, Table tennis, Whirlpool, Basin, Swimming pool</attribute>
+        <attribute id="222" title="Instalaciones de ocio del alojamiento" language="ES">Piscina al aire libre, Baño turco, Piscina cubierta, Sauna, Gimnasio separado, Solarium, Área infantil, Cancha de tenis, Ping pong, Yacuzzi, Piscina elevada, Piscina</attribute>
+        <attribute id="222" title="Possibilités de loisirs&lt;br&gt;&lt;b&gt;directement situé sur l'objet&lt;/b&gt;" language="FR">Piscine extérieure, Bain de vapeur, Piscine couverte, Sauna, Pièce de fitness séparée, Solarium, Terrain de jeu pour enfants aec matériel, Court de tennis (éclairé), Ping pong, Jacuzzi, Bassin, Piscine</attribute>
+        <attribute id="222" title="Impianti per il tempo libero adiacenti" language="IT">Piscina esterna, Bagno turco, Piscina interna, Sauna, Palestra separata, Solarium, Campo giochi, Campo da tennis, Ping-pong, Vasca con idromassaggio, Vasca, Piscina</attribute>
+        <attribute id="288" title="Sonstige Ausstattung" language="DE">Testrr_Garten_DE</attribute>
+        <attribute id="288" title="Other" language="EN">Testrr_Garten_EN</attribute>
+        <attribute id="288" title="Otros equipamientos" language="ES">Testrr_Garten_ES</attribute>
+        <attribute id="288" title="Divers" language="FR">Testrr_Garten_FR</attribute>
+        <attribute id="288" title="Altra dotazione" language="IT">Testrr_Garten_IT</attribute>
+        <attribute id="315" title="Gartenausstattung" language="DE">Gartenhaus, Gartengrill, Pavillon, Gartenmöbel vorhanden, Grill vorhanden</attribute>
+        <attribute id="315" title="Garden facilities" language="EN">Summer house, Garden grill, Pavilion, Garden furniture provided, Grill available</attribute>
+        <attribute id="315" title="Equipamiento del jardín" language="ES">Caseta de jardín, Barbacoa, Pabellón, Mobiliario de jardín, Barbacoa</attribute>
+        <attribute id="315" title="Equipement du jardin" language="FR">Abri de jardin, Barbecue de jardin, Pavillon, Mobilier de jardin founi, Barbecue disponible</attribute>
+        <attribute id="315" title="Dotazione giardino" language="IT">Serra, Griglia, Padiglione, Mobili da giardino disponibili, Griglia disponibile</attribute>
+        <attribute id="321" title="Sonstige Freizeiteinrichtungen" language="DE">Testrr_Freizeit_DE</attribute>
+        <attribute id="321" title="Other Leisure facilities" language="EN">Testrr_Freizeit_EN</attribute>
+        <attribute id="321" title="Otros equipamientos de ocio" language="ES">Testrr_Freizeit_ES</attribute>
+        <attribute id="321" title="Autres installations de loisirs" language="FR">Testrr_Freizeit_FR</attribute>
+        <attribute id="321" title="Altri impianti per il tempo libero" language="IT">Testrr_Freizeit_IT</attribute>
+        <attribute id="354" title="Gartennutzung" language="DE">Alleinige Nutzung</attribute>
+        <attribute id="354" title="Garden utilisation" language="EN">Exclusive garden use</attribute>
+        <attribute id="354" title="Uso del jardín" language="ES">Uso exclusivo</attribute>
+        <attribute id="354" title="Utilisation du jardin" language="FR">Usage exclusif du jardin</attribute>
+        <attribute id="354" title="Uso giardino" language="IT">Uso esclusivo</attribute>
+      </category>
+
+	  9-0 <category id="9-0" title="Serviceleistungen">
+        <attribute id="194" title="Serviceleistungen" language="DE">Brötchenservice, Einkaufsservice vor der Anreise, Frühstück, Getränkeservice, Hauspersonal, Kinderbetreuung, Babysitter mögl., Koch, Reinigungsservice während des Aufenthaltes, Transferservice (Flughafen etc.), Zimmermädchen</attribute>
+        <attribute id="194" title="Service facilities" language="EN">Bakery service, Shopping service before arrival, Breakfast, Drinks service, House personnel, Child care, baby sitter possible, Cook, Cleaning service during your stay, Transfer service (airport etc), Chambermaid</attribute>
+        <attribute id="194" title="Servicios " language="ES">Servicio de panadería, Lista de la compra antes de la llegada, Desayuno, Venta de bebidas, Personal de servicio, Servicio de guardería/canguro, Cocinero , Servicio de limpieza durante la estancia, Servicio de traslados (aeropuerto etc), Camarera de habitaciones</attribute>
+        <attribute id="194" title="Prestations de service" language="FR">Service petit-pains, Service d'achat avant l'arrivée, Petit déjeuner, Service de boissons, Personnel de maison, Garde d'enfants, babysitter possible., Cuisinier, Service de nettoyage pendant le séjour, Service de transfert (aéroport...), Femme de chambre</attribute>
+        <attribute id="194" title="Servizi" language="IT">Pane a domicilio, Servizio di spesa prima della partenza, Colazione, Servizio bevande a domicilio, Personale di servizio, Servizio babysitter disponibile, Cuoco, Servizio lavanderia durante il soggiorno, Servizio navetta (aeroporto, ecc.), Servizio camere</attribute>
+        <attribute id="289" title="Sonstiges" language="DE">Testrr_Service_DE</attribute>
+        <attribute id="289" title="Other" language="EN">Testrr_Service_EN</attribute>
+        <attribute id="289" title="Otros" language="ES">Testrr_Service_ES</attribute>
+        <attribute id="289" title="Divers" language="FR">Testrr_Service_FR</attribute>
+        <attribute id="289" title="Altro" language="IT">Testrr_Service_IT</attribute>
+      </category>
+
+     13-0 <category id="13-0" title="Sonstige Inneneinrichtung">
+        <attribute id="129" title="Heizung" language="DE">Keine Heizung</attribute>
+        <attribute id="129" title="Heating" language="EN">No heating available</attribute>
+        <attribute id="129" title="Calefacción" language="ES">Sin calefacción</attribute>
+        <attribute id="129" title="Chauffage" language="FR">Pas de chauffage existant</attribute>
+        <attribute id="129" title="Riscaldamento" language="IT">Senza riscaldamento</attribute>
+        <attribute id="130" title="Klimatisierung" language="DE">teilweise</attribute>
+        <attribute id="130" title="Air conditioning" language="EN">Partly</attribute>
+        <attribute id="130" title="Climatización" language="ES">parcialmente</attribute>
+        <attribute id="130" title="Air conditionné" language="FR">en partie</attribute>
+        <attribute id="130" title="Impianto di condizionamento" language="IT">parzialmente</attribute>
+        <attribute id="131" title="Unterhaltungselektronik" language="DE">Radio/Radiowecker, Farb-Fernseher, S/W-Fernseher, Videorekorder, Kabelfernsehen, SAT-Empfang, Stereoanlage, CD-Player, Kein TV und Radio, TV, DVD</attribute>
+        <attribute id="131" title="Entertainment electronics" language="EN">Radio/radio alarm clock, Colour television set, B/W television, Video recorder, Cable television, SAT receipt, Hi-fi, CD-Player, No TV or radio, TV, DVD</attribute>
+        <attribute id="131" title="Equipos de imagen y sonido" language="ES">Radio/radio-despertador, Televisor en color, Televisor en blanco y negro, Vídeo, Televisión por cable, Televisión por satélite, Equipo de música, CD, sin TV ni radio, Televisor, DVD</attribute>
+        <attribute id="131" title="Électronique de divertissement" language="FR">Radio/radio-réveil, Télévision couleurs, Télévision N/B, Magnétoscope, Télévision câblée, Reception satellite, Equipement Stéréo, Lecteur de CD, Pas de TV ou radio, TV, DVD</attribute>
+        <attribute id="131" title="Elettronica per il tempo libero" language="IT">Radio / Radiosveglia, TV a colori, TV in bianco e nero, Videoregistratore, TV via cavo, TV via satellitare, Impianto stereo, CD Player, Senza TV e radio, TV, DVD</attribute>
+        <attribute id="132" title="Sonstige Unterhaltungselektronik" language="DE">Testrr_Unterhaltung_DE</attribute>
+        <attribute id="132" title="Other entertainment electronics" language="EN">Testrr_Unterhaltung_EN</attribute>
+        <attribute id="132" title="Otros imagen y sonido" language="ES">Testrr_Unterhaltung_ES</attribute>
+        <attribute id="132" title="Autre électronique de divertissement" language="FR">Testrr_Unterhaltung_FR</attribute>
+        <attribute id="132" title="Altra elettronica per il tempo libero" language="IT">Testrr_Unterhaltung_IT</attribute>
+        <attribute id="133" title="Telekommunikation" language="DE">Internet-Zugang, Mobilfunkempfang möglich, Fax, Telefon, ISDN-Anschluss</attribute>
+        <attribute id="133" title="Telecommunications" language="EN">Internet access, Mobile telephone reception possible, Fax, Telephone, ISDN connection</attribute>
+        <attribute id="133" title="Telecomunicaciones" language="ES">Acceso a internet, Cobertura de telefonía móvil, Fax, Teléfono, Conexión RDSI</attribute>
+        <attribute id="133" title="Télécommunications" language="FR">Accès Internet, Ciouvertur téléphone mobile, Fax, Téléphone, Accès ISDN</attribute>
+        <attribute id="133" title="Telecomunicazioni" language="IT">Accesso Internet, Ricezione cellulare possibile, Fax, Telefono, Connessione ISDN</attribute>
+        <attribute id="135" title="Einrichtungen" language="DE">Schränke und Schubladen bieten genügend Ablageplatz, Separater Trockenraum (alleinige Nutzung), Separater Trockenraum (Mitnutzung), Wäschetrockner/ Trocknungsmöglichkeit, Waschmaschine, Gemeinschaftswaschmaschine, Alarmanlage, Staubsauger</attribute>
+        <attribute id="135" title="Equipment" language="EN">Cabinets and drawers provide for enough space, Separate drying room ( exclusive use), Separate drying room (joint use), Dryer/drying facilities, Washing machine, Shared washing machine, Alarm system, Vacuum cleaner</attribute>
+        <attribute id="135" title="Equipamiento" language="ES">Armarios y cajones con espacio suficiente, Tendedero interior (uso exclusivo), Tendedero interior (uso compartido), Secadora/posibilidad de secar la ropa, Lavadora, Lavadora comunitaria, Alarma, Aspiradora</attribute>
+        <attribute id="135" title="Autres équipements" language="FR">Les coffres et tiroirs offrent suffisamment la place de rangement, Pièce de séchaffe du linge séparée (usage individuel), Pièce de séchaffe du linge séparée (usage commun), Sèche linge/possibilité de séchage, Machine à laver, Machine à laver commune, Système d'alarme, Aspirateur</attribute>
+        <attribute id="135" title="Arredi" language="IT">Spazio a sufficienza in armadi e cassetti, Asciugatoio separato (uso esclusivo), Asciugatoio separato (uso esclusivo), Asciugatrice / possibilità di asciugare la biancheria, Lavatrice, Lavatrice in comune, Impianto di allarme, Aspirapolvere</attribute>
+        <attribute id="268" title="Sonstige Telekommunikation" language="DE">Testrr_Telekom_DE</attribute>
+        <attribute id="268" title="Other telecommunications" language="EN">Testrr_Telekom_EN</attribute>
+        <attribute id="268" title="Otros telecomunicaciones" language="ES">Testrr_Telekom_ES</attribute>
+        <attribute id="268" title="Autre télécommunications" language="FR">Testrr_Telekom_FR</attribute>
+        <attribute id="268" title="Altre telecomunicazioni" language="IT">Testrr_Telekom_IT</attribute>
+        <attribute id="311" title="in allen Räumen ausser" language="DE">Testrr_Heizung_DE</attribute>
+        <attribute id="311" title="In all rooms except" language="EN">Testrr_Heizung_EN</attribute>
+        <attribute id="311" title="en todas las habitaciones excepto" language="ES">Testrr_Heizung_ES</attribute>
+        <attribute id="311" title="dans toutes les pièces sauf" language="FR">Testrr_Heizung_FR</attribute>
+        <attribute id="311" title="in tutte le camere ad eccezione di" language="IT">Testrr_Heizung_IT</attribute>
+        <attribute id="312" title="Sonstige Einrichtungen" language="DE">Testrr_Einrichtung_DE</attribute>
+        <attribute id="312" title="Other equipment" language="EN">Testrr_Einrichtung_EN</attribute>
+        <attribute id="312" title="Otros equipamiento" language="ES">Testrr_Einrichtung_ES</attribute>
+        <attribute id="312" title="Autres équipements" language="FR">Testrr_Einrichtung_FR</attribute>
+        <attribute id="312" title="Altri arredi" language="IT">Testrr_Einrichtung_IT</attribute>
+      </category>	  
+	  
+	 41-1 <category id="41-1" title="Schlafzimmer1">
+        <attribute id="146" title="Größe des Schlafzimmers" language="DE">10 m²</attribute>
+        <attribute id="146" title="Bedroom size" language="EN">10 m²</attribute>
+        <attribute id="146" title="Tamaño del dormitorio" language="ES">10 m²</attribute>
+        <attribute id="146" title="Dimensions de la chambre à coucher" language="FR">10 m²</attribute>
+        <attribute id="146" title="Dimensioni camera da letto" language="IT">10 m²</attribute>
+        <attribute id="147" title="Anzahl Doppelbetten" language="DE">1</attribute>
+        <attribute id="147" title="Number of double beds" language="EN">1</attribute>
+        <attribute id="147" title="Nº de camas dobles" language="ES">1</attribute>
+        <attribute id="147" title="Nombre de lits doubles" language="FR">1</attribute>
+        <attribute id="147" title="Totale letti matrimoniali" language="IT">1</attribute>
+        <attribute id="148" title="Anzahl Einzelbetten" language="DE">1</attribute>
+        <attribute id="148" title="Number of single beds" language="EN">1</attribute>
+        <attribute id="148" title="Nº de camas individuales" language="ES">1</attribute>
+        <attribute id="148" title="Nombre de lits simples" language="FR">1</attribute>
+        <attribute id="148" title="Totale letti singoli" language="IT">1</attribute>
+        <attribute id="150" title="Anzahl Kinderbetten" language="DE">1</attribute>
+        <attribute id="150" title="Number of cribs" language="EN">1</attribute>
+        <attribute id="150" title="Nº de camas de niño" language="ES">1</attribute>
+        <attribute id="150" title="Nombre de lits d'enfants" language="FR">1</attribute>
+        <attribute id="150" title="Totale letti per bambini" language="IT">1</attribute>
+        <attribute id="153" title="Matratze nicht älter als 3 Jahre" language="DE"/>
+        <attribute id="153" title="Mattress not older than 3 years" language="EN"/>
+        <attribute id="153" title="colchón con menos de 3 años de antigüedad" language="ES"/>
+        <attribute id="153" title="Matelas de moins de 3 ans" language="FR"/>
+        <attribute id="153" title="Materasso vecchio di non oltre 3 anni" language="IT"/>
+        <attribute id="155" title="Höhenverstellbarer Lattenrost" language="DE"/>
+        <attribute id="155" title="Bedstead with adjustably height" language="EN"/>
+        <attribute id="155" title="somier con altura regulable" language="ES"/>
+        <attribute id="155" title="Sommier réglable" language="FR"/>
+        <attribute id="155" title="Rete con doghe ad altezze regolabili" language="IT"/>
+        <attribute id="162" title="Schlafzimmer abdunkelbar" language="DE"/>
+        <attribute id="162" title="Blinds available" language="EN"/>
+        <attribute id="162" title="Persianas o cortinas opacas en el dormitorio" language="ES"/>
+        <attribute id="162" title="Chambre à coucher obscurcissable" language="FR"/>
+        <attribute id="162" title="Camera da letto oscurabile" language="IT"/>
+        <attribute id="163" title="Sonstige Schlafzimmereinrichtung" language="DE">Testrr_Schlafzimmer1_DE</attribute>
+        <attribute id="163" title="Other bedroom furniture" language="EN">Testrr_Schlafzimmer1_EN</attribute>
+        <attribute id="163" title="Otros equipamiento del dormitorio" language="ES">Testrr_Schlafzimmer1_ES</attribute>
+        <attribute id="163" title="Autre installation dnas la chambre à coucher" language="FR">Testrr_Schlafzimmer1_FR</attribute>
+        <attribute id="163" title="Altra dotazione camera da letto" language="IT">Testrr_Schlafzimmer1_IT</attribute>
+        <attribute id="352" title="Anzahl Etagenbetten" language="DE">1</attribute>
+        <attribute id="352" title="Number of bunk beds" language="EN">1</attribute>
+        <attribute id="352" title="Nº de literas" language="ES">1</attribute>
+        <attribute id="352" title="Nombre de lits doubles" language="FR">1</attribute>
+        <attribute id="352" title="Totale letti a castello" language="IT">1</attribute>
+      </category> 
+
+     41-2 <category id="41-2" title="Schlafzimmer2">
+        <attribute id="146" title="Größe des Schlafzimmers" language="DE">15 m²</attribute>
+        <attribute id="146" title="Bedroom size" language="EN">15 m²</attribute>
+        <attribute id="146" title="Tamaño del dormitorio" language="ES">15 m²</attribute>
+        <attribute id="146" title="Dimensions de la chambre à coucher" language="FR">15 m²</attribute>
+        <attribute id="146" title="Dimensioni camera da letto" language="IT">15 m²</attribute>
+        <attribute id="147" title="Anzahl Doppelbetten" language="DE">2</attribute>
+        <attribute id="147" title="Number of double beds" language="EN">2</attribute>
+        <attribute id="147" title="Nº de camas dobles" language="ES">2</attribute>
+        <attribute id="147" title="Nombre de lits doubles" language="FR">2</attribute>
+        <attribute id="147" title="Totale letti matrimoniali" language="IT">2</attribute>
+        <attribute id="148" title="Anzahl Einzelbetten" language="DE">1</attribute>
+        <attribute id="148" title="Number of single beds" language="EN">1</attribute>
+        <attribute id="148" title="Nº de camas individuales" language="ES">1</attribute>
+        <attribute id="148" title="Nombre de lits simples" language="FR">1</attribute>
+        <attribute id="148" title="Totale letti singoli" language="IT">1</attribute>
+        <attribute id="150" title="Anzahl Kinderbetten" language="DE">1</attribute>
+        <attribute id="150" title="Number of cribs" language="EN">1</attribute>
+        <attribute id="150" title="Nº de camas de niño" language="ES">1</attribute>
+        <attribute id="150" title="Nombre de lits d'enfants" language="FR">1</attribute>
+        <attribute id="150" title="Totale letti per bambini" language="IT">1</attribute>
+        <attribute id="154" title="Rückengerechte Matratze" language="DE"/>
+        <attribute id="154" title="Ergonomic mattress" language="EN"/>
+        <attribute id="154" title="colchón ergonómico" language="ES"/>
+        <attribute id="154" title="Matelas ergonomique" language="FR"/>
+        <attribute id="154" title="Materasso ortopedico" language="IT"/>
+        <attribute id="162" title="Schlafzimmer abdunkelbar" language="DE"/>
+        <attribute id="162" title="Blinds available" language="EN"/>
+        <attribute id="162" title="Persianas o cortinas opacas en el dormitorio" language="ES"/>
+        <attribute id="162" title="Chambre à coucher obscurcissable" language="FR"/>
+        <attribute id="162" title="Camera da letto oscurabile" language="IT"/>
+        <attribute id="163" title="Sonstige Schlafzimmereinrichtung" language="DE">Testrr_Schlafzimmer2_DE</attribute>
+        <attribute id="163" title="Other bedroom furniture" language="EN">Testrr_Schlafzimmer2_EN</attribute>
+        <attribute id="163" title="Otros equipamiento del dormitorio" language="ES">Testrr_Schlafzimmer2_ES</attribute>
+        <attribute id="163" title="Autre installation dnas la chambre à coucher" language="FR">Testrr_Schlafzimmer2_FR</attribute>
+        <attribute id="163" title="Altra dotazione camera da letto" language="IT">Testrr_Schlafzimmer2_IT</attribute>
+        <attribute id="352" title="Anzahl Etagenbetten" language="DE">3</attribute>
+        <attribute id="352" title="Number of bunk beds" language="EN">3</attribute>
+        <attribute id="352" title="Nº de literas" language="ES">3</attribute>
+        <attribute id="352" title="Nombre de lits doubles" language="FR">3</attribute>
+        <attribute id="352" title="Totale letti a castello" language="IT">3</attribute>
+      </category>
+      
+     41-3 <category id="41-3" title="Schlafzimmer3">
+        <attribute id="146" title="Größe des Schlafzimmers" language="DE">40 m²</attribute>
+        <attribute id="146" title="Bedroom size" language="EN">40 m²</attribute>
+        <attribute id="146" title="Tamaño del dormitorio" language="ES">40 m²</attribute>
+        <attribute id="146" title="Dimensions de la chambre à coucher" language="FR">40 m²</attribute>
+        <attribute id="146" title="Dimensioni camera da letto" language="IT">40 m²</attribute>
+        <attribute id="147" title="Anzahl Doppelbetten" language="DE">1</attribute>
+        <attribute id="147" title="Number of double beds" language="EN">1</attribute>
+        <attribute id="147" title="Nº de camas dobles" language="ES">1</attribute>
+        <attribute id="147" title="Nombre de lits doubles" language="FR">1</attribute>
+        <attribute id="147" title="Totale letti matrimoniali" language="IT">1</attribute>
+        <attribute id="148" title="Anzahl Einzelbetten" language="DE">1</attribute>
+        <attribute id="148" title="Number of single beds" language="EN">1</attribute>
+        <attribute id="148" title="Nº de camas individuales" language="ES">1</attribute>
+        <attribute id="148" title="Nombre de lits simples" language="FR">1</attribute>
+        <attribute id="148" title="Totale letti singoli" language="IT">1</attribute>
+        <attribute id="150" title="Anzahl Kinderbetten" language="DE">1</attribute>
+        <attribute id="150" title="Number of cribs" language="EN">1</attribute>
+        <attribute id="150" title="Nº de camas de niño" language="ES">1</attribute>
+        <attribute id="150" title="Nombre de lits d'enfants" language="FR">1</attribute>
+        <attribute id="150" title="Totale letti per bambini" language="IT">1</attribute>
+        <attribute id="162" title="Schlafzimmer abdunkelbar" language="DE"/>
+        <attribute id="162" title="Blinds available" language="EN"/>
+        <attribute id="162" title="Persianas o cortinas opacas en el dormitorio" language="ES"/>
+        <attribute id="162" title="Chambre à coucher obscurcissable" language="FR"/>
+        <attribute id="162" title="Camera da letto oscurabile" language="IT"/>
+        <attribute id="163" title="Sonstige Schlafzimmereinrichtung" language="DE">Testrr_Schlafzimmer3_DE</attribute>
+        <attribute id="163" title="Other bedroom furniture" language="EN">Testrr_Schlafzimmer3_EN</attribute>
+        <attribute id="163" title="Otros equipamiento del dormitorio" language="ES">Testrr_Schlafzimmer3_ES</attribute>
+        <attribute id="163" title="Autre installation dnas la chambre à coucher" language="FR">Testrr_Schlafzimmer3_FR</attribute>
+        <attribute id="163" title="Altra dotazione camera da letto" language="IT">Testrr_Schlafzimmer3_IT</attribute>
+        <attribute id="352" title="Anzahl Etagenbetten" language="DE">1</attribute>
+        <attribute id="352" title="Number of bunk beds" language="EN">1</attribute>
+        <attribute id="352" title="Nº de literas" language="ES">1</attribute>
+        <attribute id="352" title="Nombre de lits doubles" language="FR">1</attribute>
+        <attribute id="352" title="Totale letti a castello" language="IT">1</attribute>
+      </category>
+
+	  42-0 <category id="42-0" title="Badezimmer">
+        <attribute id="165" title="Ausstattung Badezimmer" language="DE">WC</attribute>
+        <attribute id="165" title="Bathroom features" language="EN">Toilet</attribute>
+        <attribute id="165" title="Equipamiento del cuarto de baño" language="ES">WC</attribute>
+        <attribute id="165" title="Équipement de la salle de bains" language="FR">Cabinet</attribute>
+        <attribute id="165" title="Dotazione camera da bagno" language="IT">Servizi</attribute>
+      </category>
+      
+	  42-1 <category id="42-1" title="Badezimmer1">
+        <attribute id="164" title="Größe des Badezimmers" language="DE">10 m²</attribute>
+        <attribute id="164" title="Bathroom size" language="EN">10 m²</attribute>
+        <attribute id="164" title="Tamaño del cuarto baño" language="ES">10 m²</attribute>
+        <attribute id="164" title="Dimensions de la salle de bain" language="FR">10 m²</attribute>
+        <attribute id="164" title="Dimensioni camera da bagno" language="IT">10 m²</attribute>
+        <attribute id="165" title="Ausstattung Badezimmer" language="DE">Badewanne mit Duschvorrichtung, Badewanne ohne Duschvorrichtung, Separate Dusche, Bidet, Tageslicht, WC, Waschbecken, Waschtisch, Doppelwaschtisch, Dusche</attribute>
+        <attribute id="165" title="Bathroom features" language="EN">Bath tub with shower, Bath tub without shower, Separate shower, Bidet, Day light, Toilet, Wash basin, Washing stand, Double washing stand, Shower</attribute>
+        <attribute id="165" title="Equipamiento del cuarto de baño" language="ES">Bañera con ducha, Bañera sin ducha, Ducha separada, Bidé, Luz natural, WC, Lavabo, Mesa de baño, Mesa de baño doble, Ducha</attribute>
+        <attribute id="165" title="Équipement de la salle de bains" language="FR">Baignoire avec dispositif de douche, Baignoire sans dispositif de douche, Cabine de douche séparée, Bidet, Lumière du jour, Cabinet, Bassine pour lessive, Table basse, Meuble sous vasque, Douche</attribute>
+        <attribute id="165" title="Dotazione camera da bagno" language="IT">Vasca da bagno con doccia, Vasca da bagno senza doccia, Doccia separata, Bidet, Luce a giorno, Servizi, Lavatoio, Lavabo, Doppio lavabo, Doccia</attribute>
+        <attribute id="168" title="Sonstige Badezimmereinrichtung" language="DE">Testrr_Bad1_DE</attribute>
+        <attribute id="168" title="Other bathroom equipment" language="EN">Testrr_Bad1_EN</attribute>
+        <attribute id="168" title="Otros equipamiento del cuarto de baño" language="ES">Testrr_Bad1_ES</attribute>
+        <attribute id="168" title="Autre équipement de la salle de bains" language="FR">Testrr_Bad1_FR</attribute>
+        <attribute id="168" title="Altra dotazione camera da bagno" language="IT">Testrr_Bad1_IT</attribute>
+      </category>
+      
+	  42-2 <category id="42-2" title="Badezimmer2">
+        <attribute id="164" title="Größe des Badezimmers" language="DE">12 m²</attribute>
+        <attribute id="164" title="Bathroom size" language="EN">12 m²</attribute>
+        <attribute id="164" title="Tamaño del cuarto baño" language="ES">12 m²</attribute>
+        <attribute id="164" title="Dimensions de la salle de bain" language="FR">12 m²</attribute>
+        <attribute id="164" title="Dimensioni camera da bagno" language="IT">12 m²</attribute>
+        <attribute id="165" title="Ausstattung Badezimmer" language="DE">Badewanne mit Duschvorrichtung, Badewanne ohne Duschvorrichtung, Separate Dusche, Bidet, Tageslicht, WC, Waschbecken, Waschtisch, Doppelwaschtisch, Dusche</attribute>
+        <attribute id="165" title="Bathroom features" language="EN">Bath tub with shower, Bath tub without shower, Separate shower, Bidet, Day light, Toilet, Wash basin, Washing stand, Double washing stand, Shower</attribute>
+        <attribute id="165" title="Equipamiento del cuarto de baño" language="ES">Bañera con ducha, Bañera sin ducha, Ducha separada, Bidé, Luz natural, WC, Lavabo, Mesa de baño, Mesa de baño doble, Ducha</attribute>
+        <attribute id="165" title="Équipement de la salle de bains" language="FR">Baignoire avec dispositif de douche, Baignoire sans dispositif de douche, Cabine de douche séparée, Bidet, Lumière du jour, Cabinet, Bassine pour lessive, Table basse, Meuble sous vasque, Douche</attribute>
+        <attribute id="165" title="Dotazione camera da bagno" language="IT">Vasca da bagno con doccia, Vasca da bagno senza doccia, Doccia separata, Bidet, Luce a giorno, Servizi, Lavatoio, Lavabo, Doppio lavabo, Doccia</attribute>
+        <attribute id="168" title="Sonstige Badezimmereinrichtung" language="DE">Testrr_Bad2_DE</attribute>
+        <attribute id="168" title="Other bathroom equipment" language="EN">Testrr_Bad2_EN</attribute>
+        <attribute id="168" title="Otros equipamiento del cuarto de baño" language="ES">Testrr_Bad2_ES</attribute>
+        <attribute id="168" title="Autre équipement de la salle de bains" language="FR">Testrr_Bad2_FR</attribute>
+        <attribute id="168" title="Altra dotazione camera da bagno" language="IT">Testrr_Bad2_IT</attribute>
+      </category>
+      
+	  43-1 <category id="43-1" title="Küche1">
+        <attribute id="169" title="Größe der Küche" language="DE">13 m²</attribute>
+        <attribute id="169" title="Kitchen size" language="EN">13 m²</attribute>
+        <attribute id="169" title="Tamaño de la cocina" language="ES">13 m²</attribute>
+        <attribute id="169" title="Dimensions de la cuisine" language="FR">13 m²</attribute>
+        <attribute id="169" title="Dimensioni cucina" language="IT">13 m²</attribute>
+        <attribute id="170" title="Anzahl Esstische" language="DE">1</attribute>
+        <attribute id="170" title="Number of tables" language="EN">1</attribute>
+        <attribute id="170" title="Nº de mesas para comer" language="ES">1</attribute>
+        <attribute id="170" title="Nombre de tables à manger" language="FR">1</attribute>
+        <attribute id="170" title="Totale tavoli da pranzo" language="IT">1</attribute>
+        <attribute id="171" title="Gesamtzahl Sitzplätze" language="DE">5</attribute>
+        <attribute id="171" title="Total number of seats" language="EN">5</attribute>
+        <attribute id="171" title="Nº total de asientos" language="ES">5</attribute>
+        <attribute id="171" title="Nombre total de sièges" language="FR">5</attribute>
+        <attribute id="171" title="Totale posti a sedere" language="IT">5</attribute>
+        <attribute id="172" title="Ausstattung Küche" language="DE">Espressomaschine, Dunstabzugshaube, Mikrowellenherd, Theke/Frühstücksbar, Kühl-/Gefrierkombi, Tiefkühlschrank/Truhe, Kochgelegenheit (2 Herdplatten), Kochgelegenheit (4 Herdplatten), Geschirrspüler, Einbauküche, 2 Sätze Teller, Tassen, Besteck pro Person, Backofen, Kühlschrank, Kaffeemaschine, Gasherd, kombinierter Gas-/E-Herd, E-Herd, Toaster, Kochgelegenheit, Schrankküche</attribute>
+        <attribute id="172" title="Kitchen furniture/equipment" language="EN">Espresso machine, Extractor hood, Microwave oven, Bar/breakfast bar, Cooler/freezer combination, Deep freezer, Cooking facilities (two hobs), Cooking facilities (four  hobs), Dishwasher, Fitted kitchen, 2 sets of plates, cups, cutlery per person, Oven, Refrigerator, Coffee machine, Gas stove, Combined gas/electric stove, Electric stove, Toaster, Cooking facilities, Kitchenette</attribute>
+        <attribute id="172" title="Equipamiento de la cocina" language="ES">Máquina de café, Campana extractora, Microondas, Barra/mesa de desayunos, Nevera/congelador combi, Congelador/Arcón, Cocina (2 fuegos), Cocina (4 fuegos), Lavavajillas, Cocina integrada, 2 juegos de platos, tazas y cubiertos por persona, Horno , Nevera , Cafetera, Cocina de gas, Cocina combinada de gas/eléctrica, Cocina eléctrica, Tostadora, Posibilidad de cocinar, Cocina-armario</attribute>
+        <attribute id="172" title="Équipement de la cuisine" language="FR">Machine à café expresso, Hotte d'aération, Four à micro-onde, Comptoir/bar à petit déjeuner, Ensemble réfrigérateur/congélateur, Coffre réfrigérateur/congélateur, Possibilités de cuisson (2 plaques de four), Possibilités de cuisson (4 plaques de four), Lave-vaisselle, Cuisine intégrée, 2 jeux d'assiettes, de tasses, de couverts par personne, Four, Réfrigérateur, Machine à café, Gazinière, Cuisinière au gaz et électrique, Cuisinière électrique, Grille pain , Possibilité cuisine, Kitchenette</attribute>
+        <attribute id="172" title="Dotazione cucina" language="IT">Macchina espresso, Cappa aspirafumi, Forno a microonde, Teca / bar colazione, Frigorifero con congelatore, Congelatore, Angolo cottura (2 piastre di cottura), Angolo cottura (4 piastre di cottura), Lavastoviglie, Cucina componibile, 2 set di piatti, tazze, posate per persona, Forno, Frigorifero, Macchina da caffè, Forno a gas, Forno combinato elettricità/gas, Forno elettrico, Tostapane, Possibilità di cottura, Cucina ad incasso</attribute>
+        <attribute id="173" title="Sonstige Kücheneinrichtung" language="DE">Testrr_Küche1_DE</attribute>
+        <attribute id="173" title="Other kitchen equipment" language="EN">Testrr_Küche1_EN</attribute>
+        <attribute id="173" title="Otros equipamiento de la cocina" language="ES">Testrr_Küche1_ES</attribute>
+        <attribute id="173" title="Autre équipement de la cuisine" language="FR">Testrr_Küche1_FR</attribute>
+        <attribute id="173" title="Altra dotazione cucina" language="IT">Testrr_Küche1_IT</attribute>
+        <attribute id="284" title="Art der Küche" language="DE">Kochnische</attribute>
+        <attribute id="284" title="Kitchen type" language="EN">Kitchenette</attribute>
+        <attribute id="284" title="tipo de cocina" language="ES">rincón de cocina</attribute>
+        <attribute id="284" title="Type de cuisine" language="FR">Kitchenette</attribute>
+        <attribute id="284" title="Tipo di cucina" language="IT">Angolo cottura</attribute>
+      </category>
+      
+	  44-1 <category id="44-1" title="Sonstige1">
+        <attribute id="174" title="Sonstige Räume" language="DE">Abschließbarer Abstellraum, Garderobe, Separater Eingangsbereich (Flur oder Diele)</attribute>
+        <attribute id="174" title="Other rooms" language="EN">Lockable storage room, Wardrobe, Separate entrance area (corridor or hall)</attribute>
+        <attribute id="174" title="Otras habitaciones" language="ES">Trastero con cerradura, Perchero, Entrada separada (pasillo)</attribute>
+        <attribute id="174" title="Autres pièces" language="FR">Débarras verrouillable, Garderobe, Espace d'entrée séparé (couloir ou hall)</attribute>
+        <attribute id="174" title="Altre camere" language="IT">Ripostiglio con serratura, Guardaroba, Entrata separata (corridoio o entrata)</attribute>
+      </category>
+	  
+
+      
+
+	  
+      52-0 <category id="52-0" title="Umgebung">
+        <attribute id="134" title="Parkmöglichkeiten" language="DE">Privatparkplatz auf Grundstück/Hofanlage, Öffentlicher Parkplatz, Abschließbare Garage, Carport, Abstellplatz in abschließbarer Parkgarage, Garage, Parkplatz</attribute>
+        <attribute id="134" title="Parking facilities" language="EN">Private parking on site, Public parking, Lockable garage, Carport, Parking space in a lockable garage, Garage, Parking</attribute>
+        <attribute id="134" title="Posibilidad de aparcamiento" language="ES">Aparcamiento privado en terreno/patio, Aparcamiento público, Garaje con cerradura, Plaza de aparcamiento cubierta, Plaza en garaje subterránea con cerradura, Garaje, Plaza de aparcamiento</attribute>
+        <attribute id="134" title="Possibilités de parking" language="FR">Parking privé, Aire de stationnement publique, Garage verrouillable, Carport, Stationnement dans un garage verrouillable, Garage, Parking</attribute>
+        <attribute id="134" title="Parcheggi disponibili" language="IT">Parcheggio privato sul terreno / nel cortile, Parcheggio pubblico, Garage con serratura, Carport, Posto macchina in garage con serratura, Garage, Parcheggio</attribute>
+        <attribute id="193" title="Aussicht aus dem Objekt" language="DE">Meer/See, Fluss, Berge, Garten, Wald, Wiese, Straße, Sicht verbaut, Tal</attribute>
+        <attribute id="193" title="View from the holiday home" language="EN">Sea/lake, River, Mountains, Garden, forest, meadow, Street, View is blocked, Valley</attribute>
+        <attribute id="193" title="Vistas desde el alojamiento" language="ES">Mar/Lago, Río, Montañas, Jardín, Bosque, Prado, Carretera , Sin vistas por edificaciones, Valle</attribute>
+        <attribute id="193" title="Vue à partir de l'objet" language="FR">Mer/lac, Fleuve, Montagnes, Jardin/forêt/prairie, Route, La vue est bloquée, Vallée</attribute>
+        <attribute id="193" title="Panorama dall'oggetto" language="IT">Mare / Lago, Fiume, Montagne, Giardino, bosco, prato, Strada, Senza vista panoramica, Valle</attribute>
+        <attribute id="200" title="Entfernung Stadt" language="DE">10 km</attribute>
+        <attribute id="200" title="Distance to town" language="EN">10 km</attribute>
+        <attribute id="200" title="Distancia a la ciudad" language="ES">10 km</attribute>
+        <attribute id="200" title="Distance de la ville" language="FR">10 km</attribute>
+        <attribute id="200" title="Distanza dalla città" language="IT">10 km</attribute>
+        <attribute id="201" title="Entfernung Stadtzentrum" language="DE">12 km</attribute>
+        <attribute id="201" title="Distance to town centre" language="EN">12 km</attribute>
+        <attribute id="201" title="distancia al centro ciudad" language="ES">12 km</attribute>
+        <attribute id="201" title="Distance du centre ville" language="FR">12 km</attribute>
+        <attribute id="201" title="Distanza dal centro abitato" language="IT">12 km</attribute>
+        <attribute id="202" title="Entfernung Restaurant" language="DE">1 km</attribute>
+        <attribute id="202" title="Distance to next restaurant" language="EN">1 km</attribute>
+        <attribute id="202" title="Distancia a restaurante" language="ES">1 km</attribute>
+        <attribute id="202" title="Distance restaurant" language="FR">1 km</attribute>
+        <attribute id="202" title="Distanza dal ristorante" language="IT">1 km</attribute>
+        <attribute id="203" title="Entfernung Einkaufsmöglichkeit" language="DE">10 km</attribute>
+        <attribute id="203" title="Distance to next shopping facilities" language="EN">10 km</attribute>
+        <attribute id="203" title="Distancia a comercio" language="ES">10 km</attribute>
+        <attribute id="203" title="Distance possibilité d'achat" language="FR">10 km</attribute>
+        <attribute id="203" title="Distanza dai negozi" language="IT">10 km</attribute>
+        <attribute id="204" title="Entfernung Meer" language="DE">12,57 km</attribute>
+        <attribute id="204" title="Distance to the sea" language="EN">12,57 km</attribute>
+        <attribute id="204" title="Distancia al mar" language="ES">12,57 km</attribute>
+        <attribute id="204" title="Distance mer" language="FR">12,57 km</attribute>
+        <attribute id="204" title="Distanza dal mare" language="IT">12,57 km</attribute>
+        <attribute id="206" title="Strandart" language="DE">Sandstrand</attribute>
+        <attribute id="206" title="Type of beach" language="EN">Sandy  beach</attribute>
+        <attribute id="206" title="Tipo de playa" language="ES">Playa de arena</attribute>
+        <attribute id="206" title="Type de plage" language="FR">Plage de sable</attribute>
+        <attribute id="206" title="Tipo di spiaggia" language="IT">Spiaggia di sabbia</attribute>
+        <attribute id="223" title="Sportmöglichkeiten in der Umgebung" language="DE">Angeln, Basketball, Bergsteigen, Bolzplatz, Eislaufen, Golfplatz, Jagdmöglichkeit, Kanu, Klettern, Mountainbiking, Paragliding, Radtouren, Rafting, Reitboxen (Gäste), Reithalle, Reitplatz / Reitmöglichkeiten, Rodeln, Rudern, Ski (alpin), Ski (Langlauf), Sportcenter, Squash, Surfen, Tauchen, Tennis, Wasserski, Segeln</attribute>
+        <attribute id="223" title="Nearby sports facilities" language="EN">Fishing, Basketball, Mountain climbing, Football area, Ice skating, Golf course, Hunting facilities, Canoeing, Climbing, Mountainbiking, Paragliding, Bike tours, Rafting, Horse stalls (guests), Indoor riding arena, Riding possibilities, Toboggen, Rowing, Skiing (alpin), Cross-country skiing, Sport center, Squash, Surfing, Diving, Tennis, Water skiing, Sailing</attribute>
+        <attribute id="223" title="Facilidades deportivas en los alrededores" language="ES">Pesca, Baloncesto, Alpinismo, Cancha de fútbol, Patinaje sobre hielo, Campo de golf, Caza, Canoa, Escalada, Bicicleta de montaña, Parapente, Rutas de ciclismo, Rafting, Cuadras (para húespedes), Pabellón de equitación, Plaza hípica / equitación, Trineo, Remo, Esquí (alpino), Esquí (nórdico), Centro deportivo, Squash, Surf, Buceo, Tenis, Esquí acuático, Vela</attribute>
+        <attribute id="223" title="Possibilités de sport à proximité" language="FR">Pêche à la ligne, Basketball, Ascension, Terrain de jeu, Patin à glace, Terraine de golf , Possibilité de chasse, Canoé, Escalade, VTT, Paragliding, Tours en vélo, Rafting, Boxes pour chevaux (invités), Manège, Possibilités de faire du cheval, luge, Aviron, Ski alpin, Ski de fond, Centre de sport, Squash, Surf, Plongée, Tennis, Ski nautique, Voile</attribute>
+        <attribute id="223" title="Impianti sportivi nei dintorni" language="IT">Pescare, Pallacanestro, Scalare, Campetto da calcio, Pattinare, Campo da golf, Possibilità di caccia, Canoa, Arrampicarsi, Mountain biking, Paragliding, Gite in bicicletta, Rafting, Box cavalli (per gli ospiti), Scuola di equitazione, Campo di equitazione / possibilità di equitazione, Slittare, Remare, Sci (discesa), Sci (fondo), Centro sportivo, Squash, Andare in surf, Snorkeling, Tennis, Sci d'acqua, Fare della vela</attribute>
+        <attribute id="225" title="Leihmöglichkeiten" language="DE">Bootsverleih, Fahrradverleih, Ski-, Snowboard- oder Schlittenverleih</attribute>
+        <attribute id="225" title="Rental Facilities" language="EN">Boat rental service, Bicycle rental service, Ski-, Snowboard</attribute>
+        <attribute id="225" title="Posibilidad de alquiler" language="ES">Alquiler de barcas, Alquiler de bicis, Alquiler de esquís, snow o trineos</attribute>
+        <attribute id="225" title="Possibilités de location" language="FR">Location de bateau, Location de bicyclette, Location de ski, snowboard ou luge</attribute>
+        <attribute id="225" title="Possibilità di noleggio" language="IT">Noleggio barche, Noleggio biciclette, Noleggio sci, snowboard o slitte</attribute>
+        <attribute id="227" title="Ausflugsmöglichkeiten" language="DE">Testrr_Ausflug_DE</attribute>
+        <attribute id="227" title="Excursion possibilities" language="EN">Testrr_Ausflug_EN</attribute>
+        <attribute id="227" title="Excursiones" language="ES">Testrr_Ausflug_ES</attribute>
+        <attribute id="227" title="Possibilités d'excursion" language="FR">Testrr_Ausflug_FR</attribute>
+        <attribute id="227" title="Mete per escursioni" language="IT">Testrr_Ausflug_IT</attribute>
+        <attribute id="266" title="Entfernung nächster Skilift/Bergbahn/Loipe" language="DE">0,5 km</attribute>
+        <attribute id="266" title="Distance to next ski lift/mountain railway/cross-country skiing trail" language="EN">0,5 km</attribute>
+        <attribute id="266" title="Distancia a telesquí/remonte/pista de esquí nórdico" language="ES">0,5 km</attribute>
+        <attribute id="266" title="Distance au prochain élévateur de ski/chemin de fer alpin" language="FR">0,5 km</attribute>
+        <attribute id="266" title="Distanza da skilift / funicolare / pista più vicino/a" language="IT">0,5 km</attribute>
+        <attribute id="290" title="Entfernung See" language="DE">16 km</attribute>
+        <attribute id="290" title="Distance to lake" language="EN">16 km</attribute>
+        <attribute id="290" title="Distancia al lago" language="ES">16 km</attribute>
+        <attribute id="290" title="Distance au lac" language="FR">16 km</attribute>
+        <attribute id="290" title="Distanza dal lago" language="IT">16 km</attribute>
+        <attribute id="295" title="Unmittelbare Umgebung" language="DE">Diskothek, Restaurant, Freizeitanlage, öffentliche Parkplätze</attribute>
+        <attribute id="295" title="Direct surroundings" language="EN">Disco, Restaurant, Leisure area, Public parking</attribute>
+        <attribute id="295" title="Proximidades" language="ES">Discoteca, Restaurante, Centro de ocio, Aparcamiento público</attribute>
+        <attribute id="295" title="Possibilités de loisirs dans les environs" language="FR">Discothèque, Restaurant, Installation de loisir, Parking publique</attribute>
+        <attribute id="295" title="Immediate vicinanze" language="IT">Discoteca, Ristorante, Impianto per il tempo libero, Parcheggi pubblici</attribute>
+        <attribute id="296" title="Sonstige Sport- und Freizeitmöglichkeiten" language="DE">Testrr_Sport_DE</attribute>
+        <attribute id="296" title="Other leisure facilities" language="EN">Testrr_Sport_EN</attribute>
+        <attribute id="296" title="Otras facilidades de deporte y ocio" language="ES">Testrr_Sport_ES</attribute>
+        <attribute id="296" title="Autres possibilités de loisirs" language="FR">Testrr_Sport_FR</attribute>
+        <attribute id="296" title="Altri impianti sportivi e per il tempo libero" language="IT">Testrr_Sport_IT</attribute>
+        <attribute id="314" title="Sonstiges" language="DE">Testrr_Umgebung_DE</attribute>
+        <attribute id="314" title="Other" language="EN">Testrr_Umgebung_EN</attribute>
+        <attribute id="314" title="Otros" language="ES">Testrr_Umgebung_ES</attribute>
+        <attribute id="314" title="Divers" language="FR">Testrr_Umgebung_FR</attribute>
+        <attribute id="314" title="Altro" language="IT">Testrr_Umgebung_IT</attribute>
+        <attribute id="318" title="Sonstige Aussichten" language="DE">Testrr_Aussicht_DE</attribute>
+        <attribute id="318" title="Other views" language="EN">Testrr_Aussicht_EN</attribute>
+        <attribute id="318" title="Otras vistas" language="ES">Testrr_Aussicht_ES</attribute>
+        <attribute id="318" title="Autres vues" language="FR">Testrr_Aussicht_FR</attribute>
+        <attribute id="318" title="Altre viste" language="IT">Testrr_Aussicht_IT</attribute>
+        <attribute id="319" title="Sonstiges" language="DE">Testrr_Entfernung_DE</attribute>
+        <attribute id="319" title="Other" language="EN">Testrr_Entfernung_EN</attribute>
+        <attribute id="319" title="Otros" language="ES">Testrr_Entfernung_ES</attribute>
+        <attribute id="319" title="Divers" language="FR">Testrr_Entfernung_FR</attribute>
+        <attribute id="319" title="Altro" language="IT">Testrr_Entfernung_IT</attribute>
+        <attribute id="322" title="Ortsbeschreibung" language="DE">Testrr_Ort_DE</attribute>
+        <attribute id="322" title="Location description" language="EN">Testrr_Ort_EN</attribute>
+        <attribute id="322" title="Descripción de la población" language="ES">Testrr_Ort_ES</attribute>
+        <attribute id="322" title="Description du lieu" language="FR">Testrr_Ort_FR</attribute>
+        <attribute id="322" title="Descrizione del luogo" language="IT">Testrr_Ort_IT</attribute>
+        <attribute id="342" title="Entfernung Fjord" language="DE">12 km</attribute>
+        <attribute id="342" title="Distance to fjord" language="EN">12 km</attribute>
+        <attribute id="342" title="Distancia al fiordo" language="ES">12 km</attribute>
+        <attribute id="342" title="Distance du fjord" language="FR">12 km</attribute>
+        <attribute id="342" title="Distanza dal fiordo" language="IT">12 km</attribute>
+        <attribute id="343" title="Entfernung Angelmöglichkeit" language="DE">0,56 km</attribute>
+        <attribute id="343" title="Distance to fishing spot" language="EN">0,56 km</attribute>
+        <attribute id="343" title="Distancia a lugar de pesca" language="ES">0,56 km</attribute>
+        <attribute id="343" title="Distance du lieu de pêche" language="FR">0,56 km</attribute>
+        <attribute id="343" title="Distanza dalle possibilità di pesca" language="IT">0,56 km</attribute>
+        <attribute id="344" title="Entfernung Gewässer" language="DE">12,567 km</attribute>
+        <attribute id="344" title="Distance to waters" language="EN">12,567 km</attribute>
+        <attribute id="344" title="Distancia a lago/río" language="ES">12,567 km</attribute>
+        <attribute id="344" title="Distance de l'eau" language="FR">12,567 km</attribute>
+        <attribute id="344" title="Distanza dall'acqua" language="IT">12,567 km</attribute>
+        <attribute id="355" title="Name der Stadt" language="DE">Testrr_Stadt_DE</attribute>
+        <attribute id="355" title="Town name" language="EN">Testrr_Stadt_EN</attribute>
+        <attribute id="355" title="Nombre de la ciudad" language="ES">Testrr_Stadt_ES</attribute>
+        <attribute id="355" title="Nom de la ville" language="FR">Testrr_Stadt_FR</attribute>
+        <attribute id="355" title="Nome della città" language="IT">Testrr_Stadt_IT</attribute>
+        <attribute id="375" title="Name des Sees" language="DE">Testrr_See_DE</attribute>
+        <attribute id="375" title="Name of the lake" language="EN">Testrr_See_EN</attribute>
+        <attribute id="375" title="nombre del lago" language="ES">Testrr_See_ES</attribute>
+        <attribute id="375" title="nom du lac" language="FR">Testrr_See_FR</attribute>
+        <attribute id="375" title="nome del lago" language="IT">Testrr_See_IT</attribute>
+        <attribute id="376" title="Name des Meeres" language="DE">Testrr_Meer_DE</attribute>
+        <attribute id="376" title="Name of the sea" language="EN">Testrr_Meer_EN</attribute>
+        <attribute id="376" title="nombre del mar" language="ES">Testrr_Meer_ES</attribute>
+        <attribute id="376" title="nom de la mere" language="FR">Testrr_Meer_FR</attribute>
+        <attribute id="376" title="nome del mare" language="IT">Testrr_Meer_IT</attribute>
+        <attribute id="377" title="Name des Skigebietes" language="DE">Testrr_Ski_DE</attribute>
+        <attribute id="377" title="Name of the ski-region" language="EN">Testrr_Ski_EN</attribute>
+        <attribute id="377" title="nombre del área esquiable" language="ES">Testrr_Ski_ES</attribute>
+        <attribute id="377" title="nom de la région de ski" language="FR">Testrr_Ski_FR</attribute>
+        <attribute id="377" title="nome della regione di sci" language="IT">Testrr_Ski_IT</attribute>
+      </category>
+	  
+      53-0 <category id="53-0" title="Anfahrtsinformationen">
+        <attribute id="210" title="Auto ist notwendig" language="DE"/>
+        <attribute id="210" title="Car is necessary" language="EN"/>
+        <attribute id="210" title="Coche imprescindible" language="ES"/>
+        <attribute id="210" title="Voiture nécessaire" language="FR"/>
+        <attribute id="210" title="Necessaria una macchina propria" language="IT"/>
+        <attribute id="379" title="Planquadrat im Ortsplan" language="DE">A3</attribute>
+        <attribute id="379" title="Grid Square in city map" language="EN">A3</attribute>
+        <attribute id="379" title="Grid Square in city map" language="ES">A3</attribute>
+        <attribute id="379" title="Cadratin sur le plan de la localité" language="FR">A3</attribute>
+        <attribute id="379" title="Quadrato sulla pianta della località" language="IT">A3</attribute>
+      </category>
+	  
+	  
+    </features>
+    
+	<ratings>
+      <average_rating/>
+    </ratings>
+    
+	<pictures>
+      <picture id="473431851" attribute_no="236" description="Interior view" picture_size="2" url="http://image.e-domizil.de/userimages/1264/up_90897240-EA1D-4270-9F7C4ACEB94F55C6_mittel_1264.jpg"/>
+      <picture id="473431852" attribute_no="239" description="360°- view" picture_size="3" url="http://jjj.dancenter.com/pubweb/pano/frameset-de/25472/panorama.html"/>
+      <picture id="473431855" attribute_no="244" description="Picture 2" picture_size="3" url="http://image.e-domizil.de/userimages/1264/up_90897240-EA1D-4270-9F7C4ACEB94F55C6_gross_1264.jpg"/>
+      <picture id="473431856" attribute_no="245" description="Picture 3" picture_size="3" url="http://image.e-domizil.de/userimages/1264/aussen2_31411_b.jpg"/>
+      <picture id="473431857" attribute_no="246" description="Picture 4" picture_size="3" url="http://image.e-domizil.de/userimages/1264/up_871_gross_1264.jpg"/>
+      <picture id="473431858" attribute_no="247" description="Picture 5" picture_size="3" url="http://image.e-domizil.de/userimages/1264/up_789_gross_1264.jpg"/>
+      <picture id="473431859" attribute_no="251" description="Floor plan" picture_size="3" url="http://image.e-domizil.de/userimages/1264/aussen1_olive_b.jpg"/>
+      <picture id="473431860" attribute_no="327" description="Picture 6" picture_size="3" url="http://image.e-domizil.de/userimages/1264/up_57_gross_1264.jpg"/>
+      <picture id="475707254" attribute_no="329" description="Picture 8" picture_size="3" url="http://image.e-domizil.de/userimages/1264/up_7B5387BD-F963-3430-1AB5E779B72ED6A7_gross_1264.jpg"/>
+      <picture id="475707255" attribute_no="328" description="Picture 7" picture_size="3" url="http://image.e-domizil.de/userimages/1264/up_7B535952-ECE3-CD38-8A98187F0CF1ECFB_gross_1264.jpg"/>
+      <picture id="475707256" attribute_no="242" description="Picture sketch" picture_size="3" url="http://image.e-domizil.de/userimages/1264/up_7B53AAD4-F5A9-7F06-F3AB728E129E8A1C_gross_1264.jpg"/>
+      <picture id="475707261" attribute_no="330" description="Picture 9" picture_size="3" url="http://image.e-domizil.de/userimages/1264/up_7B8D59F2-BBF3-F1E9-689D05919B2AEF74_gross_1264.jpg"/>
+      <picture id="475707265" attribute_no="234" description="Exterior view (small)" picture_size="1" url="http://image.e-domizil.de/userimages/1264/up_7B9AFCBC-E3EF-146A-F0A6CF01DBBB6A19_thumb_1264.jpg"/>
+      <picture id="475707266" attribute_no="235" description="Exterior view" picture_size="2" url="http://image.e-domizil.de/userimages/1264/up_7B9AFCBC-E3EF-146A-F0A6CF01DBBB6A19_mittel_1264.jpg"/>
+      <picture id="475707267" attribute_no="243" description="Picture 1" picture_size="3" url="http://image.e-domizil.de/userimages/1264/up_7B9AFCBC-E3EF-146A-F0A6CF01DBBB6A19_gross_1264.jpg"/>
+      <picture id="482056497" attribute_no="331" description="Picture 10" picture_size="3" url="http://image.e-domizil.de/userimages/1264/up_B3FDDDD2-B2E1-FEA7-50757849042C218A_gross_1264.jpg"/>
+      <picture id="488602781" attribute_no="332" description="Picture 11" picture_size="3" url="http://image.e-domizil.de/userimages/1264/up_E76E4FB1-F9D6-4E60-FCF040AB592EBBC9_gross_1264.jpg"/>
+    </pictures>
+	
+    <link Language="DE">http://www.e-domizil.de/ferienhaus/1264/testobjekt-de-oberursel-hessen-deutschland/?partner=115591000000</link>
+    <link Language="EN">http://www.e-domizil.com/holiday-house/1264/testobjekt-en-oberursel-hesse-germany/?partner=115591000000</link>
+    <link Language="FR">http://www.e-domizil.fr/maison-de-vacances/1264/testobjekt-fr-oberursel-hesse-allemagne/?partner=115591000000</link>
+    <link Language="ES">http://www.e-domizil.es/casa-de-vacaciones/1264/testobjekt-es-oberursel-hesse-alemania/?partner=115591000000</link>
+    <link Language="IT">http://www.e-domizil.it/casa-di-vacanza/1264/testobjekt-it-oberursel-assia-germania/?partner=115591000000</link>
+  
+  </domizil>
+  
+</Resultset>

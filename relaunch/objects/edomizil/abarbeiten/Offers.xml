@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ROOT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.e-domizil.de/Schnittstellen/XML/Offers.xsd">
+  <Offer ID="1" DE="Finca Urlaub" EN="Finca holidays" FR="Petite maison de campagne" ES="vacaciones en fincas" IT="Vacanza in finca" active="1"/>
+  <Offer ID="2" DE="Weingüter" EN="Wineries" FR="Domaine viticole" ES="fincas vinícolas" IT="Vigneti" active="1"/>
+  <Offer ID="3" DE="Urlaub auf dem Bauernhof" EN="Farm Holidays" FR="Maison de campagne" ES="vacaciones en la granja" IT="Ville di campagna / Casolari" active="1"/>
+  <Offer ID="4" DE="Cottages" EN="Cottages" FR="Cottages" ES="cottages" IT="Villini" active="0"/>
+  <Offer ID="5" DE="Luxusferienhäuser" EN="Luxurious Holiday Properties" FR="Propriété de vacances de luxe" ES="viviendas de lujo" IT="Residenze per ferie di lusso" active="1"/>
+  <Offer ID="6" DE="Außergewöhnliche Feriendomizile" EN="Extraordinary Holiday Properties" FR="Lieux exceptionnels" ES="apartamentos extraordinarios" IT="Oggetti fuori del comune" active="1"/>
+  <Offer ID="7" DE="Schlösser und Palazzi" EN="Palaces and Palazzi" FR="Châteaux et Palaces" ES="palacios y mansiones" IT="Ville e palazzi" active="0"/>
+  <Offer ID="8" DE="Burgen und Festungen" EN="Castles and Fortresses" FR="Châteaux forts et Forteresses" ES="castillos y fortalezas" IT="Castelli e fortezze" active="0"/>
+  <Offer ID="9" DE="Hütten und Chalets" EN="Chalets and Cabins" FR="Huttes et Chalets" ES="grandes chalets alpinos" IT="Rifugi e baite" active="1"/>
+  <Offer ID="10" DE="Behindertengerechte Ferienhäuser" EN="Handicapped Accessible" FR="Accès pour handicapés" ES="casas adaptadas para minusválidos" IT="Oggetti accessibili ai disabili" active="1"/>
+  <Offer ID="11" DE="Leuchttürme" EN="Lighthouses" FR="Phares" ES="faros" IT="Fari" active="0"/>
+  <Offer ID="12" DE="Hausboote / Segelschiffe" EN="Houseboats / Sailing Boats" FR="Bateau de maison / Voilier" ES="casas flotantes y veleros" IT="Case galleggianti / barche a vela" active="1"/>
+  <Offer ID="13" DE="Mühlen u. Müllerhäuser" EN="Wind Mills and Water Mills" FR="Moulins à vent et à eau" ES="molinos" IT="Mulini e case di mugnai" active="0"/>
+  <Offer ID="14" DE="Golfurlaub" EN="Golf Houses" FR="Maison de golf" ES="casas de golf" IT="Golf house" active="1"/>
+  <Offer ID="15" DE="Angelurlaub" EN="Holiday Properties for Anglers" FR="Maison de pêcheur" ES="casas de pesca" IT="Case di pescatori" active="1"/>
+  <Offer ID="16" DE="Reiterferien" EN="Riding Holidays" FR="Vacances avec cheval" ES="vacaciones ecuestres" IT="Vacanze a cavallo" active="1"/>
+  <Offer ID="17" DE="Höhlenwohnungen" EN="Caves" FR="Maison troglodyte" ES="cuevas y viviendas trogloditas" IT="Appartamenti in grotta" active="0"/>
+  <Offer ID="18" DE="Agriturismo" EN="Agriturismo" FR="Agritourisme " ES="Agroturismo - Turismo rural" IT="Agriturismo" active="1"/>
+  <Offer ID="19" DE="Wellness" EN="Wellness" FR="Bien-être" ES="salud y bienestar" IT="Wellness" active="1"/>
+  <Offer ID="20" DE="Ferienhaus mit Whirlpool" EN="Holiday house with Whirlpool" FR="Avec jacuzzi" ES="alojamientos con yacuzzi" IT="con idromassaggio" active="0"/>
+  <Offer ID="21" DE="Ferienanlagen" EN="Holiday Resorts" FR="Village de vacances" ES="complejos-alojamientos con guardería" IT="Centri vacanze" active="1"/>
+  <Offer ID="23" DE="Design Objekte" EN="Design residences" FR="objets design" ES="casas de diseño" IT="Oggetti design" active="0"/>
+  <Offer ID="24" DE="Städtereisen" EN="Residences for city trips" FR="" ES="apartamentos para escapadas urbanas" IT="domicili per una gita in città" active="1"/>
+  <Offer ID="25" DE="Familienurlaub" EN="Family holiday" FR="Vacances avec la famille" ES="vacaciones en familia" IT="Vacanza con la famiglia" active="1"/>
+  <Offer ID="26" DE="Skihäuser" EN="Ski chalets" FR="Ski chalets" ES="alojamientos de esquí" IT="Ski chalets" active="1"/>
+  <Offer ID="27" DE="Unsere Empfehlungen" EN="Our recommendations" FR="Nos conseils" ES="recomendaciones de alojamientos" IT="Le nostre raccomandazioni" active="0"/>
+  <Offer ID="29" DE="Berlin DE" EN="Berlin DE" FR="Berlin DE" IT="Berlin DE" active="0"/>
+  <Offer ID="30" DE="Fonyod HU" EN="Fonyod HU" FR="Fonyod HU" IT="Fonyod HU" active="0"/>
+  <Offer ID="31" DE="Karlshagen DE" EN="Karlshagen DE" FR="Karlshagen DE" IT="Karlshagen DE" active="0"/>
+  <Offer ID="32" DE="Eckwarderhörne DE" EN="Eckwarderhörne DE" FR="Eckwarderhörne DE" IT="Eckwarderhörne DE" active="0"/>
+  <Offer ID="33" DE="Cala Ratjada ES" EN="Cala Ratjada ES" FR="Cala Ratjada ES" IT="Cala Ratjada ES" active="0"/>
+  <Offer ID="34" DE="Loiri Porto San Paolo IT" EN="Loiri Porto San Paolo IT" FR="Loiri Porto San Paolo IT" IT="Loiri Porto San Paolo IT" active="0"/>
+  <Offer ID="35" DE="Schönau am Königssee DE" EN="Schönau am Königssee DE" FR="Schönau am Königssee DE" IT="Schönau am Königssee DE" active="0"/>
+  <Offer ID="36" DE="Sciacca IT" EN="Sciacca IT" FR="Sciacca IT" IT="Sciacca IT" active="0"/>
+  <Offer ID="37" DE="Cuxhaven DE" EN="Cuxhaven DE" FR="Cuxhaven DE" IT="Cuxhaven DE" active="0"/>
+  <Offer ID="38" DE="Roma IT " EN="Roma IT " FR="Roma IT " IT="Roma IT " active="0"/>
+  <Offer ID="39" DE="Prag CZ" EN="Prag CZ" FR="Prag CZ" IT="Prag CZ" active="0"/>
+  <Offer ID="40" DE="Wien AT" EN="Wien AT" FR="Wien AT" IT="Wien AT" active="0"/>
+  <Offer ID="41" DE="St.Petersburg RU" EN="St.Petersburg RU" FR="St.Petersburg RU" IT="St.Petersburg RU" active="0"/>
+  <Offer ID="42" DE="Partner-Hund" EN="Partner-Hund" FR="Partner-Hund" IT="Partner-Hund" active="0"/>
+  <Offer ID="43" DE="Romantische Feriendomizile für Verliebte" EN="" FR="" IT="" active="0"/>
+  <Offer ID="44" DE="Feriendomizile aus Stein" EN="" FR="" IT="" active="0"/>
+  <Offer ID="45" DE="Domizile für Wassersportler" EN="" FR="" IT="" active="0"/>
+  <Offer ID="46" DE="Haustierfreundliche Luxusdomizile" EN="" FR="" IT="" active="0"/>
+  <Offer ID="47" DE="Aktivurlaub" EN="Active houses" FR="Actif maisons" ES="casas activas" IT="Attivo Casa" active="1"/>
+  <Offer ID="48" DE="Luxus-Wellnesshäuser" EN="" FR="" IT="" active="0"/>
+  <Offer ID="49" DE="Poolhäuser" EN="" FR="" IT="" active="0"/>
+  <Offer ID="50" DE="Qualitätsferienhäuser " EN="" FR="" IT="" active="0"/>
+  <Offer ID="51" DE="Casa-Domizile Interchalet" EN="" FR="" IT="" active="0"/>
+  <Offer ID="52" DE="Alternative Feriendomizile" EN="" FR="" IT="" active="0"/>
+  <Offer ID="53" DE="Club Dänemark" EN="Club Denmark" FR="" IT="" active="0"/>
+  <Offer ID="54" DE="Club Deutschland " EN="Club Germany" FR="" IT="" active="0"/>
+  <Offer ID="55" DE="Club Norwegen " EN="Club Norway" FR="" IT="" active="0"/>
+  <Offer ID="56" DE="Strandhäuser Interchalet" EN="" FR="" IT="" active="0"/>
+  <Offer ID="57" DE="Last Minute Club Q3" EN="Last Minute Club" FR="" IT="" active="0"/>
+  <Offer ID="58" DE="Last Minute Nordsee Club" EN="" FR="" IT="" active="0"/>
+  <Offer ID="59" DE="Last Minute Ostsee Club" EN="" FR="" IT="" active="0"/>
+  <Offer ID="60" DE="Südamerika" EN="" FR="" IT="" active="0"/>
+  <Offer ID="61" DE="Feriendorf Legoland" EN="Legoland Park" FR="Parc de Legoland" ES="parque de Legoland" IT="Parco di Legoland" active="0"/>
+  <Offer ID="62" DE="Ferienhäuser für Gruppen in Skigebieten" EN="" FR="" IT="" active="0"/>
+  <Offer ID="63" DE="Interhome Selection" EN="" FR="" IT="" active="0"/>
+  <Offer ID="64" DE="Last Minute T-Online" EN="Last Minute T-Online" FR="Last Minute T-Online" IT="Last Minute T-Online" active="0"/>
+  <Offer ID="65" DE="Urlaub auf dem Wasser" EN="Holidays on the sea" FR="Vacances en mer" ES="vacaciones en el mar" IT="Vacanza di mare" active="0"/>
+  <Offer ID="66" DE="Bed &amp; Breakfast" EN="Bed &amp; Breakfast" FR="" IT="" active="0"/>
+  <Offer ID="67" DE="Ab in die Berge!" EN="" FR="" IT="" active="0"/>
+  <Offer ID="68" DE="test" EN="test en" FR="test fr" IT="test it" active="0"/>
+  <Offer ID="69" DE="Nichtraucher Domizile" EN="Non Smoking Holiday Properties" FR="" ES="" IT="" active="0"/>
+  <Offer ID="70" DE="Mobile Feriendomizile" EN="Mobile Homes" FR="" ES="casas móviles" IT="" active="1"/>
+  <Offer ID="71" DE="zzz_Teaserobjekte" EN="" FR="" ES="" IT="" active="0"/>
+  <Offer ID="72" DE="Therme" EN="" FR="" ES="" IT="" active="0"/>
+  <Offer ID="73" DE="Ferienhaus Silvester" active="0"/>
+  <Offer ID="74" DE="Paris FR" EN="" FR="" ES="" IT="" active="0"/>
+  <Offer ID="75" DE="Freizeitparks" EN="theme parcs" FR="" ES="parque de atracciones" IT="" active="0"/>
+  <Offer ID="76" DE="Sonne &amp; Meer" EN="" FR="" ES="" IT="" active="0"/>
+  <Offer ID="77" DE="Landhäuser" EN="Cottages" FR="Cottages" ES="casas rurales" IT="casas di campagna" active="1"/>
+</ROOT>

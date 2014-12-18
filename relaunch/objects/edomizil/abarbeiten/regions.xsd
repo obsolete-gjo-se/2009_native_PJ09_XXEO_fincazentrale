@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<xs:element name="ROOT">
+		<xs:annotation>
+			<xs:documentation>Comment describing your root element</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Land" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="SubRegion1" minOccurs="0" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="SubRegion2" minOccurs="0" maxOccurs="unbounded">
+											<xs:complexType>
+												<xs:sequence>
+													<xs:element name="SubRegion3" minOccurs="0" maxOccurs="unbounded">
+														<xs:complexType>
+															<xs:attribute name="Number" type="xs:normalizedString" use="optional">
+																<xs:annotation>
+																	<xs:documentation xml:lang="DE">Regionsnumber  </xs:documentation>
+																	<xs:documentation xml:lang="EN">region code</xs:documentation>
+																</xs:annotation>
+															</xs:attribute>
+															<xs:attribute name="Name_DE" type="xs:normalizedString" use="optional">
+																<xs:annotation>
+																	<xs:documentation xml:lang="DE">Deutsche Regionsname</xs:documentation>
+																	<xs:documentation xml:lang="EN">German region name</xs:documentation>
+																</xs:annotation>
+															</xs:attribute>
+															<xs:attribute name="Name_EN" type="xs:normalizedString" use="optional">
+																<xs:annotation>
+																	<xs:documentation xml:lang="DE">Englische Regionsname</xs:documentation>
+																	<xs:documentation xml:lang="EN">English region name</xs:documentation>
+																</xs:annotation>
+															</xs:attribute>
+														</xs:complexType>
+													</xs:element>
+												</xs:sequence>
+												<xs:attribute name="Number" type="xs:normalizedString" use="optional">
+													<xs:annotation>
+														<xs:documentation xml:lang="DE">Regionsnumber  </xs:documentation>
+														<xs:documentation xml:lang="EN">region code</xs:documentation>
+													</xs:annotation>
+												</xs:attribute>
+												<xs:attribute name="Name_DE" type="xs:normalizedString" use="optional">
+													<xs:annotation>
+														<xs:documentation xml:lang="DE">Deutsche Regionsname</xs:documentation>
+														<xs:documentation xml:lang="EN">German region name</xs:documentation>
+													</xs:annotation>
+												</xs:attribute>
+												<xs:attribute name="Name_EN" type="xs:normalizedString" use="optional">
+													<xs:annotation>
+														<xs:documentation xml:lang="DE">Englische Regionsname</xs:documentation>
+														<xs:documentation xml:lang="EN">English region name</xs:documentation>
+													</xs:annotation>
+												</xs:attribute>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+									<xs:attribute name="Number" type="xs:normalizedString" use="optional">
+										<xs:annotation>
+											<xs:documentation xml:lang="DE">Regionsnumber  </xs:documentation>
+											<xs:documentation xml:lang="EN">region code</xs:documentation>
+										</xs:annotation>
+									</xs:attribute>
+									<xs:attribute name="Name_DE" type="xs:normalizedString" use="optional">
+										<xs:annotation>
+											<xs:documentation xml:lang="DE">Deutsche Regionsname</xs:documentation>
+											<xs:documentation xml:lang="EN">German region name</xs:documentation>
+										</xs:annotation>
+									</xs:attribute>
+									<xs:attribute name="Name_EN" type="xs:normalizedString" use="optional">
+										<xs:annotation>
+											<xs:documentation xml:lang="DE">Englische Regionsname</xs:documentation>
+											<xs:documentation xml:lang="EN">English region name</xs:documentation>
+										</xs:annotation>
+									</xs:attribute>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+						<xs:attribute name="Nr" type="xs:integer" use="required">
+							<xs:annotation>
+								<xs:documentation xml:lang="DE">Interne Landsnumber  </xs:documentation>
+								<xs:documentation xml:lang="EN">Internal land number</xs:documentation>
+							</xs:annotation>
+						</xs:attribute>
+						<xs:attribute name="ISO" use="required">
+							<xs:simpleType>
+								<xs:restriction base="xs:normalizedString">
+									<xs:minLength value="2"/>
+									<xs:maxLength value="2"/>
+								</xs:restriction>
+							</xs:simpleType>
+						</xs:attribute>
+						<xs:attribute name="Name_DE" type="xs:normalizedString" use="required">
+							<xs:annotation>
+								<xs:documentation xml:lang="DE">Deutsche Landname</xs:documentation>
+								<xs:documentation xml:lang="EN">German land name</xs:documentation>
+							</xs:annotation>
+						</xs:attribute>
+						<xs:attribute name="Name_EN" type="xs:normalizedString" use="required">
+							<xs:annotation>
+								<xs:documentation xml:lang="DE">Englische Landname</xs:documentation>
+								<xs:documentation xml:lang="EN">English land name</xs:documentation>
+							</xs:annotation>
+						</xs:attribute>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

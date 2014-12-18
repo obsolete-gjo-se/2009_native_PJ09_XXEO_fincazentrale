@@ -1,0 +1,1 @@
+<span><?php echo $row_Allgemein['Header H1']; ?></span>

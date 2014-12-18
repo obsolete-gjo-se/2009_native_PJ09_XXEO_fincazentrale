@@ -1,0 +1,2685 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Attributs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.e-domizil.de/Schnittstellen/XML/Attributs.xsd">
+  <Attribut>
+    <Nr>113</Nr>
+    <KategorieNr>1</KategorieNr>
+    <Typ>6</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Art des Objektes</AttributDE>
+    <AttributEN>Property type</AttributEN>
+    <AttributFR>Type d' objet</AttributFR>
+    <AttributSP>Tipo de alojamiento</AttributSP>
+    <AttributIT>Tipo di oggetto</AttributIT>
+    <Lookup>ObjektArt</Lookup>
+  </Attribut>
+  <Attribut>
+    <Nr>114</Nr>
+    <KategorieNr>1</KategorieNr>
+    <Typ>5</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Nutzung</AttributDE>
+    <AttributEN>Use</AttributEN>
+    <AttributFR>Utilisation</AttributFR>
+    <AttributSP>uso</AttributSP>
+    <AttributIT>Uso</AttributIT>
+    <Lookup>Nutzung</Lookup>
+  </Attribut>
+  <Attribut>
+    <Nr>115</Nr>
+    <KategorieNr>1</KategorieNr>
+    <Typ>6</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Ferienobjektkategorie</AttributDE>
+    <AttributEN>Holiday category</AttributEN>
+    <AttributFR>Catégorie d'objet de vacances</AttributFR>
+    <AttributSP>Categoría de alojamiento de vacaciones</AttributSP>
+    <AttributIT>Categoria oggetti per ferie</AttributIT>
+    <Lookup>Objektkategorie</Lookup>
+  </Attribut>
+  <Attribut>
+    <Nr>116</Nr>
+    <KategorieNr>1</KategorieNr>
+    <Typ>6</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Angaben zum Gesamtobjekt</AttributDE>
+    <AttributEN>Specifications of the holiday home</AttributEN>
+    <AttributFR>Spécifications de la maison</AttributFR>
+    <AttributSP>información sobre el conjunto del inmueble</AttributSP>
+    <AttributIT>Dati sull'oggetto completo</AttributIT>
+    <Lookup>ObjektLage</Lookup>
+  </Attribut>
+  <Attribut>
+    <Nr>117</Nr>
+    <KategorieNr>1</KategorieNr>
+    <Typ>5</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Äußerer Gesamteindruck</AttributDE>
+    <AttributEN>Exterior overall impression</AttributEN>
+    <AttributFR>Impression extérieure générale</AttributFR>
+    <AttributSP>Impresión general exterior</AttributSP>
+    <AttributIT>Impressione generale degli esterni</AttributIT>
+    <Lookup>AussenEindruck</Lookup>
+  </Attribut>
+  <Attribut>
+    <Nr>118</Nr>
+    <KategorieNr>1</KategorieNr>
+    <Typ>5</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Gesamteindruck Möblierung und Ausstattung</AttributDE>
+    <AttributEN>Overall impression furnishing and features</AttributEN>
+    <AttributFR>Impression générale ameublement et équipement</AttributFR>
+    <AttributSP>Impresión general mobiliario y equipamiento</AttributSP>
+    <AttributIT>Impressione generale di arredamento e dotazioni</AttributIT>
+    <Lookup>GesamteindruckMöbel</Lookup>
+  </Attribut>
+  <Attribut>
+    <Nr>119</Nr>
+    <KategorieNr>1</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>2050</Maximalwert>
+    <AttributDE>Vermietung seit</AttributDE>
+    <AttributEN>Let since</AttributEN>
+    <AttributFR>Location depuis</AttributFR>
+    <AttributSP>Se alquila desde</AttributSP>
+    <AttributIT>Affitto dal</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>120</Nr>
+    <KategorieNr>1</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>2050</Maximalwert>
+    <AttributDE>Letzte Renovierung Außenbereich</AttributDE>
+    <AttributEN>Last external renovation</AttributEN>
+    <AttributFR>Dernière rénovation extérieure</AttributFR>
+    <AttributSP>Última reforma exterior</AttributSP>
+    <AttributIT>Data ultimo rinnovo zona esterna</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>121</Nr>
+    <KategorieNr>1</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>2050</Maximalwert>
+    <AttributDE>Letzte Renovierung Innenbereich</AttributDE>
+    <AttributEN>Last internal renovation</AttributEN>
+    <AttributFR>Dernière rénovation intérieure</AttributFR>
+    <AttributSP>Última reforma interior</AttributSP>
+    <AttributIT>Data ultimo rinnovo zona interna</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>122</Nr>
+    <KategorieNr>1</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>2050</Maximalwert>
+    <AttributDE>Letzte Renovierung Sanitärbereich</AttributDE>
+    <AttributEN>Last sanitary renovation</AttributEN>
+    <AttributFR>Dernière rénovation des sanitaires</AttributFR>
+    <AttributSP>última reforma sanitarios</AttributSP>
+    <AttributIT>Data ultimo rinnovo sanitari</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>124</Nr>
+    <KategorieNr>1</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>10</Maximalwert>
+    <AttributDE>Anzahl Wohnzimmer</AttributDE>
+    <AttributEN>Number of living rooms</AttributEN>
+    <AttributFR>Nombre total de pièces</AttributFR>
+    <AttributSP>Nº de salones</AttributSP>
+    <AttributIT>Totale soggiorno</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>125</Nr>
+    <KategorieNr>1</KategorieNr>
+    <Typ>2</Typ>
+    <Minimalwert>0</Minimalwert>
+    <Maximalwert>1000</Maximalwert>
+    <AttributDE>Wohnfläche</AttributDE>
+    <AttributEN>Living area</AttributEN>
+    <AttributFR>Surface de logement</AttributFR>
+    <AttributSP>Superficie útil</AttributSP>
+    <AttributIT>Superficie abitabile</AttributIT>
+    <EinheitDE>m²</EinheitDE>
+    <EinheitEN>m²</EinheitEN>
+    <EinheitFR>m²</EinheitFR>
+    <EinheitSP>m²</EinheitSP>
+    <EinheitIT>m²</EinheitIT>
+  </Attribut>
+  <Attribut>
+    <Nr>126</Nr>
+    <KategorieNr>1</KategorieNr>
+    <Typ>3</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Grundstücksfläche</AttributDE>
+    <AttributEN>Property area</AttributEN>
+    <AttributFR>Surface de terrain</AttributFR>
+    <AttributSP>Superficie del terreno</AttributSP>
+    <AttributIT>Superficie del terreno</AttributIT>
+    <EinheitDE>m²</EinheitDE>
+    <EinheitEN>m²</EinheitEN>
+    <EinheitFR>m²</EinheitFR>
+    <EinheitSP>m²</EinheitSP>
+    <EinheitIT>m²</EinheitIT>
+  </Attribut>
+  <Attribut>
+    <Nr>127</Nr>
+    <KategorieNr>1</KategorieNr>
+    <Typ>2</Typ>
+    <Minimalwert>1</Minimalwert>
+    <Maximalwert>30</Maximalwert>
+    <AttributDE>Normalbelegung</AttributDE>
+    <AttributEN>Normal occupancy</AttributEN>
+    <AttributFR>Occupation normale</AttributFR>
+    <AttributSP>Ocupación normal</AttributSP>
+    <AttributIT>Numero standard persone</AttributIT>
+    <EinheitDE>Personen</EinheitDE>
+    <EinheitEN>Persons</EinheitEN>
+    <EinheitFR>Personnes</EinheitFR>
+    <EinheitSP>Personas</EinheitSP>
+    <EinheitIT>Persone</EinheitIT>
+  </Attribut>
+  <Attribut>
+    <Nr>128</Nr>
+    <KategorieNr>1</KategorieNr>
+    <Typ>2</Typ>
+    <Minimalwert>1</Minimalwert>
+    <Maximalwert>30</Maximalwert>
+    <AttributDE>Maximalbelegung</AttributDE>
+    <AttributEN>Maximum occupancy</AttributEN>
+    <AttributFR>Occupation maximale</AttributFR>
+    <AttributSP>Ocupación máxima</AttributSP>
+    <AttributIT>Numero massimo persone</AttributIT>
+    <EinheitDE>Personen</EinheitDE>
+    <EinheitEN>Persons</EinheitEN>
+    <EinheitFR>Personnes</EinheitFR>
+    <EinheitSP>Personas</EinheitSP>
+    <EinheitIT>Persone</EinheitIT>
+  </Attribut>
+  <Attribut>
+    <Nr>129</Nr>
+    <KategorieNr>13</KategorieNr>
+    <Typ>5</Typ>
+    <Maximalwert>99</Maximalwert>
+    <AttributDE>Heizung</AttributDE>
+    <AttributEN>Heating</AttributEN>
+    <AttributFR>Chauffage</AttributFR>
+    <AttributSP>Calefacción</AttributSP>
+    <AttributIT>Riscaldamento</AttributIT>
+    <Lookup>Heizung</Lookup>
+  </Attribut>
+  <Attribut>
+    <Nr>130</Nr>
+    <KategorieNr>13</KategorieNr>
+    <Typ>5</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Klimatisierung</AttributDE>
+    <AttributEN>Air conditioning</AttributEN>
+    <AttributFR>Air conditionné</AttributFR>
+    <AttributSP>Climatización</AttributSP>
+    <AttributIT>Impianto di condizionamento</AttributIT>
+    <Lookup>Klimatisierung</Lookup>
+  </Attribut>
+  <Attribut>
+    <Nr>131</Nr>
+    <KategorieNr>13</KategorieNr>
+    <Typ>6</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Unterhaltungselektronik</AttributDE>
+    <AttributEN>Entertainment electronics</AttributEN>
+    <AttributFR>Électronique de divertissement</AttributFR>
+    <AttributSP>Equipos de imagen y sonido</AttributSP>
+    <AttributIT>Elettronica per il tempo libero</AttributIT>
+    <Lookup>Elektronik</Lookup>
+  </Attribut>
+  <Attribut>
+    <Nr>132</Nr>
+    <KategorieNr>13</KategorieNr>
+    <Typ>1</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Sonstige Unterhaltungselektronik</AttributDE>
+    <AttributEN>Other entertainment electronics</AttributEN>
+    <AttributFR>Autre électronique de divertissement</AttributFR>
+    <AttributSP>Otros imagen y sonido</AttributSP>
+    <AttributIT>Altra elettronica per il tempo libero</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>133</Nr>
+    <KategorieNr>13</KategorieNr>
+    <Typ>6</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Telekommunikation</AttributDE>
+    <AttributEN>Telecommunications</AttributEN>
+    <AttributFR>Télécommunications</AttributFR>
+    <AttributSP>Telecomunicaciones</AttributSP>
+    <AttributIT>Telecomunicazioni</AttributIT>
+    <Lookup>Telekom</Lookup>
+  </Attribut>
+  <Attribut>
+    <Nr>134</Nr>
+    <KategorieNr>52</KategorieNr>
+    <Typ>6</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Parkmöglichkeiten</AttributDE>
+    <AttributEN>Parking facilities</AttributEN>
+    <AttributFR>Possibilités de parking</AttributFR>
+    <AttributSP>Posibilidad de aparcamiento</AttributSP>
+    <AttributIT>Parcheggi disponibili</AttributIT>
+    <Lookup>Parken</Lookup>
+  </Attribut>
+  <Attribut>
+    <Nr>135</Nr>
+    <KategorieNr>13</KategorieNr>
+    <Typ>6</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Einrichtungen</AttributDE>
+    <AttributEN>Equipment</AttributEN>
+    <AttributFR>Autres équipements</AttributFR>
+    <AttributSP>Equipamiento</AttributSP>
+    <AttributIT>Arredi</AttributIT>
+    <Lookup>InfrastrukturSonst</Lookup>
+  </Attribut>
+  <Attribut>
+    <Nr>136</Nr>
+    <KategorieNr>4</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>500</Maximalwert>
+    <AttributDE>Größe Wohnzimmer</AttributDE>
+    <AttributEN>Living room size</AttributEN>
+    <AttributFR>Dimensions de la pièce de séjour</AttributFR>
+    <AttributSP>Superficie salón</AttributSP>
+    <AttributIT>Dimensioni soggiorno</AttributIT>
+    <EinheitDE>m²</EinheitDE>
+    <EinheitEN>m²</EinheitEN>
+    <EinheitFR>m²</EinheitFR>
+    <EinheitSP>m²</EinheitSP>
+    <EinheitIT>m²</EinheitIT>
+  </Attribut>
+  <Attribut>
+    <Nr>137</Nr>
+    <KategorieNr>4</KategorieNr>
+    <Typ>4</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Wohnzimmer dient auch als Schlafzimmer</AttributDE>
+    <AttributEN>Living room also serves as a  bedroom</AttributEN>
+    <AttributFR>La salle de séjour sert aussi de chambre à coucher</AttributFR>
+    <AttributSP>Salón también sirve de dormitorio</AttributSP>
+    <AttributIT>Soggiorno anche ad uso camera da letto</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>138</Nr>
+    <KategorieNr>4</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Anzahl Schränke</AttributDE>
+    <AttributEN>Number of cupboards</AttributEN>
+    <AttributFR>Nombre d'armoires</AttributFR>
+    <AttributSP>nº de armarios</AttributSP>
+    <AttributIT>Totale armadi</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>139</Nr>
+    <KategorieNr>4</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Anzahl Regale</AttributDE>
+    <AttributEN>Number of shelves</AttributEN>
+    <AttributFR>Nombre d'étagères</AttributFR>
+    <AttributSP>nº de estanterías</AttributSP>
+    <AttributIT>Totale scaffali</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>140</Nr>
+    <KategorieNr>4</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Anzahl Tische</AttributDE>
+    <AttributEN>Number of tables</AttributEN>
+    <AttributFR>Nombre de tables</AttributFR>
+    <AttributSP>nº de mesas</AttributSP>
+    <AttributIT>Totale tavoli</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>141</Nr>
+    <KategorieNr>4</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Anzahl Stühle</AttributDE>
+    <AttributEN>Number of seats</AttributEN>
+    <AttributFR>Nombre de chaises</AttributFR>
+    <AttributSP>nº de sillas</AttributSP>
+    <AttributIT>Totale sedie</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>142</Nr>
+    <KategorieNr>4</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Anzahl Sessel</AttributDE>
+    <AttributEN>Number of armchairs</AttributEN>
+    <AttributFR>Nombre de fauteuils</AttributFR>
+    <AttributSP>nº de sillones</AttributSP>
+    <AttributIT>Totale poltrone</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>143</Nr>
+    <KategorieNr>4</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Anzahl Sofas</AttributDE>
+    <AttributEN>Number of sofas</AttributEN>
+    <AttributFR>Nombre de divans</AttributFR>
+    <AttributSP>nº de sofás</AttributSP>
+    <AttributIT>Totale divani</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>144</Nr>
+    <KategorieNr>4</KategorieNr>
+    <Typ>6</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Wohnzimmerausstattung</AttributDE>
+    <AttributEN>Living room furniture</AttributEN>
+    <AttributFR>Équipement de la salle de séjour</AttributFR>
+    <AttributSP>Equipamiento del salón</AttributSP>
+    <AttributIT>Dotazione soggiorno</AttributIT>
+    <Lookup>Wohnzimmer</Lookup>
+  </Attribut>
+  <Attribut>
+    <Nr>145</Nr>
+    <KategorieNr>4</KategorieNr>
+    <Typ>7</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Sonstige Wohnzimmerausstattung</AttributDE>
+    <AttributEN>Other living room features</AttributEN>
+    <AttributFR>Autre équipement de la salle de séjour</AttributFR>
+    <AttributSP>Otros equipamiento del salón</AttributSP>
+    <AttributIT>Altra dotazione soggiorno</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>146</Nr>
+    <KategorieNr>41</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>500</Maximalwert>
+    <AttributDE>Größe des Schlafzimmers</AttributDE>
+    <AttributEN>Bedroom size</AttributEN>
+    <AttributFR>Dimensions de la chambre à coucher</AttributFR>
+    <AttributSP>Tamaño del dormitorio</AttributSP>
+    <AttributIT>Dimensioni camera da letto</AttributIT>
+    <EinheitDE>m²</EinheitDE>
+    <EinheitEN>m²</EinheitEN>
+    <EinheitFR>m²</EinheitFR>
+    <EinheitSP>m²</EinheitSP>
+    <EinheitIT>m²</EinheitIT>
+  </Attribut>
+  <Attribut>
+    <Nr>147</Nr>
+    <KategorieNr>41</KategorieNr>
+    <Typ>2</Typ>
+    <Minimalwert>0</Minimalwert>
+    <Maximalwert>20</Maximalwert>
+    <AttributDE>Anzahl Doppelbetten</AttributDE>
+    <AttributEN>Number of double beds</AttributEN>
+    <AttributFR>Nombre de lits doubles</AttributFR>
+    <AttributSP>Nº de camas dobles</AttributSP>
+    <AttributIT>Totale letti matrimoniali</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>148</Nr>
+    <KategorieNr>41</KategorieNr>
+    <Typ>2</Typ>
+    <Minimalwert>0</Minimalwert>
+    <Maximalwert>20</Maximalwert>
+    <AttributDE>Anzahl Einzelbetten</AttributDE>
+    <AttributEN>Number of single beds</AttributEN>
+    <AttributFR>Nombre de lits simples</AttributFR>
+    <AttributSP>Nº de camas individuales</AttributSP>
+    <AttributIT>Totale letti singoli</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>149</Nr>
+    <KategorieNr>41</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Anzahl sonstige Einzelbetten</AttributDE>
+    <AttributEN>Number of other single beds</AttributEN>
+    <AttributFR>Nombre d'autres lits simples</AttributFR>
+    <AttributSP>nº de otras camas individuales</AttributSP>
+    <AttributIT>Totale altri letti singoli</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>150</Nr>
+    <KategorieNr>41</KategorieNr>
+    <Typ>2</Typ>
+    <Minimalwert>0</Minimalwert>
+    <Maximalwert>10</Maximalwert>
+    <AttributDE>Anzahl Kinderbetten</AttributDE>
+    <AttributEN>Number of cribs</AttributEN>
+    <AttributFR>Nombre de lits d'enfants</AttributFR>
+    <AttributSP>Nº de camas de niño</AttributSP>
+    <AttributIT>Totale letti per bambini</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>151</Nr>
+    <KategorieNr>41</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Betten mit einteiliger Matratze</AttributDE>
+    <AttributEN>Beds with one-piece mattress</AttributEN>
+    <AttributFR>Lits à matelas unique</AttributFR>
+    <AttributSP>camas con colchón de una pieza</AttributSP>
+    <AttributIT>Letti con materasso unico</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>152</Nr>
+    <KategorieNr>41</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Betten mit dreiteiliger Matratze</AttributDE>
+    <AttributEN>Beds with three-piece mattress</AttributEN>
+    <AttributFR>Lits à matelas en trois parties</AttributFR>
+    <AttributSP>camas con colchón de tres piezas</AttributSP>
+    <AttributIT>Letti con materasso composto di tre parti</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>153</Nr>
+    <KategorieNr>41</KategorieNr>
+    <Typ>4</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Matratze nicht älter als 3 Jahre</AttributDE>
+    <AttributEN>Mattress not older than 3 years</AttributEN>
+    <AttributFR>Matelas de moins de 3 ans</AttributFR>
+    <AttributSP>colchón con menos de 3 años de antigüedad</AttributSP>
+    <AttributIT>Materasso vecchio di non oltre 3 anni</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>154</Nr>
+    <KategorieNr>41</KategorieNr>
+    <Typ>4</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Rückengerechte Matratze</AttributDE>
+    <AttributEN>Ergonomic mattress</AttributEN>
+    <AttributFR>Matelas ergonomique</AttributFR>
+    <AttributSP>colchón ergonómico</AttributSP>
+    <AttributIT>Materasso ortopedico</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>155</Nr>
+    <KategorieNr>41</KategorieNr>
+    <Typ>4</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Höhenverstellbarer Lattenrost</AttributDE>
+    <AttributEN>Bedstead with adjustably height</AttributEN>
+    <AttributFR>Sommier réglable</AttributFR>
+    <AttributSP>somier con altura regulable</AttributSP>
+    <AttributIT>Rete con doghe ad altezze regolabili</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>156</Nr>
+    <KategorieNr>41</KategorieNr>
+    <Typ>4</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Allergikerbetten</AttributDE>
+    <AttributEN>Mattress suitable for people with allergies</AttributEN>
+    <AttributFR>Matelas anti allergie</AttributFR>
+    <AttributSP>camas para alérgicos</AttributSP>
+    <AttributIT>Letti anallergici</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>157</Nr>
+    <KategorieNr>41</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Anzahl Nachttische</AttributDE>
+    <AttributEN>Number of bedside tables</AttributEN>
+    <AttributFR>Nombre de tables de nuit</AttributFR>
+    <AttributSP>nº de mesitas de noche</AttributSP>
+    <AttributIT>Totale comodini</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>158</Nr>
+    <KategorieNr>41</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Anzahl Nachttischlampen</AttributDE>
+    <AttributEN>Number of bedside lamps</AttributEN>
+    <AttributFR>Nombre de lampes de chevet</AttributFR>
+    <AttributSP>nº de lamparitas de noche</AttributSP>
+    <AttributIT>Totale lampade da notte</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>159</Nr>
+    <KategorieNr>41</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Anzahl Stühle</AttributDE>
+    <AttributEN>Number of chairs</AttributEN>
+    <AttributFR>Nombre de chaises</AttributFR>
+    <AttributSP>nº de sillas</AttributSP>
+    <AttributIT>Totale sedie</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>160</Nr>
+    <KategorieNr>41</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Anzahl Kleiderschränke</AttributDE>
+    <AttributEN>Number of wardrobes</AttributEN>
+    <AttributFR>Nombre d'armoires à linge</AttributFR>
+    <AttributSP>nº de armarios ropero</AttributSP>
+    <AttributIT>Totale armadi</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>161</Nr>
+    <KategorieNr>41</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Anzahl Regale</AttributDE>
+    <AttributEN>Number of shelves</AttributEN>
+    <AttributFR>Nombre d'étagères</AttributFR>
+    <AttributSP>nº de estanterías</AttributSP>
+    <AttributIT>Totale scaffali</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>162</Nr>
+    <KategorieNr>41</KategorieNr>
+    <Typ>4</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Schlafzimmer abdunkelbar</AttributDE>
+    <AttributEN>Blinds available</AttributEN>
+    <AttributFR>Chambre à coucher obscurcissable</AttributFR>
+    <AttributSP>Persianas o cortinas opacas en el dormitorio</AttributSP>
+    <AttributIT>Camera da letto oscurabile</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>163</Nr>
+    <KategorieNr>41</KategorieNr>
+    <Typ>7</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Sonstige Schlafzimmereinrichtung</AttributDE>
+    <AttributEN>Other bedroom furniture</AttributEN>
+    <AttributFR>Autre installation dnas la chambre à coucher</AttributFR>
+    <AttributSP>Otros equipamiento del dormitorio</AttributSP>
+    <AttributIT>Altra dotazione camera da letto</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>164</Nr>
+    <KategorieNr>42</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>50</Maximalwert>
+    <AttributDE>Größe des Badezimmers</AttributDE>
+    <AttributEN>Bathroom size</AttributEN>
+    <AttributFR>Dimensions de la salle de bain</AttributFR>
+    <AttributSP>Tamaño del cuarto baño</AttributSP>
+    <AttributIT>Dimensioni camera da bagno</AttributIT>
+    <EinheitDE>m²</EinheitDE>
+    <EinheitEN>m²</EinheitEN>
+    <EinheitFR>m²</EinheitFR>
+    <EinheitSP>m²</EinheitSP>
+    <EinheitIT>m²</EinheitIT>
+  </Attribut>
+  <Attribut>
+    <Nr>165</Nr>
+    <KategorieNr>42</KategorieNr>
+    <Typ>6</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Ausstattung Badezimmer</AttributDE>
+    <AttributEN>Bathroom features</AttributEN>
+    <AttributFR>Équipement de la salle de bains</AttributFR>
+    <AttributSP>Equipamiento del cuarto de baño</AttributSP>
+    <AttributIT>Dotazione camera da bagno</AttributIT>
+    <Lookup>Bad</Lookup>
+  </Attribut>
+  <Attribut>
+    <Nr>168</Nr>
+    <KategorieNr>42</KategorieNr>
+    <Typ>7</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Sonstige Badezimmereinrichtung</AttributDE>
+    <AttributEN>Other bathroom equipment</AttributEN>
+    <AttributFR>Autre équipement de la salle de bains</AttributFR>
+    <AttributSP>Otros equipamiento del cuarto de baño</AttributSP>
+    <AttributIT>Altra dotazione camera da bagno</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>169</Nr>
+    <KategorieNr>43</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>100</Maximalwert>
+    <AttributDE>Größe der Küche</AttributDE>
+    <AttributEN>Kitchen size</AttributEN>
+    <AttributFR>Dimensions de la cuisine</AttributFR>
+    <AttributSP>Tamaño de la cocina</AttributSP>
+    <AttributIT>Dimensioni cucina</AttributIT>
+    <EinheitDE>m²</EinheitDE>
+    <EinheitEN>m²</EinheitEN>
+    <EinheitFR>m²</EinheitFR>
+    <EinheitSP>m²</EinheitSP>
+    <EinheitIT>m²</EinheitIT>
+  </Attribut>
+  <Attribut>
+    <Nr>170</Nr>
+    <KategorieNr>43</KategorieNr>
+    <Typ>2</Typ>
+    <Minimalwert>0</Minimalwert>
+    <Maximalwert>10</Maximalwert>
+    <AttributDE>Anzahl Esstische</AttributDE>
+    <AttributEN>Number of tables</AttributEN>
+    <AttributFR>Nombre de tables à manger</AttributFR>
+    <AttributSP>Nº de mesas para comer</AttributSP>
+    <AttributIT>Totale tavoli da pranzo</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>171</Nr>
+    <KategorieNr>43</KategorieNr>
+    <Typ>2</Typ>
+    <Minimalwert>0</Minimalwert>
+    <Maximalwert>20</Maximalwert>
+    <AttributDE>Gesamtzahl Sitzplätze</AttributDE>
+    <AttributEN>Total number of seats</AttributEN>
+    <AttributFR>Nombre total de sièges</AttributFR>
+    <AttributSP>Nº total de asientos</AttributSP>
+    <AttributIT>Totale posti a sedere</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>172</Nr>
+    <KategorieNr>43</KategorieNr>
+    <Typ>6</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Ausstattung Küche</AttributDE>
+    <AttributEN>Kitchen furniture/equipment</AttributEN>
+    <AttributFR>Équipement de la cuisine</AttributFR>
+    <AttributSP>Equipamiento de la cocina</AttributSP>
+    <AttributIT>Dotazione cucina</AttributIT>
+    <Lookup>Küche</Lookup>
+  </Attribut>
+  <Attribut>
+    <Nr>173</Nr>
+    <KategorieNr>43</KategorieNr>
+    <Typ>7</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Sonstige Kücheneinrichtung</AttributDE>
+    <AttributEN>Other kitchen equipment</AttributEN>
+    <AttributFR>Autre équipement de la cuisine</AttributFR>
+    <AttributSP>Otros equipamiento de la cocina</AttributSP>
+    <AttributIT>Altra dotazione cucina</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>174</Nr>
+    <KategorieNr>44</KategorieNr>
+    <Typ>6</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Sonstige Räume</AttributDE>
+    <AttributEN>Other rooms</AttributEN>
+    <AttributFR>Autres pièces</AttributFR>
+    <AttributSP>Otras habitaciones</AttributSP>
+    <AttributIT>Altre camere</AttributIT>
+    <Lookup>SonstigeRäume</Lookup>
+  </Attribut>
+  <Attribut>
+    <Nr>175</Nr>
+    <KategorieNr>44</KategorieNr>
+    <Typ>7</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Sonstige Einrichtung</AttributDE>
+    <AttributEN>Other equipment</AttributEN>
+    <AttributFR>Autre équipement</AttributFR>
+    <AttributSP>Otros equipamientos</AttributSP>
+    <AttributIT>Altra dotazione</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>176</Nr>
+    <KategorieNr>5</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>20</Maximalwert>
+    <AttributDE>Anzahl Terrassen</AttributDE>
+    <AttributEN>Number of terraces</AttributEN>
+    <AttributFR>Nombre de terrasses</AttributFR>
+    <AttributSP>nº de terrazas</AttributSP>
+    <AttributIT>Totale terrazze</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>177</Nr>
+    <KategorieNr>5</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Anzahl Balkone</AttributDE>
+    <AttributEN>Number of balconies</AttributEN>
+    <AttributFR>Nombre de balcons</AttributFR>
+    <AttributSP>nº de balcones</AttributSP>
+    <AttributIT>Totale balconi</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>178</Nr>
+    <KategorieNr>5</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>10</Maximalwert>
+    <AttributDE>Anzahl Wintergärten</AttributDE>
+    <AttributEN>Number of winter gardens</AttributEN>
+    <AttributFR>Nombre de jardins d'hiver</AttributFR>
+    <AttributSP>nº de invernaderos</AttributSP>
+    <AttributIT>Totale giardini d'inverno</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>179</Nr>
+    <KategorieNr>5</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>10</Maximalwert>
+    <AttributDE>Anzahl Pavillons</AttributDE>
+    <AttributEN>Number of pavilions</AttributEN>
+    <AttributFR>Nombre de pavillons</AttributFR>
+    <AttributSP>nº de pabellones</AttributSP>
+    <AttributIT>Totale padiglioni</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>180</Nr>
+    <KategorieNr>5</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>10</Maximalwert>
+    <AttributDE>Anzahl Gartenhäuser</AttributDE>
+    <AttributEN>Number of garden sheds</AttributEN>
+    <AttributFR>Nombre de vérandas</AttributFR>
+    <AttributSP>nº de casetas de jardín</AttributSP>
+    <AttributIT>Totale serre</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>181</Nr>
+    <KategorieNr>5</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Größe des Gartens</AttributDE>
+    <AttributEN>Size of the garden</AttributEN>
+    <AttributFR>Dimensions du jardin</AttributFR>
+    <AttributSP>tamaño del jardín</AttributSP>
+    <AttributIT>Dimensioni giardino</AttributIT>
+    <EinheitDE>m²</EinheitDE>
+    <EinheitEN>m²</EinheitEN>
+    <EinheitFR>m²</EinheitFR>
+    <EinheitSP>m²</EinheitSP>
+    <EinheitIT>m²</EinheitIT>
+  </Attribut>
+  <Attribut>
+    <Nr>182</Nr>
+    <KategorieNr>5</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Größe der Terrasse</AttributDE>
+    <AttributEN>Size of the terrace</AttributEN>
+    <AttributFR>Dimensions de la terrasse</AttributFR>
+    <AttributSP>tamaño de la terraza</AttributSP>
+    <AttributIT>Dimensioni terrazza</AttributIT>
+    <EinheitDE>m²</EinheitDE>
+    <EinheitEN>m²</EinheitEN>
+    <EinheitFR>m²</EinheitFR>
+    <EinheitSP>m²</EinheitSP>
+    <EinheitIT>m²</EinheitIT>
+  </Attribut>
+  <Attribut>
+    <Nr>183</Nr>
+    <KategorieNr>5</KategorieNr>
+    <Typ>4</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Terrasse überdacht</AttributDE>
+    <AttributEN>Terrace with roof</AttributEN>
+    <AttributFR>Terrasse avec toit</AttributFR>
+    <AttributSP>terraza cubierta</AttributSP>
+    <AttributIT>Terrazza coperta</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>184</Nr>
+    <KategorieNr>5</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Größe der Balkone</AttributDE>
+    <AttributEN>Size of the balconies</AttributEN>
+    <AttributFR>Dimension des balcons</AttributFR>
+    <AttributSP>tamaño de los balcones</AttributSP>
+    <AttributIT>Dimensioni balconi</AttributIT>
+    <EinheitDE>m²</EinheitDE>
+    <EinheitEN>m²</EinheitEN>
+    <EinheitFR>m²</EinheitFR>
+    <EinheitSP>m²</EinheitSP>
+    <EinheitIT>m²</EinheitIT>
+  </Attribut>
+  <Attribut>
+    <Nr>185</Nr>
+    <KategorieNr>5</KategorieNr>
+    <Typ>4</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Balkon überdacht</AttributDE>
+    <AttributEN>Balcony with roof</AttributEN>
+    <AttributFR>Balcon avec toit</AttributFR>
+    <AttributSP>balcón cubierto</AttributSP>
+    <AttributIT>Balcone coperto</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>186</Nr>
+    <KategorieNr>5</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Freisitz oder Sitzmöglichkeit auf dem Hof</AttributDE>
+    <AttributEN>Seating facilities in the yard</AttributEN>
+    <AttributFR>Siège ou possibilité de s'assoir dans  a cour</AttributFR>
+    <AttributSP>espacio o patio con asientos</AttributSP>
+    <AttributIT>Punto con vista o posto a sedere in cortile</AttributIT>
+    <EinheitDE>m²</EinheitDE>
+    <EinheitEN>m²</EinheitEN>
+    <EinheitFR>m²</EinheitFR>
+    <EinheitSP>m²</EinheitSP>
+    <EinheitIT>m²</EinheitIT>
+  </Attribut>
+  <Attribut>
+    <Nr>187</Nr>
+    <KategorieNr>5</KategorieNr>
+    <Typ>4</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Freisitz/Sitzmöglichkeit überdacht</AttributDE>
+    <AttributEN>Sheltered seating facilities</AttributEN>
+    <AttributFR>Siège ou possibilité de s'assoir sous un toit</AttributFR>
+    <AttributSP>espacio o patio cubierto con asientos</AttributSP>
+    <AttributIT>Punto con vista o posto a sedere coperto</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>188</Nr>
+    <KategorieNr>5</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Größe des Wintergartens</AttributDE>
+    <AttributEN>Size of the conservatory</AttributEN>
+    <AttributFR>Dimension du jardin d'hiver</AttributFR>
+    <AttributSP>tamaño del invernadero</AttributSP>
+    <AttributIT>Dimensioni giardino d'inverno</AttributIT>
+    <EinheitDE>m²</EinheitDE>
+    <EinheitEN>m²</EinheitEN>
+    <EinheitFR>m²</EinheitFR>
+    <EinheitSP>m²</EinheitSP>
+    <EinheitIT>m²</EinheitIT>
+  </Attribut>
+  <Attribut>
+    <Nr>189</Nr>
+    <KategorieNr>6</KategorieNr>
+    <Typ>5</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Lage des Objektes</AttributDE>
+    <AttributEN>Holiday home location</AttributEN>
+    <AttributFR>Position de l'objet</AttributFR>
+    <AttributSP>Situación del alojamiento</AttributSP>
+    <AttributIT>Posizione dell'oggetto</AttributIT>
+    <Lookup>ObjektUmgbung</Lookup>
+  </Attribut>
+  <Attribut>
+    <Nr>190</Nr>
+    <KategorieNr>52</KategorieNr>
+    <Typ>6</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Beeinträchtigung durch</AttributDE>
+    <AttributEN>Impairments from</AttributEN>
+    <AttributFR>Dans l'environnement direct de l'objet se trouvent</AttributFR>
+    <AttributSP>Posibles molestias por</AttributSP>
+    <AttributIT>Impedimento causato da</AttributIT>
+    <Lookup>ObjektBeeinträcht</Lookup>
+  </Attribut>
+  <Attribut>
+    <Nr>191</Nr>
+    <KategorieNr>6</KategorieNr>
+    <Typ>7</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Sonstige Beeinträchtigungen</AttributDE>
+    <AttributEN>Other impairments</AttributEN>
+    <AttributFR>Autres détériorations</AttributFR>
+    <AttributSP>Otros inconvenientes</AttributSP>
+    <AttributIT>Altri impedimenti</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>192</Nr>
+    <KategorieNr>7</KategorieNr>
+    <Typ>6</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Beschreibung der Objektanlage</AttributDE>
+    <AttributEN>Garden description</AttributEN>
+    <AttributFR>Jardin/installations de l'objet</AttributFR>
+    <AttributSP>Descripción del conjunto del alojamiento</AttributSP>
+    <AttributIT>Descrizione del centro</AttributIT>
+    <Lookup>GartenTyp</Lookup>
+  </Attribut>
+  <Attribut>
+    <Nr>193</Nr>
+    <KategorieNr>52</KategorieNr>
+    <Typ>6</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Aussicht aus dem Objekt</AttributDE>
+    <AttributEN>View from the holiday home</AttributEN>
+    <AttributFR>Vue à partir de l'objet</AttributFR>
+    <AttributSP>Vistas desde el alojamiento</AttributSP>
+    <AttributIT>Panorama dall'oggetto</AttributIT>
+    <Lookup>Aussicht</Lookup>
+  </Attribut>
+  <Attribut>
+    <Nr>194</Nr>
+    <KategorieNr>9</KategorieNr>
+    <Typ>6</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Serviceleistungen</AttributDE>
+    <AttributEN>Service facilities</AttributEN>
+    <AttributFR>Prestations de service</AttributFR>
+    <AttributSP>Servicios</AttributSP>
+    <AttributIT>Servizi</AttributIT>
+    <Lookup>Service</Lookup>
+  </Attribut>
+  <Attribut>
+    <Nr>197</Nr>
+    <KategorieNr>7</KategorieNr>
+    <Typ>6</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Anbindung</AttributDE>
+    <AttributEN>Connections</AttributEN>
+    <AttributFR>Liaison et trafic</AttributFR>
+    <AttributSP>conexiones</AttributSP>
+    <AttributIT>Collegamenti</AttributIT>
+    <Lookup>Anbindung</Lookup>
+  </Attribut>
+  <Attribut>
+    <Nr>198</Nr>
+    <KategorieNr>7</KategorieNr>
+    <Typ>5</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Zufahrt im Sommer</AttributDE>
+    <AttributEN>Summer route</AttributEN>
+    <AttributFR>Accès en été</AttributFR>
+    <AttributSP>acceso en verano</AttributSP>
+    <AttributIT>Accesso in estate</AttributIT>
+    <Lookup>AnbindungSommer</Lookup>
+  </Attribut>
+  <Attribut>
+    <Nr>199</Nr>
+    <KategorieNr>7</KategorieNr>
+    <Typ>5</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Zufahrt im Winter</AttributDE>
+    <AttributEN>Winter route</AttributEN>
+    <AttributFR>Accès en hiver</AttributFR>
+    <AttributSP>acceso en invierno</AttributSP>
+    <AttributIT>Accesso in inverno</AttributIT>
+    <Lookup>AnbindungWinter</Lookup>
+  </Attribut>
+  <Attribut>
+    <Nr>200</Nr>
+    <KategorieNr>52</KategorieNr>
+    <Typ>3</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Entfernung Stadt</AttributDE>
+    <AttributEN>Distance to town</AttributEN>
+    <AttributFR>Distance de la ville</AttributFR>
+    <AttributSP>Distancia a la ciudad</AttributSP>
+    <AttributIT>Distanza dalla città</AttributIT>
+    <EinheitDE>km</EinheitDE>
+    <EinheitEN>km</EinheitEN>
+    <EinheitFR>km</EinheitFR>
+    <EinheitSP>km</EinheitSP>
+    <EinheitIT>km</EinheitIT>
+  </Attribut>
+  <Attribut>
+    <Nr>201</Nr>
+    <KategorieNr>52</KategorieNr>
+    <Typ>3</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Entfernung Stadtzentrum</AttributDE>
+    <AttributEN>Distance to town centre</AttributEN>
+    <AttributFR>Distance du centre ville</AttributFR>
+    <AttributSP>distancia al centro ciudad</AttributSP>
+    <AttributIT>Distanza dal centro abitato</AttributIT>
+    <EinheitDE>km</EinheitDE>
+    <EinheitEN>km</EinheitEN>
+    <EinheitFR>km</EinheitFR>
+    <EinheitSP>km</EinheitSP>
+    <EinheitIT>km</EinheitIT>
+  </Attribut>
+  <Attribut>
+    <Nr>202</Nr>
+    <KategorieNr>52</KategorieNr>
+    <Typ>3</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Entfernung Restaurant</AttributDE>
+    <AttributEN>Distance to next restaurant</AttributEN>
+    <AttributFR>Distance restaurant</AttributFR>
+    <AttributSP>Distancia a restaurante</AttributSP>
+    <AttributIT>Distanza dal ristorante</AttributIT>
+    <EinheitDE>km</EinheitDE>
+    <EinheitEN>km</EinheitEN>
+    <EinheitFR>km</EinheitFR>
+    <EinheitSP>km</EinheitSP>
+    <EinheitIT>km</EinheitIT>
+  </Attribut>
+  <Attribut>
+    <Nr>203</Nr>
+    <KategorieNr>52</KategorieNr>
+    <Typ>3</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Entfernung Einkaufsmöglichkeit</AttributDE>
+    <AttributEN>Distance to next shopping facilities</AttributEN>
+    <AttributFR>Distance possibilité d'achat</AttributFR>
+    <AttributSP>Distancia a comercio</AttributSP>
+    <AttributIT>Distanza dai negozi</AttributIT>
+    <EinheitDE>km</EinheitDE>
+    <EinheitEN>km</EinheitEN>
+    <EinheitFR>km</EinheitFR>
+    <EinheitSP>km</EinheitSP>
+    <EinheitIT>km</EinheitIT>
+  </Attribut>
+  <Attribut>
+    <Nr>204</Nr>
+    <KategorieNr>52</KategorieNr>
+    <Typ>3</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Entfernung Meer</AttributDE>
+    <AttributEN>Distance to the sea</AttributEN>
+    <AttributFR>Distance mer</AttributFR>
+    <AttributSP>Distancia al mar</AttributSP>
+    <AttributIT>Distanza dal mare</AttributIT>
+    <EinheitDE>km</EinheitDE>
+    <EinheitEN>km</EinheitEN>
+    <EinheitFR>km</EinheitFR>
+    <EinheitSP>km</EinheitSP>
+    <EinheitIT>km</EinheitIT>
+  </Attribut>
+  <Attribut>
+    <Nr>206</Nr>
+    <KategorieNr>52</KategorieNr>
+    <Typ>5</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Strandart</AttributDE>
+    <AttributEN>Type of beach</AttributEN>
+    <AttributFR>Type de plage</AttributFR>
+    <AttributSP>Tipo de playa</AttributSP>
+    <AttributIT>Tipo di spiaggia</AttributIT>
+    <Lookup>Strandart</Lookup>
+  </Attribut>
+  <Attribut>
+    <Nr>208</Nr>
+    <KategorieNr>1</KategorieNr>
+    <Typ>5</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Anreisetag</AttributDE>
+    <AttributEN>Day of arrival</AttributEN>
+    <AttributFR>Jour d'arrivée</AttributFR>
+    <AttributSP>Día de llegada</AttributSP>
+    <AttributIT>Data di arrivo</AttributIT>
+    <Lookup>anreisetag</Lookup>
+  </Attribut>
+  <Attribut>
+    <Nr>210</Nr>
+    <KategorieNr>53</KategorieNr>
+    <Typ>4</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Auto ist notwendig</AttributDE>
+    <AttributEN>Car is necessary</AttributEN>
+    <AttributFR>Voiture nécessaire</AttributFR>
+    <AttributSP>Coche imprescindible</AttributSP>
+    <AttributIT>Necessaria una macchina propria</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>211</Nr>
+    <KategorieNr>53</KategorieNr>
+    <Typ>1</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Nächster Flughafen</AttributDE>
+    <AttributEN>Nearest  airport</AttributEN>
+    <AttributFR>Aéroport le plus proche</AttributFR>
+    <AttributSP>Aeropuerto más cercano</AttributSP>
+    <AttributIT>Aeroporto più vicino</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>212</Nr>
+    <KategorieNr>53</KategorieNr>
+    <Typ>3</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Nächster Flughafen (Entfernung)</AttributDE>
+    <AttributEN>Distance to nearest airport</AttributEN>
+    <AttributFR>Aéroport le plus proche (distance)</AttributFR>
+    <AttributSP>Aeropuerto más cercano (distancia)</AttributSP>
+    <AttributIT>Aeroporto più vicino (distanza)</AttributIT>
+    <EinheitDE>km</EinheitDE>
+    <EinheitEN>km</EinheitEN>
+    <EinheitFR>km</EinheitFR>
+    <EinheitSP>km</EinheitSP>
+    <EinheitIT>km</EinheitIT>
+  </Attribut>
+  <Attribut>
+    <Nr>213</Nr>
+    <KategorieNr>53</KategorieNr>
+    <Typ>1</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Nächster Bahnhof</AttributDE>
+    <AttributEN>Next train station</AttributEN>
+    <AttributFR>Gare la plus proche</AttributFR>
+    <AttributSP>Estación de tren más cercana</AttributSP>
+    <AttributIT>Stazione ferroviaria più vicina</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>214</Nr>
+    <KategorieNr>53</KategorieNr>
+    <Typ>3</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Nächster Bahnhof (Entfernung)</AttributDE>
+    <AttributEN>Distance to nearest train station</AttributEN>
+    <AttributFR>Gare la plus proche (distance)</AttributFR>
+    <AttributSP>Estación de tren más cercana (distancia)</AttributSP>
+    <AttributIT>Stazione ferroviaria più vicina (distanza)</AttributIT>
+    <EinheitDE>km</EinheitDE>
+    <EinheitEN>km</EinheitEN>
+    <EinheitFR>km</EinheitFR>
+    <EinheitSP>km</EinheitSP>
+    <EinheitIT>km</EinheitIT>
+  </Attribut>
+  <Attribut>
+    <Nr>215</Nr>
+    <KategorieNr>53</KategorieNr>
+    <Typ>1</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Nächste Autobahn</AttributDE>
+    <AttributEN>Nearest motor way</AttributEN>
+    <AttributFR>Autoroute la plus proche</AttributFR>
+    <AttributSP>Autopista más cercana</AttributSP>
+    <AttributIT>Autostrada più vicina</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>216</Nr>
+    <KategorieNr>53</KategorieNr>
+    <Typ>3</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Nächste Autobahn (Entfernung)</AttributDE>
+    <AttributEN>Distance to the nearest motor way</AttributEN>
+    <AttributFR>Autoroute la plus proche (distance)</AttributFR>
+    <AttributSP>Autopista más cercana (distancia)</AttributSP>
+    <AttributIT>Autostrada più vicina (distanza)</AttributIT>
+    <EinheitDE>km</EinheitDE>
+    <EinheitEN>km</EinheitEN>
+    <EinheitFR>km</EinheitFR>
+    <EinheitSP>km</EinheitSP>
+    <EinheitIT>km</EinheitIT>
+  </Attribut>
+  <Attribut>
+    <Nr>218</Nr>
+    <KategorieNr>53</KategorieNr>
+    <Typ>7</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Anfahrtsbeschreibung (Freitext)</AttributDE>
+    <AttributEN>Route description (free text)</AttributEN>
+    <AttributFR>Déscription de l'itinéraire (texte libre)</AttributFR>
+    <AttributSP>Descripción del camino de acceso (texto libre)</AttributSP>
+    <AttributIT>Descrizione percorso (testo libero)</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>219</Nr>
+    <KategorieNr>1</KategorieNr>
+    <Typ>6</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Sonstiges</AttributDE>
+    <AttributEN>Other</AttributEN>
+    <AttributFR>Divers</AttributFR>
+    <AttributSP>Diversos</AttributSP>
+    <AttributIT>Altro</AttributIT>
+    <Lookup>Sonstiges</Lookup>
+  </Attribut>
+  <Attribut>
+    <Nr>220</Nr>
+    <KategorieNr>1</KategorieNr>
+    <Typ>5</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Haustier</AttributDE>
+    <AttributEN>Pet</AttributEN>
+    <AttributFR>Animal domestique</AttributFR>
+    <AttributSP>Animal doméstico</AttributSP>
+    <AttributIT>Animale domestico</AttributIT>
+    <Lookup>Haustiere</Lookup>
+  </Attribut>
+  <Attribut>
+    <Nr>221</Nr>
+    <KategorieNr>7</KategorieNr>
+    <Typ>6</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Freizeiteinrichtungen am Objekt (alleinige Nutzung)</AttributDE>
+    <AttributEN>Leisure facilities (exclusive use)&lt;br&gt;&lt;b&gt;near the holiday home&lt;/b&gt;</AttributEN>
+    <AttributFR>Possibilités de loisirs (usage personnel)&lt;br&gt;&lt;b&gt;directement situé sur l'objet&lt;/b&gt;</AttributFR>
+    <AttributSP>instalaciones de ocio del alojamiento (uso exclusivo)</AttributSP>
+    <AttributIT>Impianti per il tempo libero adiacenti (uso esclusivo)</AttributIT>
+    <Lookup>Freizeit</Lookup>
+  </Attribut>
+  <Attribut>
+    <Nr>222</Nr>
+    <KategorieNr>7</KategorieNr>
+    <Typ>6</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Freizeiteinrichtungen am Objekt</AttributDE>
+    <AttributEN>On-site leisure facilities</AttributEN>
+    <AttributFR>Possibilités de loisirs&lt;br&gt;&lt;b&gt;directement situé sur l'objet&lt;/b&gt;</AttributFR>
+    <AttributSP>Instalaciones de ocio del alojamiento</AttributSP>
+    <AttributIT>Impianti per il tempo libero adiacenti</AttributIT>
+    <Lookup>Freizeit</Lookup>
+  </Attribut>
+  <Attribut>
+    <Nr>223</Nr>
+    <KategorieNr>52</KategorieNr>
+    <Typ>6</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Sportmöglichkeiten in der Umgebung</AttributDE>
+    <AttributEN>Nearby sports facilities</AttributEN>
+    <AttributFR>Possibilités de sport à proximité</AttributFR>
+    <AttributSP>Facilidades deportivas en los alrededores</AttributSP>
+    <AttributIT>Impianti sportivi nei dintorni</AttributIT>
+    <Lookup>Sport</Lookup>
+  </Attribut>
+  <Attribut>
+    <Nr>224</Nr>
+    <KategorieNr>16</KategorieNr>
+    <Typ>7</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Sonstige Sportmöglichkeiten</AttributDE>
+    <AttributEN>Other sport facilities</AttributEN>
+    <AttributFR>Autres possibilités de sport</AttributFR>
+    <AttributSP>Otras facilidades deportivas</AttributSP>
+    <AttributIT>Altri impianti sportivi nei dintorni</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>225</Nr>
+    <KategorieNr>52</KategorieNr>
+    <Typ>6</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Leihmöglichkeiten</AttributDE>
+    <AttributEN>Rental Facilities</AttributEN>
+    <AttributFR>Possibilités de location</AttributFR>
+    <AttributSP>Posibilidad de alquiler</AttributSP>
+    <AttributIT>Possibilità di noleggio</AttributIT>
+    <Lookup>Verleih</Lookup>
+  </Attribut>
+  <Attribut>
+    <Nr>226</Nr>
+    <KategorieNr>16</KategorieNr>
+    <Typ>7</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Sonstige Leihmöglichkeiten</AttributDE>
+    <AttributEN>Other rental facilities</AttributEN>
+    <AttributFR>Autres possibilités de location</AttributFR>
+    <AttributSP>Otras facilidades de alquiler</AttributSP>
+    <AttributIT>Altre possibilità di noleggio</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>227</Nr>
+    <KategorieNr>52</KategorieNr>
+    <Typ>7</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Ausflugsmöglichkeiten</AttributDE>
+    <AttributEN>Excursion possibilities</AttributEN>
+    <AttributFR>Possibilités d'excursion</AttributFR>
+    <AttributSP>Excursiones</AttributSP>
+    <AttributIT>Mete per escursioni</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>228</Nr>
+    <KategorieNr>17</KategorieNr>
+    <Typ>7</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Kurzbeschreibung (max. 400 Zeichen, erscheint in Standardansicht)</AttributDE>
+    <AttributEN>Open description (max. 400 letters, to be displayed in standard view)</AttributEN>
+    <AttributFR>Description dans le texte libre</AttributFR>
+    <AttributSP>descripción abreviada (max. 400 caracteres, visible en vista standard)</AttributSP>
+    <AttributIT>Breve descrizione (max. 400 caratteri, in vista standard)</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>234</Nr>
+    <KategorieNr>20</KategorieNr>
+    <Typ>11</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Aussenansicht (klein)</AttributDE>
+    <AttributEN>Exterior view (small)</AttributEN>
+    <AttributFR>Vue de l'extérieur (petite)</AttributFR>
+    <AttributSP>Vista exterior (pequeña)</AttributSP>
+    <AttributIT>Vista esterna (piccola)</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>235</Nr>
+    <KategorieNr>20</KategorieNr>
+    <Typ>11</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Aussenansicht</AttributDE>
+    <AttributEN>Exterior view</AttributEN>
+    <AttributFR>Vue de l'extérieur</AttributFR>
+    <AttributSP>Vista exterior</AttributSP>
+    <AttributIT>Vista esterna</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>236</Nr>
+    <KategorieNr>20</KategorieNr>
+    <Typ>11</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Innenansicht</AttributDE>
+    <AttributEN>Interior view</AttributEN>
+    <AttributFR>Vue de l'intérieur</AttributFR>
+    <AttributSP>Vista interior</AttributSP>
+    <AttributIT>Vista interna</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>237</Nr>
+    <KategorieNr>20</KategorieNr>
+    <Typ>10</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>URL</AttributDE>
+    <AttributEN>URL</AttributEN>
+    <AttributFR>URL</AttributFR>
+    <AttributSP>URL</AttributSP>
+    <AttributIT>URL</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>239</Nr>
+    <KategorieNr>20</KategorieNr>
+    <Typ>14</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>360°-Ansicht</AttributDE>
+    <AttributEN>360°- view</AttributEN>
+    <AttributFR>Vue à 360°</AttributFR>
+    <AttributSP>Vista 360º</AttributSP>
+    <AttributIT>Vista a 360°</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>242</Nr>
+    <KategorieNr>20</KategorieNr>
+    <Typ>11</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Bild Grundriss</AttributDE>
+    <AttributEN>Picture sketch</AttributEN>
+    <AttributFR>Vue de la surface au sol</AttributFR>
+    <AttributSP>Plano de planta</AttributSP>
+    <AttributIT>Pianta immagine</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>243</Nr>
+    <KategorieNr>20</KategorieNr>
+    <Typ>11</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Bild 1</AttributDE>
+    <AttributEN>Picture 1</AttributEN>
+    <AttributFR>Image 1</AttributFR>
+    <AttributSP>Foto 1</AttributSP>
+    <AttributIT>Foto 1</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>244</Nr>
+    <KategorieNr>20</KategorieNr>
+    <Typ>11</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Bild 2</AttributDE>
+    <AttributEN>Picture 2</AttributEN>
+    <AttributFR>Image 2</AttributFR>
+    <AttributSP>Foto 2</AttributSP>
+    <AttributIT>Foto 2</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>245</Nr>
+    <KategorieNr>20</KategorieNr>
+    <Typ>11</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Bild 3</AttributDE>
+    <AttributEN>Picture 3</AttributEN>
+    <AttributFR>Image 3</AttributFR>
+    <AttributSP>Foto 3</AttributSP>
+    <AttributIT>Foto 3</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>246</Nr>
+    <KategorieNr>20</KategorieNr>
+    <Typ>11</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Bild 4</AttributDE>
+    <AttributEN>Picture 4</AttributEN>
+    <AttributFR>Image 4</AttributFR>
+    <AttributSP>Foto 4</AttributSP>
+    <AttributIT>Foto 4</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>247</Nr>
+    <KategorieNr>20</KategorieNr>
+    <Typ>11</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Bild 5</AttributDE>
+    <AttributEN>Picture 5</AttributEN>
+    <AttributFR>Image 5</AttributFR>
+    <AttributSP>Foto 5</AttributSP>
+    <AttributIT>Foto 5</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>248</Nr>
+    <KategorieNr>17</KategorieNr>
+    <Typ>77</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Ausführliche Beschreibung (erscheint in Detailansicht)</AttributDE>
+    <AttributEN>Detailed description (to be displayed in detailed view)</AttributEN>
+    <AttributFR>Description supplémentaire de l'objet de vacances (version longue)</AttributFR>
+    <AttributSP>Descripción detallada (aparece en vista detallada)</AttributSP>
+    <AttributIT>Descrizione dettagliata (vista in dettaglio)</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>251</Nr>
+    <KategorieNr>20</KategorieNr>
+    <Typ>11</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Lageplan</AttributDE>
+    <AttributEN>Floor plan</AttributEN>
+    <AttributFR>Plan</AttributFR>
+    <AttributSP>plano de situación</AttributSP>
+    <AttributIT>Pianta</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>253</Nr>
+    <KategorieNr>1</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>100</Maximalwert>
+    <AttributDE>Anzahl Wohneinheiten</AttributDE>
+    <AttributEN>Number of accomodation units</AttributEN>
+    <AttributFR>Nombre de modules d'habitation</AttributFR>
+    <AttributSP>nº de alojamientos</AttributSP>
+    <AttributIT>Totale unità abitative</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>255</Nr>
+    <KategorieNr>1</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>80</Maximalwert>
+    <AttributDE>Anzahl Stockwerke</AttributDE>
+    <AttributEN>Number of floors</AttributEN>
+    <AttributFR>Nombre d'étages</AttributFR>
+    <AttributSP>nº de plantas</AttributSP>
+    <AttributIT>Totale piani</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>256</Nr>
+    <KategorieNr>1</KategorieNr>
+    <Typ>5</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Stockwerk</AttributDE>
+    <AttributEN>Floor</AttributEN>
+    <AttributFR>Étage</AttributFR>
+    <AttributSP>Planta</AttributSP>
+    <AttributIT>Piano</AttributIT>
+    <Lookup>Stockwerk</Lookup>
+  </Attribut>
+  <Attribut>
+    <Nr>257</Nr>
+    <KategorieNr>1</KategorieNr>
+    <Typ>4</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Bei Ferienwohnungen Aufzug vorhanden</AttributDE>
+    <AttributEN>Lift available</AttributEN>
+    <AttributFR>En cas de logement de vacances y-a-t'il un ascenseur</AttributFR>
+    <AttributSP>Ascensor en caso de apartamento</AttributSP>
+    <AttributIT>Per appartamenti per ferie Ascensore presente</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>260</Nr>
+    <KategorieNr>1</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>10</Maximalwert>
+    <AttributDE>Anzahl Badezimmer</AttributDE>
+    <AttributEN>Number of bathrooms</AttributEN>
+    <AttributFR>Nombre de salles de bain avec WC</AttributFR>
+    <AttributSP>Nº de baños</AttributSP>
+    <AttributIT>Totale camere da bagno</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>261</Nr>
+    <KategorieNr>1</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>10</Maximalwert>
+    <AttributDE>Anzahl Schlafzimmer</AttributDE>
+    <AttributEN>Number of bedrooms</AttributEN>
+    <AttributFR>Nombre de chambres à coucher</AttributFR>
+    <AttributSP>Nº de dormitorios</AttributSP>
+    <AttributIT>Totale camere da letto</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>262</Nr>
+    <KategorieNr>1</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>10</Maximalwert>
+    <AttributDE>Anzahl Bad ohne WC</AttributDE>
+    <AttributEN>Number of bathrooms  without toilet</AttributEN>
+    <AttributFR>Nombre de salles de bain sans WC</AttributFR>
+    <AttributSP>nº de baños sin WC</AttributSP>
+    <AttributIT>Totale bagni senza servizi</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>263</Nr>
+    <KategorieNr>1</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>10</Maximalwert>
+    <AttributDE>Anzahl WC</AttributDE>
+    <AttributEN>Number of toilets</AttributEN>
+    <AttributFR>WC sans salle de bain</AttributFR>
+    <AttributSP>Nº de WC</AttributSP>
+    <AttributIT>Totale servizi</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>266</Nr>
+    <KategorieNr>52</KategorieNr>
+    <Typ>3</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Entfernung nächster Skilift/Bergbahn/Loipe</AttributDE>
+    <AttributEN>Distance to next ski lift/mountain railway/cross-country skiing trail</AttributEN>
+    <AttributFR>Distance au prochain élévateur de ski/chemin de fer alpin</AttributFR>
+    <AttributSP>Distancia a telesquí/remonte/pista de esquí nórdico</AttributSP>
+    <AttributIT>Distanza da skilift / funicolare / pista più vicino/a</AttributIT>
+    <EinheitDE>km</EinheitDE>
+    <EinheitEN>km</EinheitEN>
+    <EinheitFR>km</EinheitFR>
+    <EinheitSP>km</EinheitSP>
+    <EinheitIT>km</EinheitIT>
+  </Attribut>
+  <Attribut>
+    <Nr>268</Nr>
+    <KategorieNr>13</KategorieNr>
+    <Typ>1</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Sonstige Telekommunikation</AttributDE>
+    <AttributEN>Other telecommunications</AttributEN>
+    <AttributFR>Autre télécommunications</AttributFR>
+    <AttributSP>Otros telecomunicaciones</AttributSP>
+    <AttributIT>Altre telecomunicazioni</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>269</Nr>
+    <KategorieNr>4</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Davon Schlafsofas</AttributDE>
+    <AttributEN>Of this sofa beds</AttributEN>
+    <AttributFR>Dont divans</AttributFR>
+    <AttributSP>de los cuales sofá-camas</AttributSP>
+    <AttributIT>Di cui divani letto</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>271</Nr>
+    <KategorieNr>5</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Größe des Gartenhauses/Pavillons</AttributDE>
+    <AttributEN>Size of the summer-house/pavilion</AttributEN>
+    <AttributFR>Dimension de la véranda/du pavillon</AttributFR>
+    <AttributSP>tamaño de la caseta de jardín/pabellón</AttributSP>
+    <AttributIT>Dimensioni serra / padiglione</AttributIT>
+    <EinheitDE>m²</EinheitDE>
+    <EinheitEN>m²</EinheitEN>
+    <EinheitFR>m²</EinheitFR>
+    <EinheitSP>m²</EinheitSP>
+    <EinheitIT>m²</EinheitIT>
+  </Attribut>
+  <Attribut>
+    <Nr>273</Nr>
+    <KategorieNr>5</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Anzahl Sitzmöglichkeiten</AttributDE>
+    <AttributEN>Number of seats</AttributEN>
+    <AttributFR>Nombre de sièges</AttributFR>
+    <AttributSP>nº de asientos</AttributSP>
+    <AttributIT>Totale posti a sedere</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>275</Nr>
+    <KategorieNr>5</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Anzahl Gartentische</AttributDE>
+    <AttributEN>Number of garden-tables</AttributEN>
+    <AttributFR>Nombre de tables de jardin</AttributFR>
+    <AttributSP>nº de mesas de jardín</AttributSP>
+    <AttributIT>Totale tavolini da giardino</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>276</Nr>
+    <KategorieNr>5</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Anzahl Liegestühle</AttributDE>
+    <AttributEN>Number of deck chairs</AttributEN>
+    <AttributFR>Nombre de chaises longues</AttributFR>
+    <AttributSP>nº de tumbonas</AttributSP>
+    <AttributIT>Totale sedie a sdraio</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>277</Nr>
+    <KategorieNr>5</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Anzahl Sonnenschirme</AttributDE>
+    <AttributEN>Number of parasols</AttributEN>
+    <AttributFR>Nombre de parasols</AttributFR>
+    <AttributSP>nº de sombrillas</AttributSP>
+    <AttributIT>Totale ombrelloni</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>278</Nr>
+    <KategorieNr>5</KategorieNr>
+    <Typ>5</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Grill</AttributDE>
+    <AttributEN>Barbecue</AttributEN>
+    <AttributFR>Barbecue</AttributFR>
+    <AttributSP>barbacoa</AttributSP>
+    <AttributIT>Griglia</AttributIT>
+    <Lookup>Grill</Lookup>
+  </Attribut>
+  <Attribut>
+    <Nr>279</Nr>
+    <KategorieNr>5</KategorieNr>
+    <Typ>1</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Sonstige Einrichtung</AttributDE>
+    <AttributEN>Other equipment</AttributEN>
+    <AttributFR>Autre équipement</AttributFR>
+    <AttributSP>otros equipamientos</AttributSP>
+    <AttributIT>Altri arredi</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>280</Nr>
+    <KategorieNr>19</KategorieNr>
+    <Typ>6</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Symbole für Besonderheiten</AttributDE>
+    <AttributEN>Symbols for special features</AttributEN>
+    <AttributFR>Symboles pour des particularités</AttributFR>
+    <AttributSP>Símbolos para particularidades</AttributSP>
+    <AttributIT>Simboli particolari</AttributIT>
+    <Lookup>Symbole</Lookup>
+  </Attribut>
+  <Attribut>
+    <Nr>281</Nr>
+    <KategorieNr>1</KategorieNr>
+    <Typ>1</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Anmerkungen zur Renovierung</AttributDE>
+    <AttributEN>Notes of renovation</AttributEN>
+    <AttributFR>Remarques visant la rénovation</AttributFR>
+    <AttributSP>observaciones respecto a la reforma</AttributSP>
+    <AttributIT>Note al rinnovo</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>282</Nr>
+    <KategorieNr>3</KategorieNr>
+    <Typ>1</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Anmerkungen zur Belegung</AttributDE>
+    <AttributEN>Notes on occupancy</AttributEN>
+    <AttributFR>Remarques visant l'occupation</AttributFR>
+    <AttributSP>Observación referente la ocupación</AttributSP>
+    <AttributIT>Note al numero di persone</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>284</Nr>
+    <KategorieNr>43</KategorieNr>
+    <Typ>5</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Art der Küche</AttributDE>
+    <AttributEN>Kitchen type</AttributEN>
+    <AttributFR>Type de cuisine</AttributFR>
+    <AttributSP>tipo de cocina</AttributSP>
+    <AttributIT>Tipo di cucina</AttributIT>
+    <Lookup>KüchenArt</Lookup>
+  </Attribut>
+  <Attribut>
+    <Nr>286</Nr>
+    <KategorieNr>6</KategorieNr>
+    <Typ>1</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Sonstige Lage</AttributDE>
+    <AttributEN>Other location</AttributEN>
+    <AttributFR>Autre situation</AttributFR>
+    <AttributSP>Otros situación</AttributSP>
+    <AttributIT>Altra posizione</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>287</Nr>
+    <KategorieNr>7</KategorieNr>
+    <Typ>7</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Sonstiges</AttributDE>
+    <AttributEN>Other</AttributEN>
+    <AttributFR>Divers</AttributFR>
+    <AttributSP>otros</AttributSP>
+    <AttributIT>Altro</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>288</Nr>
+    <KategorieNr>7</KategorieNr>
+    <Typ>1</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Sonstige Ausstattung</AttributDE>
+    <AttributEN>Other</AttributEN>
+    <AttributFR>Divers</AttributFR>
+    <AttributSP>Otros equipamientos</AttributSP>
+    <AttributIT>Altra dotazione</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>289</Nr>
+    <KategorieNr>9</KategorieNr>
+    <Typ>7</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Sonstiges</AttributDE>
+    <AttributEN>Other</AttributEN>
+    <AttributFR>Divers</AttributFR>
+    <AttributSP>Otros</AttributSP>
+    <AttributIT>Altro</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>290</Nr>
+    <KategorieNr>52</KategorieNr>
+    <Typ>3</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Entfernung See</AttributDE>
+    <AttributEN>Distance to lake</AttributEN>
+    <AttributFR>Distance au lac</AttributFR>
+    <AttributSP>Distancia al lago</AttributSP>
+    <AttributIT>Distanza dal lago</AttributIT>
+    <EinheitDE>km</EinheitDE>
+    <EinheitEN>km</EinheitEN>
+    <EinheitFR>km</EinheitFR>
+    <EinheitSP>km</EinheitSP>
+    <EinheitIT>km</EinheitIT>
+  </Attribut>
+  <Attribut>
+    <Nr>291</Nr>
+    <KategorieNr>7</KategorieNr>
+    <Typ>4</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Restaurant im/am Haus</AttributDE>
+    <AttributEN>Restaurant in/at house</AttributEN>
+    <AttributFR>Restaurant dans le/au logement</AttributFR>
+    <AttributSP>restaurante en el inmueble o recinto</AttributSP>
+    <AttributIT>Ristorante in / presso la casa</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>292</Nr>
+    <KategorieNr>7</KategorieNr>
+    <Typ>7</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Sonstige</AttributDE>
+    <AttributEN>Others</AttributEN>
+    <AttributFR>Autres</AttributFR>
+    <AttributSP>otras</AttributSP>
+    <AttributIT>Altri</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>295</Nr>
+    <KategorieNr>52</KategorieNr>
+    <Typ>6</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Unmittelbare Umgebung</AttributDE>
+    <AttributEN>Direct surroundings</AttributEN>
+    <AttributFR>Possibilités de loisirs dans les environs</AttributFR>
+    <AttributSP>Proximidades</AttributSP>
+    <AttributIT>Immediate vicinanze</AttributIT>
+    <Lookup>FreizeitUmgebung</Lookup>
+  </Attribut>
+  <Attribut>
+    <Nr>296</Nr>
+    <KategorieNr>52</KategorieNr>
+    <Typ>7</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Sonstige Sport- und Freizeitmöglichkeiten</AttributDE>
+    <AttributEN>Other leisure facilities</AttributEN>
+    <AttributFR>Autres possibilités de loisirs</AttributFR>
+    <AttributSP>Otras facilidades de deporte y ocio</AttributSP>
+    <AttributIT>Altri impianti sportivi e per il tempo libero</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>298</Nr>
+    <KategorieNr>11</KategorieNr>
+    <Typ>7</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Anmerkungen zur Anbindung (Flughafen, Autobahn, Bahnhof)</AttributDE>
+    <AttributEN>Notes for connections (airport, motorway,train  station)</AttributEN>
+    <AttributFR>Remarques visant les liaisons (aéroport, autoroute, gare)</AttributFR>
+    <AttributSP>observaciones respecto a las conexiones (aeropuerto, autopista, estación de tren)</AttributSP>
+    <AttributIT>Note sui collegamenti (aeroporto, autostrada, stazione ferroviaria)</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>299</Nr>
+    <KategorieNr>6</KategorieNr>
+    <Typ>4</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Beeinträchtigung des Objektes durch Lärm</AttributDE>
+    <AttributEN>Impairment by noise</AttributEN>
+    <AttributFR>Objet pollué par le bruit</AttributFR>
+    <AttributSP>Posibles molestias por ruido</AttributSP>
+    <AttributIT>Disturbi causati dal rumore</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>300</Nr>
+    <KategorieNr>42</KategorieNr>
+    <Typ>4</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Bettwäsche vorhanden</AttributDE>
+    <AttributEN>Bedlinen available</AttributEN>
+    <AttributFR>Linge de lit fourni</AttributFR>
+    <AttributSP>sábanas disponibles</AttributSP>
+    <AttributIT>Biancheria da letto disponibile</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>301</Nr>
+    <KategorieNr>42</KategorieNr>
+    <Typ>4</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Handtücher vorhanden</AttributDE>
+    <AttributEN>Towels available</AttributEN>
+    <AttributFR>Serviettes fournies</AttributFR>
+    <AttributSP>toallas disponibles</AttributSP>
+    <AttributIT>Asciugamani disponibili</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>303</Nr>
+    <KategorieNr>13</KategorieNr>
+    <Typ>5</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Endreinigung</AttributDE>
+    <AttributEN>Final cleaning</AttributEN>
+    <AttributFR>Nettoyage final</AttributFR>
+    <AttributSP>limpieza final</AttributSP>
+    <AttributIT>Pulizia finale</AttributIT>
+    <Lookup>Endreinigung</Lookup>
+  </Attribut>
+  <Attribut>
+    <Nr>304</Nr>
+    <KategorieNr>1</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>10</Maximalwert>
+    <AttributDE>Anzahl Küchen</AttributDE>
+    <AttributEN>Number of kitchens</AttributEN>
+    <AttributFR>Nombre de cuisines</AttributFR>
+    <AttributSP>Nº de cocinas</AttributSP>
+    <AttributIT>Totale cucine</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>306</Nr>
+    <KategorieNr>1</KategorieNr>
+    <Typ>1</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Sonstige Räume</AttributDE>
+    <AttributEN>Other rooms</AttributEN>
+    <AttributFR>Autres pièces</AttributFR>
+    <AttributSP>Otras habitaciones</AttributSP>
+    <AttributIT>Altre camere</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>307</Nr>
+    <KategorieNr>4</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Anzahl Schlafgelegenheiten</AttributDE>
+    <AttributEN>Number of sleeping facilities</AttributEN>
+    <AttributFR>Nombre de lits</AttributFR>
+    <AttributSP>Nº de camas</AttributSP>
+    <AttributIT>Totale posti letto</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>309</Nr>
+    <KategorieNr>43</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Anzahl Herdplatten</AttributDE>
+    <AttributEN>Number of hot plates</AttributEN>
+    <AttributFR>Nombre de plaque</AttributFR>
+    <AttributSP>nº de fuegos</AttributSP>
+    <AttributIT>Totale piastre di cottura</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>310</Nr>
+    <KategorieNr>1</KategorieNr>
+    <Typ>1</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Erlaubte Haustiere</AttributDE>
+    <AttributEN>Pets allowed</AttributEN>
+    <AttributFR>Animaux domestiques autorisés</AttributFR>
+    <AttributSP>Animales domésticos permitidos</AttributSP>
+    <AttributIT>Animali domestici consentiti</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>311</Nr>
+    <KategorieNr>13</KategorieNr>
+    <Typ>1</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>in allen Räumen ausser</AttributDE>
+    <AttributEN>In all rooms except</AttributEN>
+    <AttributFR>dans toutes les pièces sauf</AttributFR>
+    <AttributSP>en todas las habitaciones excepto</AttributSP>
+    <AttributIT>in tutte le camere ad eccezione di</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>312</Nr>
+    <KategorieNr>13</KategorieNr>
+    <Typ>1</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Sonstige Einrichtungen</AttributDE>
+    <AttributEN>Other equipment</AttributEN>
+    <AttributFR>Autres équipements</AttributFR>
+    <AttributSP>Otros equipamiento</AttributSP>
+    <AttributIT>Altri arredi</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>313</Nr>
+    <KategorieNr>7</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Gartengrösse</AttributDE>
+    <AttributEN>Size</AttributEN>
+    <AttributFR>Surface du jardin</AttributFR>
+    <AttributSP>Tamaño del jardín</AttributSP>
+    <AttributIT>Dimensioni giardino</AttributIT>
+    <EinheitDE>m²</EinheitDE>
+    <EinheitEN>m²</EinheitEN>
+    <EinheitFR>m²</EinheitFR>
+    <EinheitSP>m²</EinheitSP>
+    <EinheitIT>m²</EinheitIT>
+  </Attribut>
+  <Attribut>
+    <Nr>314</Nr>
+    <KategorieNr>52</KategorieNr>
+    <Typ>1</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Sonstiges</AttributDE>
+    <AttributEN>Other</AttributEN>
+    <AttributFR>Divers</AttributFR>
+    <AttributSP>Otros</AttributSP>
+    <AttributIT>Altro</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>315</Nr>
+    <KategorieNr>7</KategorieNr>
+    <Typ>6</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Gartenausstattung</AttributDE>
+    <AttributEN>Garden facilities</AttributEN>
+    <AttributFR>Equipement du jardin</AttributFR>
+    <AttributSP>Equipamiento del jardín</AttributSP>
+    <AttributIT>Dotazione giardino</AttributIT>
+    <Lookup>Freiflaechen</Lookup>
+  </Attribut>
+  <Attribut>
+    <Nr>316</Nr>
+    <KategorieNr>7</KategorieNr>
+    <Typ>1</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Sonstiges</AttributDE>
+    <AttributEN>Other</AttributEN>
+    <AttributFR>Divers</AttributFR>
+    <AttributSP>otros</AttributSP>
+    <AttributIT>Altro</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>317</Nr>
+    <KategorieNr>7</KategorieNr>
+    <Typ>6</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Sonstige Freiflächen (Alleinige Nutzung)</AttributDE>
+    <AttributEN>Other free space (exclusive use)</AttributEN>
+    <AttributFR>Autres espaces (utilisation exclusive)</AttributFR>
+    <AttributSP>otros espacios (uso exclusivo)</AttributSP>
+    <AttributIT>Altre superfici utilizzabili (uso esclusivo)</AttributIT>
+    <Lookup>Freiflaechen</Lookup>
+  </Attribut>
+  <Attribut>
+    <Nr>318</Nr>
+    <KategorieNr>52</KategorieNr>
+    <Typ>1</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Sonstige Aussichten</AttributDE>
+    <AttributEN>Other views</AttributEN>
+    <AttributFR>Autres vues</AttributFR>
+    <AttributSP>Otras vistas</AttributSP>
+    <AttributIT>Altre viste</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>319</Nr>
+    <KategorieNr>52</KategorieNr>
+    <Typ>1</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Sonstiges</AttributDE>
+    <AttributEN>Other</AttributEN>
+    <AttributFR>Divers</AttributFR>
+    <AttributSP>Otros</AttributSP>
+    <AttributIT>Altro</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>320</Nr>
+    <KategorieNr>7</KategorieNr>
+    <Typ>1</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Sonstige</AttributDE>
+    <AttributEN>Other</AttributEN>
+    <AttributFR>Divers</AttributFR>
+    <AttributSP>otros</AttributSP>
+    <AttributIT>Altri</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>321</Nr>
+    <KategorieNr>7</KategorieNr>
+    <Typ>1</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Sonstige Freizeiteinrichtungen</AttributDE>
+    <AttributEN>Other Leisure facilities</AttributEN>
+    <AttributFR>Autres installations de loisirs</AttributFR>
+    <AttributSP>Otros equipamientos de ocio</AttributSP>
+    <AttributIT>Altri impianti per il tempo libero</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>322</Nr>
+    <KategorieNr>52</KategorieNr>
+    <Typ>7</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Ortsbeschreibung</AttributDE>
+    <AttributEN>Location description</AttributEN>
+    <AttributFR>Description du lieu</AttributFR>
+    <AttributSP>Descripción de la población</AttributSP>
+    <AttributIT>Descrizione del luogo</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>323</Nr>
+    <KategorieNr>17</KategorieNr>
+    <Typ>1</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Kurztext (max. 10 Wörter)</AttributDE>
+    <AttributEN>Short text (max 10 words)</AttributEN>
+    <AttributFR>Texte court (10 mots max.)</AttributFR>
+    <AttributSP>texto corto (max. 10 palabras)</AttributSP>
+    <AttributIT>Breve testo (max. 10 parole)</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>326</Nr>
+    <KategorieNr>52</KategorieNr>
+    <Typ>3</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Entfernung Meer / See</AttributDE>
+    <AttributEN>Distance to sea/lake</AttributEN>
+    <AttributFR>Distance de la mer/ du lac</AttributFR>
+    <AttributSP>Distancia al mar/lago</AttributSP>
+    <AttributIT>Distanza dal mare / lago</AttributIT>
+    <EinheitDE>km</EinheitDE>
+    <EinheitEN>km</EinheitEN>
+    <EinheitFR>km</EinheitFR>
+    <EinheitSP>km</EinheitSP>
+    <EinheitIT>km</EinheitIT>
+  </Attribut>
+  <Attribut>
+    <Nr>327</Nr>
+    <KategorieNr>20</KategorieNr>
+    <Typ>11</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Bild 6</AttributDE>
+    <AttributEN>Picture 6</AttributEN>
+    <AttributFR>Image 6</AttributFR>
+    <AttributSP>Foto 6</AttributSP>
+    <AttributIT>Foto 6</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>328</Nr>
+    <KategorieNr>20</KategorieNr>
+    <Typ>11</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Bild 7</AttributDE>
+    <AttributEN>Picture 7</AttributEN>
+    <AttributFR>Image 7</AttributFR>
+    <AttributSP>Foto 7</AttributSP>
+    <AttributIT>Foto 7</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>329</Nr>
+    <KategorieNr>20</KategorieNr>
+    <Typ>11</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Bild 8</AttributDE>
+    <AttributEN>Picture 8</AttributEN>
+    <AttributFR>Image 8</AttributFR>
+    <AttributSP>Foto 8</AttributSP>
+    <AttributIT>Foto 8</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>330</Nr>
+    <KategorieNr>20</KategorieNr>
+    <Typ>11</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Bild 9</AttributDE>
+    <AttributEN>Picture 9</AttributEN>
+    <AttributFR>Image 9</AttributFR>
+    <AttributSP>Foto 9</AttributSP>
+    <AttributIT>Foto 9</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>331</Nr>
+    <KategorieNr>20</KategorieNr>
+    <Typ>11</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Bild 10</AttributDE>
+    <AttributEN>Picture 10</AttributEN>
+    <AttributFR>Image 10</AttributFR>
+    <AttributSP>Foto 10</AttributSP>
+    <AttributIT>Foto 10</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>332</Nr>
+    <KategorieNr>20</KategorieNr>
+    <Typ>11</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Bild 11</AttributDE>
+    <AttributEN>Picture 11</AttributEN>
+    <AttributFR>Image 11</AttributFR>
+    <AttributSP>Foto 11</AttributSP>
+    <AttributIT>Foto 11</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>333</Nr>
+    <KategorieNr>20</KategorieNr>
+    <Typ>11</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Bild 12</AttributDE>
+    <AttributEN>Picture 12</AttributEN>
+    <AttributFR>Image 12</AttributFR>
+    <AttributSP>Foto 12</AttributSP>
+    <AttributIT>Foto 12</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>334</Nr>
+    <KategorieNr>20</KategorieNr>
+    <Typ>11</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Bild 13</AttributDE>
+    <AttributEN>Picture 13</AttributEN>
+    <AttributFR>Image 13</AttributFR>
+    <AttributSP>Foto 13</AttributSP>
+    <AttributIT>Foto 13</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>335</Nr>
+    <KategorieNr>20</KategorieNr>
+    <Typ>11</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Bild 14</AttributDE>
+    <AttributEN>Picture 14</AttributEN>
+    <AttributFR>Image 14</AttributFR>
+    <AttributSP>Foto 14</AttributSP>
+    <AttributIT>Foto 14</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>336</Nr>
+    <KategorieNr>20</KategorieNr>
+    <Typ>11</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Bild 15</AttributDE>
+    <AttributEN>Picture 15</AttributEN>
+    <AttributFR>Image 15</AttributFR>
+    <AttributSP>Foto 15</AttributSP>
+    <AttributIT>Foto 15</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>337</Nr>
+    <KategorieNr>20</KategorieNr>
+    <Typ>11</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Bild 16</AttributDE>
+    <AttributEN>Picture 16</AttributEN>
+    <AttributFR>Image 16</AttributFR>
+    <AttributSP>Foto 16</AttributSP>
+    <AttributIT>Foto 16</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>338</Nr>
+    <KategorieNr>20</KategorieNr>
+    <Typ>11</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Bild 17</AttributDE>
+    <AttributEN>Picture 17</AttributEN>
+    <AttributFR>Image 17</AttributFR>
+    <AttributSP>Foto 17</AttributSP>
+    <AttributIT>Foto 17</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>339</Nr>
+    <KategorieNr>20</KategorieNr>
+    <Typ>11</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Bild 18</AttributDE>
+    <AttributEN>Picture 18</AttributEN>
+    <AttributFR>Image 18</AttributFR>
+    <AttributSP>Foto 18</AttributSP>
+    <AttributIT>Foto 18</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>340</Nr>
+    <KategorieNr>20</KategorieNr>
+    <Typ>11</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Bild 19</AttributDE>
+    <AttributEN>Picture 19</AttributEN>
+    <AttributFR>Image 19</AttributFR>
+    <AttributSP>Foto 19</AttributSP>
+    <AttributIT>Foto 19</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>341</Nr>
+    <KategorieNr>20</KategorieNr>
+    <Typ>11</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Bild 20</AttributDE>
+    <AttributEN>Picture 20</AttributEN>
+    <AttributFR>Image 20</AttributFR>
+    <AttributSP>Foto 20</AttributSP>
+    <AttributIT>Foto 20</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>342</Nr>
+    <KategorieNr>52</KategorieNr>
+    <Typ>3</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Entfernung Fjord</AttributDE>
+    <AttributEN>Distance to fjord</AttributEN>
+    <AttributFR>Distance du fjord</AttributFR>
+    <AttributSP>Distancia al fiordo</AttributSP>
+    <AttributIT>Distanza dal fiordo</AttributIT>
+    <EinheitDE>km</EinheitDE>
+    <EinheitEN>km</EinheitEN>
+    <EinheitFR>km</EinheitFR>
+    <EinheitSP>km</EinheitSP>
+    <EinheitIT>km</EinheitIT>
+  </Attribut>
+  <Attribut>
+    <Nr>343</Nr>
+    <KategorieNr>52</KategorieNr>
+    <Typ>3</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Entfernung Angelmöglichkeit</AttributDE>
+    <AttributEN>Distance to fishing spot</AttributEN>
+    <AttributFR>Distance du lieu de pêche</AttributFR>
+    <AttributSP>Distancia a lugar de pesca</AttributSP>
+    <AttributIT>Distanza dalle possibilità di pesca</AttributIT>
+    <EinheitDE>km</EinheitDE>
+    <EinheitEN>km</EinheitEN>
+    <EinheitFR>km</EinheitFR>
+    <EinheitSP>km</EinheitSP>
+    <EinheitIT>km</EinheitIT>
+  </Attribut>
+  <Attribut>
+    <Nr>344</Nr>
+    <KategorieNr>52</KategorieNr>
+    <Typ>3</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Entfernung Gewässer</AttributDE>
+    <AttributEN>Distance to waters</AttributEN>
+    <AttributFR>Distance de l'eau</AttributFR>
+    <AttributSP>Distancia a lago/río</AttributSP>
+    <AttributIT>Distanza dall'acqua</AttributIT>
+    <EinheitDE>km</EinheitDE>
+    <EinheitEN>km</EinheitEN>
+    <EinheitFR>km</EinheitFR>
+    <EinheitSP>km</EinheitSP>
+    <EinheitIT>km</EinheitIT>
+  </Attribut>
+  <Attribut>
+    <Nr>346</Nr>
+    <KategorieNr>50</KategorieNr>
+    <Typ>6</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Objekt Zusatzinfo</AttributDE>
+    <AttributEN>Additional information about the property</AttributEN>
+    <AttributFR>Informations suplémentaire sur la maison</AttributFR>
+    <AttributSP>Información adicional alojamiento</AttributSP>
+    <AttributIT>Informazioni supplementari sull'oggetto</AttributIT>
+    <Lookup>ObjektZusatzInfo</Lookup>
+  </Attribut>
+  <Attribut>
+    <Nr>347</Nr>
+    <KategorieNr>50</KategorieNr>
+    <Typ>1</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Bemerkungen e-domizil</AttributDE>
+    <AttributEN>Comments of  e-domizil</AttributEN>
+    <AttributFR>Remarques e-domizil</AttributFR>
+    <AttributSP>Observaciones de e-domizil</AttributSP>
+    <AttributIT>Note e-domicilio</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>348</Nr>
+    <KategorieNr>45</KategorieNr>
+    <Typ>1</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Katalogseite</AttributDE>
+    <AttributEN>Catalog page</AttributEN>
+    <AttributFR>Page du catalogue</AttributFR>
+    <AttributSP>página del catálogo</AttributSP>
+    <AttributIT>Pagina catalogo</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>349</Nr>
+    <KategorieNr>1</KategorieNr>
+    <Typ>4</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Gartennutzung möglich</AttributDE>
+    <AttributEN>Access to garden</AttributEN>
+    <AttributFR>Utilisation du jardin possible</AttributFR>
+    <AttributSP>uso de jardín permitido</AttributSP>
+    <AttributIT>Possibile uso giardino</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>350</Nr>
+    <KategorieNr>4</KategorieNr>
+    <Typ>6</Typ>
+    <AttributDE>Beschreibung Schlafgelegenheit</AttributDE>
+    <AttributEN>Type of sleeping facilities</AttributEN>
+    <AttributFR>Description des lits</AttributFR>
+    <AttributSP>Descripción de las camas</AttributSP>
+    <AttributIT>Descrizione posto letto</AttributIT>
+    <Lookup>WZSchlafgelegenheit</Lookup>
+  </Attribut>
+  <Attribut>
+    <Nr>351</Nr>
+    <KategorieNr>4</KategorieNr>
+    <Typ>4</Typ>
+    <AttributDE>Wohnzimmer abdunkelbar</AttributDE>
+    <AttributEN>Blinds available</AttributEN>
+    <AttributFR>Salle de séjour occultable</AttributFR>
+    <AttributSP>Salón con persianas o cortinas opacas</AttributSP>
+    <AttributIT>Soggiorno oscurabile</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>352</Nr>
+    <KategorieNr>41</KategorieNr>
+    <Typ>2</Typ>
+    <Minimalwert>0</Minimalwert>
+    <Maximalwert>10</Maximalwert>
+    <AttributDE>Anzahl Etagenbetten</AttributDE>
+    <AttributEN>Number of bunk beds</AttributEN>
+    <AttributFR>Nombre de lits doubles</AttributFR>
+    <AttributSP>Nº de literas</AttributSP>
+    <AttributIT>Totale letti a castello</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>354</Nr>
+    <KategorieNr>7</KategorieNr>
+    <Typ>5</Typ>
+    <AttributDE>Gartennutzung</AttributDE>
+    <AttributEN>Garden utilisation</AttributEN>
+    <AttributFR>Utilisation du jardin</AttributFR>
+    <AttributSP>Uso del jardín</AttributSP>
+    <AttributIT>Uso giardino</AttributIT>
+    <Lookup>GartenNutzung</Lookup>
+  </Attribut>
+  <Attribut>
+    <Nr>355</Nr>
+    <KategorieNr>52</KategorieNr>
+    <Typ>1</Typ>
+    <AttributDE>Name der Stadt</AttributDE>
+    <AttributEN>Town name</AttributEN>
+    <AttributFR>Nom de la ville</AttributFR>
+    <AttributSP>Nombre de la ciudad</AttributSP>
+    <AttributIT>Nome della città</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>356</Nr>
+    <KategorieNr>54</KategorieNr>
+    <Typ>5</Typ>
+    <AttributDE>Schlüsselübergabe</AttributDE>
+    <AttributEN>Hand-over of keys</AttributEN>
+    <AttributFR>Remise des clés</AttributFR>
+    <AttributSP>Entrega de llaves</AttributSP>
+    <AttributIT>Consegna delle chiavi</AttributIT>
+    <Lookup>Schluessel</Lookup>
+  </Attribut>
+  <Attribut>
+    <Nr>357</Nr>
+    <KategorieNr>54</KategorieNr>
+    <Typ>7</Typ>
+    <AttributDE>Schlüsselhalter</AttributDE>
+    <AttributEN>Key holder - name</AttributEN>
+    <AttributFR>Détenteur des clés &lt;br&lt;(Prénom Nom&lt;br&gt; Numéro Rue&lt;br&gt; Code Postal &lt;br&gt;Téléphone  &lt;br&gt; e-mail)&lt;br&gt;&lt;font color=red&gt;* à la sélection du détenteur des clés&lt;/font&gt;</AttributFR>
+    <AttributSP>Responsable de llaves</AttributSP>
+    <AttributIT>Titolare chiavi&lt;br&gt;(Nome Cognome&lt;br&gt;Via Numero civico&lt;br&gt;CAP Città&lt;br&gt;Telefono&lt;br&gt;e-mail)&lt;br&gt;&lt;font color=red&gt;* per selezione titolare chiavi&lt;/font&gt;</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>360</Nr>
+    <KategorieNr>54</KategorieNr>
+    <Typ>7</Typ>
+    <AttributDE>Sonstige Schlüsselübergabe</AttributDE>
+    <AttributEN>Other hand-over of keys</AttributEN>
+    <AttributFR>Remarques sur la remise des clés</AttributFR>
+    <AttributSP>Otros entrega de llaves</AttributSP>
+    <AttributIT>Altra consegna delle chiavi</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>361</Nr>
+    <KategorieNr>1</KategorieNr>
+    <Typ>6</Typ>
+    <AttributDE>Aussenanlage</AttributDE>
+    <AttributEN>Outdoor facilities</AttributEN>
+    <AttributFR>Installations extérieures</AttributFR>
+    <AttributSP>Exteriores</AttributSP>
+    <AttributIT>Zone esterne</AttributIT>
+    <Lookup>Outdoor</Lookup>
+  </Attribut>
+  <Attribut>
+    <Nr>362</Nr>
+    <KategorieNr>51</KategorieNr>
+    <Typ>3</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Größe</AttributDE>
+    <AttributEN>Room size</AttributEN>
+    <AttributFR>Dimensions</AttributFR>
+    <AttributSP>Tamaño</AttributSP>
+    <AttributIT>Dimensioni</AttributIT>
+    <EinheitDE>m²</EinheitDE>
+    <EinheitEN>m²</EinheitEN>
+    <EinheitFR>m²</EinheitFR>
+    <EinheitSP>m²</EinheitSP>
+    <EinheitIT>m²</EinheitIT>
+  </Attribut>
+  <Attribut>
+    <Nr>363</Nr>
+    <KategorieNr>51</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>10</Maximalwert>
+    <AttributDE>Anzahl Doppelbetten</AttributDE>
+    <AttributEN>Number of double beds</AttributEN>
+    <AttributFR>Nombre de lits doubles</AttributFR>
+    <AttributSP>Nº de camas dobles</AttributSP>
+    <AttributIT>Totale letti matrimoniali</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>364</Nr>
+    <KategorieNr>51</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>10</Maximalwert>
+    <AttributDE>Anzahl Einzelbetten</AttributDE>
+    <AttributEN>Number of single beds</AttributEN>
+    <AttributFR>Nombre de lits simples</AttributFR>
+    <AttributSP>Nº de camas individuales</AttributSP>
+    <AttributIT>Totale letti singoli</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>365</Nr>
+    <KategorieNr>51</KategorieNr>
+    <Typ>6</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Zimmerausstattung</AttributDE>
+    <AttributEN>Room furniture</AttributEN>
+    <AttributFR>Équipement de la salle de séjour</AttributFR>
+    <AttributSP>Equipamiento de la habitación</AttributSP>
+    <AttributIT>Dotazione delle camere</AttributIT>
+    <Lookup>Wohnzimmer</Lookup>
+  </Attribut>
+  <Attribut>
+    <Nr>366</Nr>
+    <KategorieNr>51</KategorieNr>
+    <Typ>7</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Sonstige Zimmerausstattung</AttributDE>
+    <AttributEN>Other living room features</AttributEN>
+    <AttributFR>Autre équipement de la salle de séjour</AttributFR>
+    <AttributSP>Otros equipamiento de la habitación</AttributSP>
+    <AttributIT>Altra dotazione delle camere</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>367</Nr>
+    <KategorieNr>51</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>10</Maximalwert>
+    <AttributDE>Anzahl Etagenbetten</AttributDE>
+    <AttributEN>Number of single beds</AttributEN>
+    <AttributFR>Nombre de lits simples</AttributFR>
+    <AttributSP>Nº de literas</AttributSP>
+    <AttributIT>Totale letti a castello</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>368</Nr>
+    <KategorieNr>51</KategorieNr>
+    <Typ>4</Typ>
+    <AttributDE>Zimmer abdunkelbar</AttributDE>
+    <AttributEN>Blinds available</AttributEN>
+    <AttributFR>Chambre à coucher occultable</AttributFR>
+    <AttributSP>Habitación con persianas o cortinas opacas</AttributSP>
+    <AttributIT>Camera oscurabile</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>369</Nr>
+    <KategorieNr>51</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>10</Maximalwert>
+    <AttributDE>Anzahl Kinderbetten</AttributDE>
+    <AttributEN>Number of cribs</AttributEN>
+    <AttributFR>Nombre de lits d'enfants</AttributFR>
+    <AttributSP>Nº de camas de niño</AttributSP>
+    <AttributIT>Totale letti per bambini</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>370</Nr>
+    <KategorieNr>51</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>10</Maximalwert>
+    <AttributDE>Anzahl Esstische</AttributDE>
+    <AttributEN>Number of tables</AttributEN>
+    <AttributFR>Nombre de tables à manger</AttributFR>
+    <AttributSP>Nº de mesas para comer</AttributSP>
+    <AttributIT>Totale tavoli da pranzo</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>371</Nr>
+    <KategorieNr>51</KategorieNr>
+    <Typ>2</Typ>
+    <Maximalwert>20</Maximalwert>
+    <AttributDE>Gesamtzahl Sitzplätze</AttributDE>
+    <AttributEN>Total number of seats</AttributEN>
+    <AttributFR>Nombre total de sièges</AttributFR>
+    <AttributSP>Nº total de asientos</AttributSP>
+    <AttributIT>Totale posti a sedere</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>372</Nr>
+    <KategorieNr>50</KategorieNr>
+    <Typ>1</Typ>
+    <AttributDE>Objekt Homepage</AttributDE>
+    <AttributEN>Property homepage</AttributEN>
+    <AttributFR>Page d'accueil de la maison</AttributFR>
+    <AttributSP>Página principal alojamiento</AttributSP>
+    <AttributIT>Homepage oggetto</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>373</Nr>
+    <KategorieNr>55</KategorieNr>
+    <Typ>5</Typ>
+    <AttributDE>STV-Klassifikation</AttributDE>
+    <AttributEN>Classification STV</AttributEN>
+    <AttributFR>Classification STV</AttributFR>
+    <AttributSP>Clasificación STV</AttributSP>
+    <AttributIT>classificazione STV</AttributIT>
+    <Lookup>Klassifikation</Lookup>
+  </Attribut>
+  <Attribut>
+    <Nr>374</Nr>
+    <KategorieNr>55</KategorieNr>
+    <Typ>2</Typ>
+    <Minimalwert>0</Minimalwert>
+    <Maximalwert>5</Maximalwert>
+    <AttributDE>Anzahl Sterne</AttributDE>
+    <AttributEN>Number of stars</AttributEN>
+    <AttributFR>Nombre d'étoiles</AttributFR>
+    <AttributSP>Nº de estrellas</AttributSP>
+    <AttributIT>numero di stelle</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>375</Nr>
+    <KategorieNr>52</KategorieNr>
+    <Typ>1</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Name des Sees</AttributDE>
+    <AttributEN>Name of the lake</AttributEN>
+    <AttributFR>nom du lac</AttributFR>
+    <AttributSP>nombre del lago</AttributSP>
+    <AttributIT>nome del lago</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>376</Nr>
+    <KategorieNr>52</KategorieNr>
+    <Typ>1</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Name des Meeres</AttributDE>
+    <AttributEN>Name of the sea</AttributEN>
+    <AttributFR>nom de la mere</AttributFR>
+    <AttributSP>nombre del mar</AttributSP>
+    <AttributIT>nome del mare</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>377</Nr>
+    <KategorieNr>52</KategorieNr>
+    <Typ>1</Typ>
+    <Maximalwert>0</Maximalwert>
+    <AttributDE>Name des Skigebietes</AttributDE>
+    <AttributEN>Name of the ski-region</AttributEN>
+    <AttributFR>nom de la région de ski</AttributFR>
+    <AttributSP>nombre del área esquiable</AttributSP>
+    <AttributIT>nome della regione di sci</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>379</Nr>
+    <KategorieNr>53</KategorieNr>
+    <Typ>9</Typ>
+    <AttributDE>Planquadrat im Ortsplan</AttributDE>
+    <AttributEN>Grid Square in city map</AttributEN>
+    <AttributFR>Cadratin sur le plan de la localité</AttributFR>
+    <AttributSP>Grid Square in city map</AttributSP>
+    <AttributIT>Quadrato sulla pianta della località</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>380</Nr>
+    <KategorieNr>1</KategorieNr>
+    <Typ>5</Typ>
+    <Maximalwert>20</Maximalwert>
+    <AttributDE>Anzahl Zimmer</AttributDE>
+    <AttributEN>Number of rooms</AttributEN>
+    <AttributFR>Nombre de chambres</AttributFR>
+    <AttributSP>Número de habitación</AttributSP>
+    <AttributIT>Numero di camere</AttributIT>
+    <Lookup>Anzahl Zimmer</Lookup>
+  </Attribut>
+  <Attribut>
+    <Nr>381</Nr>
+    <KategorieNr>1</KategorieNr>
+    <Typ>1</Typ>
+    <Minimalwert>0</Minimalwert>
+    <Maximalwert>5</Maximalwert>
+    <AttributDE>Kategorie</AttributDE>
+    <AttributEN>Category</AttributEN>
+    <AttributFR>Catégorie</AttributFR>
+    <AttributSP>Categoría</AttributSP>
+    <AttributIT>Categoria</AttributIT>
+  </Attribut>
+  <Attribut>
+    <Nr>382</Nr>
+    <KategorieNr>53</KategorieNr>
+    <Typ>9</Typ>
+    <AttributDE>Ortsteil</AttributDE>
+    <AttributEN>District</AttributEN>
+    <AttributFR>Quartier</AttributFR>
+    <AttributSP>Pedania</AttributSP>
+    <AttributIT>Frazione</AttributIT>
+  </Attribut>
+</Attributs>

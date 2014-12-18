@@ -1,0 +1,79 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Unbenanntes Dokument</title>
+<link href="../../YUI/2.6.0/build/fonts/fonts-min.css" rel="stylesheet" type="text/css" />
+<script src="../../YUI/2.6.0/build/yahoo-dom-event/yahoo-dom-event.js" type="text/javascript"></script>
+<script src="../../YUI/2.6.0/build/dragdrop/dragdrop-min.js" type="text/javascript"></script>
+<script src="../../YUI/2.6.0/build/slider/slider-min.js" type="text/javascript"></script>
+</head>
+
+<body>
+
+<div id="yuislider1" tabindex="-1" title="Slider">
+  <style type="text/css">
+    #yuislider1 {
+      position: relative;
+      background:url(YUI/2.6.0/build/slider/assets/bg-fader.gif) 5px 0 no-repeat;
+      height:28px;
+      width:228px; 
+    }
+    #yuislider1_thumb {
+      cursor:default;
+      position: absolute;
+      top: 4px;
+    }
+  </style>
+  <div id="yuislider1_thumb"><img src="YUI/2.6.0/build/slider/assets/thumb-n.gif" width="17" height="21" /></div>
+</div>
+<script type="text/javascript">
+// BeginWebWidget YUI_Slider: yuislider1 
+
+  (function() { 
+    var cn = document.body.className.toString();
+    if (cn.indexOf('yui-skin-sam') == -1) {
+      document.body.className += " yui-skin-sam";
+    }
+  })();
+
+  var inityuislider1 = function() {
+    var yuislider1 = YAHOO.widget.Slider.getHorizSlider("yuislider1", 
+                                                    "yuislider1_thumb",
+                                                    0,
+                                                    200);
+
+    // The following event subscribers demonstrate how to handle
+    // YUI Slider events.  There are three Slider events to consume:
+    // - slideStart: This event fires at the start of slide operation.
+    // - slideEnd: This event fires when the slide operation is complete.
+    // - change: This event fires when the slider thumb is moved, and
+    //           receives the delta -- in pixels -- from the thumb's
+    //           previous position.
+    //
+    // The event handlers are written as inline, anonymous functions,
+    // but they can also be references to declared functions.
+    // Remove the comments to the subscriber code below to use them.
+    //
+    // See: http://developer.yahoo.com/yui/slider/ for more 
+    // information on the YUI Slider.
+    //
+    // The YUI Slider API cheatsheet can be found at:
+    // http://yuiblog.com/assets/pdf/cheatsheets/slider.pdf
+    //
+    //--- begin event subscribers ---//
+    // yuislider1.subscribe("slideStart", function() { });
+    // yuislider1.subscribe("slideEnd", function() { });
+    // yuislider1.subscribe("change", function(offset) { });
+    //--- end event subscribers ---//    
+  }
+  
+  // Create the YUI Slider when the HTML document is usable.
+  YAHOO.util.Event.onDOMReady(inityuislider1);
+
+
+
+// EndWebWidget YUI_Slider: yuislider1 
+</script>
+</body>
+</html>

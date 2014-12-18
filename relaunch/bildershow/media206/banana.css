@@ -1,0 +1,640 @@
+@charset "utf-8";
+/* CSS Document */
+
+*, #header a, #thumbs img, .u, .buttlink {
+
+	text-decoration:none;
+
+	margin:0;
+
+	padding:0;
+
+	border:0;
+
+	list-style:none;
+
+	float:none;
+
+}
+
+body {
+
+	font:80%/1.7 Verdana, Geneva, Arial, Helvetica, sans-serif;
+
+	background:#fff;
+
+	color:#333;
+
+}
+
+#header { overflow:hidden }
+
+#header a { display:block }
+
+#header img {
+
+	position:relative;
+
+	left:-35px;
+
+	margin:0 7%;
+
+}
+
+#content {
+
+	width:50%;
+
+	margin-left:7%;
+
+	position:absolute;
+
+	top:240px;
+
+	padding-bottom:5em;
+
+}
+
+#promo {
+
+	position:absolute;
+
+	top:240px;
+
+	right:0;
+
+	width:29%;
+
+	margin:2em 7% 0 0;
+
+	padding-bottom:5em;
+
+}
+
+h1, h2, h3, h4 {
+
+	font:4em/1.5 "Century Gothic", "Avant Garde", Futura, Helvetica;
+
+	font-weight:normal;
+
+	clear:left;
+
+	padding-top:1.2em;
+
+	line-height:1.2;
+
+	color:#f90;
+
+}
+
+h1, #hn { padding:0 }
+
+h2 {
+
+	font-size:2em;
+
+	color:#6c0;
+
+}
+
+h3 { font-size:1.5em }
+
+h4 {
+
+	font:bold 1em/1.5 verdana, arial, helvetica, sans-serif;
+
+	color:#333
+
+}
+
+p, ul { margin:0 0 1em 0 }
+
+p#intro, blockquote p {
+
+	font-size:1.2em;
+
+	color:#000;
+
+}
+
+p.further, cite, #photo, address {
+
+	font-style:italic;
+
+	color:#6c0;
+
+	display:block;
+
+	margin-bottom:1em;
+
+}
+
+a {
+
+	color:#06c;
+
+	border-bottom:0.08em solid #ccc;
+
+}
+
+a:visited { color:#96c }
+
+a:visited:hover { border-color:#96c }
+
+a:hover { border-color:#06c }
+
+a[href^="http://"] {
+
+	padding-right:13px;
+
+	background:url(images/ex.gif) right 0 repeat-y;
+
+}
+
+a[href*="atmedia2006"] {
+
+	padding:0;
+
+	background:none;
+
+}
+
+a[href^="http://"]:visited:hover { background-position:right 100px }
+
+a[href^="http://"]:hover { background-position:right 200px }
+
+.error {
+
+	font-weight: bold;
+
+	color: red;
+
+}
+
+blockquote {
+
+	clear:left;
+
+	position:relative;
+
+	left:-5%;
+
+	width:110%;
+
+	top:1em;
+
+	background:url(../images/quote_open.gif) top left no-repeat;
+
+}
+
+blockquote p {
+
+	padding:1em 5%;
+
+	margin:0;
+
+	background:url(../images/quote_close.gif) bottom right no-repeat;
+
+}
+
+cite { position:relative }
+
+#content cite a { color:#6c0 }
+
+code {
+
+	color:#900;
+
+	font:1em courier;
+
+	clear:left;
+
+	display:block;
+
+}
+
+.long {
+
+	float:left;
+
+	width:49.9%;
+
+}
+
+.long li { padding-bottom:0.5em }
+
+ul.short {
+
+	float:left;
+
+	width:100%;
+
+}
+
+li {
+
+	padding:0 0 1em 15px;
+
+	background:url(../images/bullet.gif) 0 0.6em no-repeat;
+
+}
+
+.short li {
+
+	padding:0;
+
+	text-indent:15px;
+
+	float:left;
+
+	width:49.9%;
+
+}
+
+#nav { padding-bottom:2em }
+
+#nav em { color:#ccc }
+
+
+
+#content img {
+
+	clear:left;
+
+	float:left;
+
+	margin:0.5em 1em 0.5em 0;
+
+}
+
+#content form img { clear: none }
+
+#photo {
+
+	background:#eee;
+
+	overflow:hidden
+
+}
+
+#photo img {
+
+	display:block;
+
+	float:none;
+
+	margin:0 0 0.5em 0;
+
+}
+
+
+
+.soopalink {
+
+	clear:left;
+
+	background:#E6F9FF;
+
+	position:relative;
+
+	left:-5%;
+
+	width:110%;
+
+}
+
+.soopalink h2 {
+
+	padding:0.5em 5% 0 5%;
+
+	background:url(../images/rn_tr_off.gif) top right no-repeat;
+
+}
+
+#promo .soopalink a {
+
+	color:#06c;
+
+	border:0;
+
+}
+
+.soopalink p {
+
+	font-size:1.2em;
+
+	padding:0 5% 1em 5%;
+
+	background:url(../images/rn_bl_off.gif) bottom left no-repeat;
+
+	margin:0;
+
+}
+
+.soopahover {
+
+	background:#09f;
+
+	cursor:pointer;
+
+}
+
+.soopahover h2 { background-image:url(../images/rn_tr_on.gif) }
+
+#promo .soopahover a { color:#A0E0F9 }
+
+.soopahover p {
+
+	color:#fff;
+
+	background-image:url(../images/rn_bl_on.gif);
+
+}
+
+
+
+#thumbs li {
+
+	float:left;
+
+	background: none;
+
+	padding: 0;
+
+	margin: 0 0 1em 0;
+
+}
+
+#thumbs a { border-bottom-width:0.16em }
+
+#promo #thumbs li {
+
+	width:33.333%;
+
+	margin: 0
+
+}
+
+#content #thumbs a {
+
+	margin-right: 1em;
+
+	float:left
+
+}
+
+#thumbs img {
+
+	margin:0;
+
+	padding: 0 0 0.3em 0;
+
+}
+
+#promo #thumbs img {
+
+	padding-bottom: 0.46em;
+
+	vertical-align: bottom;
+
+}
+
+.two { text-align:center }
+
+.three { text-align:right }
+
+
+
+
+
+fieldset {
+
+	padding:1em 5%;
+
+	margin: 0.5em 0 1em 0;
+
+	background:#ffd;
+
+	position:relative;
+
+	left:-5%;
+
+	width:100%;
+
+}
+
+legend { background:white }
+
+input, textarea, select {
+
+	display:block;
+
+	width:99%;
+
+	margin-bottom:1em;
+
+	border: 0.08em solid #ccc;
+
+}
+
+input, select { width:50% }
+
+[maxlength] { width:2em }
+
+[type="submit"] { width:30% }
+
+.i {
+
+	display:inline;
+
+	width:auto;
+
+	margin:0;
+
+	border:0;
+
+}
+
+.buttlink {
+
+	background:#ffd;
+
+	color:#06c;
+
+	width:auto;
+
+	cursor:pointer;
+
+	border-bottom:0.08em solid #ccc;
+
+	display:inline;
+
+}
+
+.buttlink:hover { border-color: #06c }
+
+
+
+.fn { background:100% 1.5em no-repeat }
+
+.fn { background:100% 75% no-repeat }
+
+.uk { background-image:url(../images/flag_uk.gif) }
+
+.us { background-image:url(../images/flag_us.gif) }
+
+.ca { background-image:url(../images/flag_ca.gif) }
+
+.be { background-image:url(../images/flag_be.gif) }
+
+.se { background-image:url(../images/flag_se.gif) }
+
+.nl { background-image:url(../images/flag_nl.gif) }
+
+.de { background-image:url(../images/flag_de.gif) }
+
+.au { background-image:url(../images/flag_au.gif) }
+
+
+
+table {
+
+	table-layout:fixed;
+
+	border-collapse:collapse;
+
+	width:100%;
+
+	margin:1em 0;
+
+	line-height:1.4;
+
+}
+
+td, th {
+
+	padding:1em;
+
+	vertical-align:top;
+
+	text-align:left;
+
+}
+
+th {
+
+	background:#eee;
+
+	width:10em;
+
+}
+
+.break * {
+
+	background:#eee;
+
+	font-weight:normal;
+
+}
+
+.crab { background:#f6f6f6 }
+
+.break th { background:#ddd }
+
+
+
+#ln {
+
+	float:right;
+
+	width:47%;
+
+	margin:1.5em 0 2em 5%;
+
+	padding-bottom: 1em;
+
+	background: #eee url(../images/ln_bl.gif) bottom left no-repeat;
+
+}
+
+#ln h2 {
+
+	color:#f90;
+
+	padding:0.5em 0.5em 0 0;
+
+	margin:0 0 0 0.5em;
+
+	background: url(../images/ln_tr.gif) top right no-repeat;
+
+}
+
+#ln p { margin: 0 1em 1em 1em }
+
+
+
+
+
+.q {
+
+	float: left;
+
+	clear: left;
+
+}
+
+#content form img {
+
+	float: none;
+
+	display: inline;
+
+}
+
+.starsel { margin-bottom:1em }
+
+#content .star {
+
+	cursor: pointer;
+
+	margin: 0;
+
+}
+
+
+
+
+
+
+
+@media print {
+
+	
+
+body { font:12pt/1.5 Georgia, "Times New Roman", Times, serif }
+
+#content {
+
+	margin:0;
+
+	width:100%;
+
+}
+
+#content a {
+
+	 border:0;
+
+	 padding:0;
+
+	 color:inherit;
+
+	 font-weight:bold;
+
+}
+
+#promo, form, .pagenav { display:none }
+
+	
+
+}

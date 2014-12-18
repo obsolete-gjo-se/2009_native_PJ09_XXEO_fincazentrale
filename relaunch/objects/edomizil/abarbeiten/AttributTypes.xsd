@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<xs:element name="AttributTypes">
+		<xs:annotation>
+			<xs:documentation>Comment describing your root element</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Typ" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="Nr">
+								<xs:annotation>
+									<xs:documentation xml:lang="DE">Eindeutige Nummer des Attributtyps</xs:documentation>
+									<xs:documentation xml:lang="EN">Number of attribute type</xs:documentation>
+								</xs:annotation>
+							</xs:element>
+							<xs:element name="Name">
+								<xs:annotation>
+									<xs:documentation xml:lang="DE">Deutscher Name des Attributtyps</xs:documentation>
+									<xs:documentation xml:lang="EN">German name of attribute type</xs:documentation>
+								</xs:annotation>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

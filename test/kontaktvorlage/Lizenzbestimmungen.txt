@@ -1,0 +1,16 @@
+Lizenzbestimmungen
+ 
+Mit dem Einsatz dieses Scriptes akzeptieren Sie dieses Lizenzabkommen ohne Einschränkungen.
+Das Script ist für private und kommerzielle Verwendung kostenlos.
+Der Lizenzinhaber darf das Script nur verändern bzw. auf eigene Bedürfnisse anpassen,
+wenn die Copyrighthinweise von Kontaktformular.org leserlich und sichtbar beinhaltet werden.
+Der Verkauf des Scriptes oder das Anbieten und Weitergeben ist nicht erlaubt, dies gilt auch
+für einzelne Scriptkomponenten oder Teile des Scriptes.
+Kontaktformular.org übernimmt keinerlei Haftung bezüglich der Funktionstüchtigkeit
+oder irgendwelchen Schadens- oder Ersatzansprüchen, die sich bei der Nutzung dieses Scriptes ergeben.
+Bei einem Verstoß gegen die Lizenzbedingungen hat Kontaktformular.org das Recht,
+entsprechende rechtliche Schritte einzuleiten.
+
+Copyright by Kontaktformular.org
+
+Fassung vom 15.08.2008

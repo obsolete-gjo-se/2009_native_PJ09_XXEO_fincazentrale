@@ -1,0 +1,821 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:simpleType name="type_pricetype">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="E">
+				<xs:annotation>
+					<xs:documentation xml:lang="de">Erwachsene</xs:documentation>
+					<xs:documentation xml:lang="en">Adults</xs:documentation>
+				</xs:annotation>
+			</xs:enumeration>
+			<xs:enumeration value="K">
+				<xs:annotation>
+					<xs:documentation xml:lang="de">Kinder</xs:documentation>
+					<xs:documentation xml:lang="en">Children</xs:documentation>
+				</xs:annotation>
+			</xs:enumeration>
+			<xs:enumeration value="J">
+				<xs:annotation>
+					<xs:documentation xml:lang="de">Jugendliche</xs:documentation>
+					<xs:documentation xml:lang="en">Youth</xs:documentation>
+				</xs:annotation>
+			</xs:enumeration>
+			<xs:enumeration value="P">
+				<xs:annotation>
+					<xs:documentation xml:lang="de">Personen</xs:documentation>
+					<xs:documentation xml:lang="en">Persons</xs:documentation>
+				</xs:annotation>
+			</xs:enumeration>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="type_reason">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="U">
+				<xs:annotation>
+					<xs:documentation xml:lang="de">Überbelegung</xs:documentation>
+					<xs:documentation xml:lang="en">Overoccupancy</xs:documentation>
+				</xs:annotation>
+			</xs:enumeration>
+			<xs:enumeration value="V">
+				<xs:annotation>
+					<xs:documentation xml:lang="de">Verlängerungstag</xs:documentation>
+					<xs:documentation xml:lang="en">Extension day</xs:documentation>
+				</xs:annotation>
+			</xs:enumeration>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="type_calculation">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="d">
+				<xs:annotation>
+					<xs:documentation xml:lang="de">Tage</xs:documentation>
+					<xs:documentation xml:lang="en">Days</xs:documentation>
+				</xs:annotation>
+			</xs:enumeration>
+			<xs:enumeration value="w">
+				<xs:annotation>
+					<xs:documentation xml:lang="de">Wochen</xs:documentation>
+					<xs:documentation xml:lang="en">Weeks</xs:documentation>
+				</xs:annotation>
+			</xs:enumeration>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="type_extracost_payment_mode">
+		<xs:restriction base="xs:integer">
+			<xs:enumeration value="1">
+				<xs:annotation>
+					<xs:documentation xml:lang="DE">im Preis enthalten</xs:documentation>
+					<xs:documentation xml:lang="EN">included in price</xs:documentation>
+				</xs:annotation>
+			</xs:enumeration>
+			<xs:enumeration value="2">
+				<xs:annotation>
+					<xs:documentation xml:lang="DE">vom Mieter mitzubringen</xs:documentation>
+					<xs:documentation xml:lang="EN">to be brought by tenant</xs:documentation>
+				</xs:annotation>
+			</xs:enumeration>
+			<xs:enumeration value="3">
+				<xs:annotation>
+					<xs:documentation xml:lang="DE">vom Mieter durchzuführen</xs:documentation>
+					<xs:documentation xml:lang="EN">to be done by tenant</xs:documentation>
+				</xs:annotation>
+			</xs:enumeration>
+			<xs:enumeration value="4">
+				<xs:annotation>
+					<xs:documentation xml:lang="DE">nach Verbrauch</xs:documentation>
+					<xs:documentation xml:lang="EN">according to consumption</xs:documentation>
+				</xs:annotation>
+			</xs:enumeration>
+			<xs:enumeration value="5">
+				<xs:annotation>
+					<xs:documentation xml:lang="DE">Kosten in Höhe von</xs:documentation>
+					<xs:documentation xml:lang="EN">Costs amounting to </xs:documentation>
+				</xs:annotation>
+			</xs:enumeration>
+			<xs:enumeration value="6">
+				<xs:annotation>
+					<xs:documentation xml:lang="DE">vorhanden</xs:documentation>
+					<xs:documentation xml:lang="EN">available and included in price</xs:documentation>
+				</xs:annotation>
+			</xs:enumeration>
+			<xs:enumeration value="7">
+				<xs:annotation>
+					<xs:documentation xml:lang="DE">zu mieten für</xs:documentation>
+					<xs:documentation xml:lang="EN">for rent at a price of</xs:documentation>
+				</xs:annotation>
+			</xs:enumeration>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="type_extracost_payment_art">
+		<xs:restriction base="xs:integer">
+			<xs:enumeration value="0">
+				<xs:annotation>
+					<xs:documentation xml:lang="DE">Nicht im Preis enthalten/ Nach Verbrauch/ Vom Mieter selbst mitzubringen/ Vom Urlauber zu taetigen </xs:documentation>
+					<xs:documentation xml:lang="EN">Not included in price/After usage/Self-provided by the guest/To be done by the guest</xs:documentation>
+				</xs:annotation>
+			</xs:enumeration>
+			<xs:enumeration value="1">
+				<xs:annotation>
+					<xs:documentation xml:lang="DE">Im Preis enthalten</xs:documentation>
+					<xs:documentation xml:lang="EN">Included in price</xs:documentation>
+				</xs:annotation>
+			</xs:enumeration>
+			<xs:enumeration value="2">
+				<xs:annotation>
+					<xs:documentation xml:lang="DE">Kosten in Hoehe von</xs:documentation>
+					<xs:documentation xml:lang="EN">Costs amounting to</xs:documentation>
+				</xs:annotation>
+			</xs:enumeration>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="type_extracost_payment_type">
+		<xs:restriction base="xs:integer">
+			<xs:enumeration value="0">
+				<xs:annotation>
+					<xs:documentation xml:lang="DE">Vor Ort zu zahlen</xs:documentation>
+					<xs:documentation xml:lang="EN">to be paid on site</xs:documentation>
+				</xs:annotation>
+			</xs:enumeration>
+			<xs:enumeration value="1">
+				<xs:annotation>
+					<xs:documentation xml:lang="DE">Ueber e-domizil zu zahlen</xs:documentation>
+					<xs:documentation xml:lang="EN">to be paid through e-domizil</xs:documentation>
+				</xs:annotation>
+			</xs:enumeration>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="type_extracost_measure">
+		<xs:restriction base="xs:integer">
+			<xs:enumeration value="0">
+				<xs:annotation>
+					<xs:documentation xml:lang="DE">Nicht definiert</xs:documentation>
+					<xs:documentation xml:lang="EN">Not defined</xs:documentation>
+				</xs:annotation>
+			</xs:enumeration>
+			<xs:enumeration value="1">
+				<xs:annotation>
+					<xs:documentation xml:lang="DE">pro Objekt und Tag</xs:documentation>
+					<xs:documentation xml:lang="EN">per property per day</xs:documentation>
+				</xs:annotation>
+			</xs:enumeration>
+			<xs:enumeration value="2">
+				<xs:annotation>
+					<xs:documentation xml:lang="DE">pro Objekt und Woche</xs:documentation>
+					<xs:documentation xml:lang="EN">per property per week</xs:documentation>
+				</xs:annotation>
+			</xs:enumeration>
+			<xs:enumeration value="3">
+				<xs:annotation>
+					<xs:documentation xml:lang="DE">pro Person und Tag</xs:documentation>
+					<xs:documentation xml:lang="EN">per person per day</xs:documentation>
+				</xs:annotation>
+			</xs:enumeration>
+			<xs:enumeration value="4">
+				<xs:annotation>
+					<xs:documentation xml:lang="DE">pro Person und Woche</xs:documentation>
+					<xs:documentation xml:lang="EN">per person per week</xs:documentation>
+				</xs:annotation>
+			</xs:enumeration>
+			<xs:enumeration value="5">
+				<xs:annotation>
+					<xs:documentation xml:lang="DE">Einmalig pro Objekt</xs:documentation>
+					<xs:documentation xml:lang="EN">once off per object</xs:documentation>
+				</xs:annotation>
+			</xs:enumeration>
+			<xs:enumeration value="6">
+				<xs:annotation>
+					<xs:documentation xml:lang="DE">Einmalig pro Person</xs:documentation>
+					<xs:documentation xml:lang="EN">once off per person</xs:documentation>
+				</xs:annotation>
+			</xs:enumeration>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="type_extracost_discount_flag">
+		<xs:restriction base="xs:byte">
+			<xs:minInclusive value="0" />
+			<xs:maxInclusive value="1" />
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:element name="Resultset">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element minOccurs="0" maxOccurs="unbounded" name="domizil">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element minOccurs="0" name="discounts">
+								<xs:annotation>
+									<xs:documentation xml:lang="de">Liste aller gewährten Rabatte</xs:documentation>
+									<xs:documentation xml:lang="en">List of granted discounts</xs:documentation>
+								</xs:annotation>
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element minOccurs="0" maxOccurs="unbounded" name="discount">
+											<xs:annotation>
+												<xs:documentation xml:lang="de">Detailinformationen zum Rabatt</xs:documentation>
+												<xs:documentation xml:lang="en">Discount details</xs:documentation>
+											</xs:annotation>
+											<xs:complexType>
+												<xs:sequence>
+													<xs:element minOccurs="0" name="name" type="xs:string">
+														<xs:annotation>
+															<xs:documentation xml:lang="de">Rabattbezeichnung</xs:documentation>
+															<xs:documentation xml:lang="en">Discount name</xs:documentation>
+														</xs:annotation>
+													</xs:element>
+													<xs:element minOccurs="0" name="discount">
+														<xs:annotation>
+															<xs:documentation xml:lang="de">Zahlungsmodalitäten für Rabatt</xs:documentation>
+															<xs:documentation xml:lang="en">Payment modalities for discount</xs:documentation>
+														</xs:annotation>
+														<xs:complexType>
+															<xs:simpleContent>
+																<xs:extension base="xs:string">
+																	<xs:attribute name="calculation" type="xs:integer" use="optional">
+																		<xs:annotation>
+																			<xs:documentation xml:lang="de">Art der Rabattkalkulation, Default-Wert "2" für "Prozent"</xs:documentation>
+																			<xs:documentation xml:lang="en">Type of discount calculation; Default "2" for "percent"</xs:documentation>
+																		</xs:annotation>
+																	</xs:attribute>
+																	<xs:attribute name="currency" type="xs:integer" use="optional">
+																		<xs:annotation>
+																			<xs:documentation xml:lang="de">Währung des Rabatts</xs:documentation>
+																			<xs:documentation xml:lang="en">Currency for discount</xs:documentation>
+																		</xs:annotation>
+																	</xs:attribute>
+																	<xs:attribute name="value" type="xs:string" use="optional">
+																		<xs:annotation>
+																			<xs:documentation xml:lang="de">Rabattbetrag</xs:documentation>
+																			<xs:documentation xml:lang="en">Discount amount</xs:documentation>
+																		</xs:annotation>
+																	</xs:attribute>
+																</xs:extension>
+															</xs:simpleContent>
+														</xs:complexType>
+													</xs:element>
+													<xs:element minOccurs="0" name="travel_duration">
+														<xs:annotation>
+															<xs:documentation xml:lang="de">Detailinformationen zur Zeiteinheit eines Rabattes</xs:documentation>
+															<xs:documentation xml:lang="en">Detail information about time unit for discount calculation</xs:documentation>
+														</xs:annotation>
+														<xs:complexType>
+															<xs:attribute name="unit" type="xs:string" use="optional">
+																<xs:annotation>
+																	<xs:documentation xml:lang="de">Zeiteinheit zur Rabattkalkulation; Default-Wert "d" für "Tage"</xs:documentation>
+																	<xs:documentation xml:lang="en">Time unit for discount calculation; Default "d" for "Days"</xs:documentation>
+																</xs:annotation>
+															</xs:attribute>
+															<xs:attribute name="travel" type="xs:integer" use="optional">
+																<xs:annotation>
+																	<xs:documentation xml:lang="de">Anzahl Tage/wochen, die ein Kunde reist</xs:documentation>
+																	<xs:documentation xml:lang="en">Amount of Days/Weeks a customer is travelling</xs:documentation>
+																</xs:annotation>
+															</xs:attribute>
+															<xs:attribute name="pay" type="xs:integer" use="optional">
+																<xs:annotation>
+																	<xs:documentation xml:lang="de">Anzahl Tage/Wochen, die ein Kunde zu bezahlen hat</xs:documentation>
+																	<xs:documentation xml:lang="en">Amount of Days/Weeks a customer has to pay</xs:documentation>
+																</xs:annotation>
+															</xs:attribute>
+														</xs:complexType>
+													</xs:element>
+													<xs:element minOccurs="0" name="valid">
+														<xs:annotation>
+															<xs:documentation xml:lang="de">Detailinformationen zur Rabattgültigkeit</xs:documentation>
+															<xs:documentation xml:lang="en">Detail information about discount validity</xs:documentation>
+														</xs:annotation>
+														<xs:complexType>
+															<xs:simpleContent>
+																<xs:extension base="xs:string">
+																	<xs:attribute name="date_from" type="xs:string" use="optional">
+																		<xs:annotation>
+																			<xs:documentation xml:lang="de">Gültigkeitsbeginn eines Rabattes</xs:documentation>
+																			<xs:documentation xml:lang="en">Valid from date for a discount</xs:documentation>
+																		</xs:annotation>
+																	</xs:attribute>
+																	<xs:attribute name="date_to" type="xs:string" use="optional">
+																		<xs:annotation>
+																			<xs:documentation xml:lang="de">Gültigkeitsende eines Rabattes</xs:documentation>
+																			<xs:documentation xml:lang="en">Valid to date for a discount</xs:documentation>
+																		</xs:annotation>
+																	</xs:attribute>
+																	<xs:attribute name="period_from" type="xs:string" use="optional">
+																		<xs:annotation>
+																			<xs:documentation xml:lang="de">Von-Termin eines Reisezeitraums in Relation zum Anreisetermin, für den ein Rabatt gültig ist</xs:documentation>
+																			<xs:documentation xml:lang="en">From date of a travel period in relation to arrival date</xs:documentation>
+																		</xs:annotation>
+																	</xs:attribute>
+																	<xs:attribute name="period_to" type="xs:string" use="optional">
+																		<xs:annotation>
+																			<xs:documentation xml:lang="de">Bis-Termin eines Reisezeitraums, für den ein Rabatt gültig ist; Default-Wert "0"</xs:documentation>
+																			<xs:documentation xml:lang="en">Departure date of a travel period in relation to arrival date; Default "0"</xs:documentation>
+																		</xs:annotation>
+																	</xs:attribute>
+																	<xs:attribute name="period_unit" type="xs:string" use="optional">
+																		<xs:annotation>
+																			<xs:documentation xml:lang="de">Zeiteinheit zum Reisezeitraum; Default-Wert "w" für "Woche"</xs:documentation>
+																			<xs:documentation xml:lang="en">Time unit for travel period; Default "w" for "week"</xs:documentation>
+																		</xs:annotation>
+																	</xs:attribute>
+																</xs:extension>
+															</xs:simpleContent>
+														</xs:complexType>
+													</xs:element>
+													<xs:element minOccurs="0" name="dates">
+														<xs:annotation>
+															<xs:documentation xml:lang="de">Liste aller Saisonzeiträume, in denen der Rabatt gewährt wird</xs:documentation>
+															<xs:documentation xml:lang="en">List of season periods relevant for discount</xs:documentation>
+														</xs:annotation>
+														<xs:complexType>
+															<xs:sequence>
+																<xs:element minOccurs="0" maxOccurs="unbounded" name="date">
+																	<xs:annotation>
+																		<xs:documentation xml:lang="de">Datumsangaben zu den Saisonzeiträumen</xs:documentation>
+																		<xs:documentation xml:lang="en">Dates of season periods</xs:documentation>
+																	</xs:annotation>
+																	<xs:complexType>
+																		<xs:attribute name="from" type="xs:string" use="optional">
+																			<xs:annotation>
+																				<xs:documentation xml:lang="de">Von-Termin eines Saisonzeitraums</xs:documentation>
+																				<xs:documentation xml:lang="en">From-Date of a season period</xs:documentation>
+																			</xs:annotation>
+																		</xs:attribute>
+																		<xs:attribute name="to" type="xs:string" use="optional">
+																			<xs:annotation>
+																				<xs:documentation xml:lang="de">Bis-Termin eines Saisonzeitraums</xs:documentation>
+																				<xs:documentation xml:lang="en">To-Date of a season period</xs:documentation>
+																			</xs:annotation>
+																		</xs:attribute>
+																	</xs:complexType>
+																</xs:element>
+															</xs:sequence>
+														</xs:complexType>
+													</xs:element>
+												</xs:sequence>
+												<xs:attribute name="id" type="xs:integer" use="optional">
+													<xs:annotation>
+														<xs:documentation xml:lang="de">Eindeutiger Rabattcode</xs:documentation>
+														<xs:documentation xml:lang="en">Unique Discount ID</xs:documentation>
+													</xs:annotation>
+												</xs:attribute>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element minOccurs="0" name="season_info">
+								<xs:annotation>
+									<xs:documentation xml:lang="de">Detaillierte Informationen für alle Saisonzeiten</xs:documentation>
+									<xs:documentation xml:lang="en">Detailed information for all season periods</xs:documentation>
+								</xs:annotation>
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element minOccurs="0" maxOccurs="unbounded" name="season">
+											<xs:annotation>
+												<xs:documentation xml:lang="de">Detaillierte Informationen für eine Saison</xs:documentation>
+												<xs:documentation xml:lang="en">Detailed information for one season period</xs:documentation>
+											</xs:annotation>
+											<xs:complexType>
+												<xs:sequence>
+													<xs:element minOccurs="0" name="rental_prices">
+														<xs:annotation>
+															<xs:documentation xml:lang="de">Preisinformationen für eine Saison</xs:documentation>
+															<xs:documentation xml:lang="en">Price information for one season period</xs:documentation>
+														</xs:annotation>
+														<xs:complexType>
+															<xs:sequence>
+																<xs:element minOccurs="0" maxOccurs="unbounded" name="rental_price">
+																	<xs:annotation>
+																		<xs:documentation xml:lang="de">Detaillierte Preisinformationen je Preistyp</xs:documentation>
+																		<xs:documentation xml:lang="en">Detailed Price information for each price type</xs:documentation>
+																	</xs:annotation>
+																	<xs:complexType>
+																		<xs:sequence>
+																			<xs:element minOccurs="0" name="name" type="xs:string">
+																				<xs:annotation>
+																					<xs:documentation xml:lang="de">Bezeichnung des Preistyps</xs:documentation>
+																					<xs:documentation xml:lang="en">Name of Price type</xs:documentation>
+																				</xs:annotation>
+																			</xs:element>
+																			<xs:element minOccurs="0" name="price" type="xs:string">
+																				<xs:annotation>
+																					<xs:documentation xml:lang="de">Betrag</xs:documentation>
+																					<xs:documentation xml:lang="en">Amount</xs:documentation>
+																				</xs:annotation>
+																			</xs:element>
+																			<xs:element minOccurs="0" name="currency">
+																				<xs:annotation>
+																					<xs:documentation xml:lang="de">Währung</xs:documentation>
+																					<xs:documentation xml:lang="en">Currency</xs:documentation>
+																				</xs:annotation>
+																				<xs:complexType>
+																					<xs:simpleContent>
+																						<xs:extension base="xs:string">
+																							<xs:attribute name="id" type="xs:integer" use="optional">
+																								<xs:annotation>
+																									<xs:documentation xml:lang="de">Eindeutiger Währungscode</xs:documentation>
+																									<xs:documentation xml:lang="en">Unique Currency ID</xs:documentation>
+																								</xs:annotation>
+																							</xs:attribute>
+																						</xs:extension>
+																					</xs:simpleContent>
+																				</xs:complexType>
+																			</xs:element>
+																		</xs:sequence>
+																		<xs:attribute name="calculation" type="type_calculation" use="optional">
+																			<xs:annotation>
+																				<xs:documentation xml:lang="de">Kalkulationsbasis eines Preistyps</xs:documentation>
+																				<xs:documentation xml:lang="en">Calculation of a price type</xs:documentation>
+																			</xs:annotation>
+																		</xs:attribute>
+																		<xs:attribute name="unit" type="xs:integer" use="optional">
+																			<xs:annotation>
+																				<xs:documentation xml:lang="de">Einheit zur Kalkulationsbasis eines Preistyps; Default-Wert "1", d.h. bei "calculation=w" entspricht dies einer Woche</xs:documentation>
+																				<xs:documentation xml:lang="en">Unit for the calculation of a price type; Default "1", e.g. means one week if "calculation=w"</xs:documentation>
+																			</xs:annotation>
+																		</xs:attribute>
+																		<xs:attribute name="persons" type="xs:integer" use="optional">
+																			<xs:annotation>
+																				<xs:documentation xml:lang="de">Anzahl Personen, für die ein Preistyp Gültigkeit besitzt</xs:documentation>
+																				<xs:documentation xml:lang="en">Number of persons relevant for price type</xs:documentation>
+																			</xs:annotation>
+																		</xs:attribute>
+																	</xs:complexType>
+																</xs:element>
+															</xs:sequence>
+														</xs:complexType>
+													</xs:element>
+													<xs:element minOccurs="0" name="add_prices">
+														<xs:annotation>
+															<xs:documentation xml:lang="de">Liste aller Preiszuschläge</xs:documentation>
+															<xs:documentation xml:lang="en">List of surcharges</xs:documentation>
+														</xs:annotation>
+														<xs:complexType>
+															<xs:sequence>
+																<xs:element minOccurs="0" maxOccurs="unbounded" name="add_price">
+																	<xs:annotation>
+																		<xs:documentation xml:lang="de">Detailierte Zuschlagsbeschreibung</xs:documentation>
+																		<xs:documentation xml:lang="en">Detailed Surcharge Description</xs:documentation>
+																	</xs:annotation>
+																	<xs:complexType>
+																		<xs:sequence>
+																			<xs:element minOccurs="0" name="name" type="xs:string">
+																				<xs:annotation>
+																					<xs:documentation xml:lang="de">Zuschlagbezeichnung</xs:documentation>
+																					<xs:documentation xml:lang="en">Surcharge Name</xs:documentation>
+																				</xs:annotation>
+																			</xs:element>
+																			<xs:element minOccurs="0" name="price">
+																				<xs:annotation>
+																					<xs:documentation xml:lang="de">Höhe des Zuschlags</xs:documentation>
+																					<xs:documentation xml:lang="en">Surcharge amount</xs:documentation>
+																				</xs:annotation>
+																				<xs:complexType>
+																					<xs:simpleContent>
+																						<xs:extension base="xs:string">
+																							<xs:attribute name="type" type="type_pricetype" use="optional">
+																								<xs:annotation>
+																									<xs:documentation xml:lang="de">Altersgruppe, bei der ein Preiszuschlag gilt</xs:documentation>
+																									<xs:documentation xml:lang="en">Age group valid for surcharge</xs:documentation>
+																								</xs:annotation>
+																							</xs:attribute>
+																							<xs:attribute name="age" type="xs:integer" use="optional">
+																								<xs:annotation>
+																									<xs:documentation xml:lang="de">Altersgrenze der Altersgruppe</xs:documentation>
+																									<xs:documentation xml:lang="en">Age limit of age group</xs:documentation>
+																								</xs:annotation>
+																							</xs:attribute>
+																						</xs:extension>
+																					</xs:simpleContent>
+																				</xs:complexType>
+																			</xs:element>
+																			<xs:element minOccurs="0" name="currency">
+																				<xs:annotation>
+																					<xs:documentation xml:lang="de">Währungsbezeichnung</xs:documentation>
+																					<xs:documentation xml:lang="en">Currency name</xs:documentation>
+																				</xs:annotation>
+																				<xs:complexType>
+																					<xs:simpleContent>
+																						<xs:extension base="xs:string">
+																							<xs:attribute name="id" type="xs:integer" use="optional">
+																								<xs:annotation>
+																									<xs:documentation xml:lang="de">Eindeutiger Währungscode</xs:documentation>
+																									<xs:documentation xml:lang="en">Unique Currency ID</xs:documentation>
+																								</xs:annotation>
+																							</xs:attribute>
+																						</xs:extension>
+																					</xs:simpleContent>
+																				</xs:complexType>
+																			</xs:element>
+																		</xs:sequence>
+																		<xs:attribute name="reason" use="optional" type="type_reason">
+																			<xs:annotation>
+																				<xs:documentation xml:lang="de">Grund für Preiszuschlag</xs:documentation>
+																				<xs:documentation xml:lang="en">Reason for surcharge</xs:documentation>
+																			</xs:annotation>
+																		</xs:attribute>
+																		<xs:attribute name="calculation" use="optional" type="type_calculation">
+																			<xs:annotation>
+																				<xs:documentation xml:lang="de">Kalkulationsbasis für Preiszuschlag</xs:documentation>
+																				<xs:documentation xml:lang="en">Calculation base of surcharge</xs:documentation>
+																			</xs:annotation>
+																		</xs:attribute>
+																		<xs:attribute name="unit" type="xs:integer" use="optional">
+																			<xs:annotation>
+																				<xs:documentation xml:lang="de">Berechungseinheit für Preiszuschlag</xs:documentation>
+																				<xs:documentation xml:lang="en">Unit for surcharge calculation</xs:documentation>
+																			</xs:annotation>
+																		</xs:attribute>
+																		<xs:attribute name="persons" type="xs:integer" use="optional">
+																			<xs:annotation>
+																				<xs:documentation xml:lang="de">Minimale Personenanzahl, für die der Preiszuschlag gilt</xs:documentation>
+																				<xs:documentation xml:lang="en">Minimum amount of persons valid for surcharge</xs:documentation>
+																			</xs:annotation>
+																		</xs:attribute>
+																		<xs:attribute name="maximum" type="xs:integer" use="optional">
+																			<xs:annotation>
+																				<xs:documentation xml:lang="de">Maximale Personenanzahl, für die der Preiszuschlag gilt</xs:documentation>
+																				<xs:documentation xml:lang="en">Maximum amount of persons valid for surcharge</xs:documentation>
+																			</xs:annotation>
+																		</xs:attribute>
+																	</xs:complexType>
+																</xs:element>
+															</xs:sequence>
+														</xs:complexType>
+													</xs:element>
+													<xs:element minOccurs="0" name="dates">
+														<xs:annotation>
+															<xs:documentation xml:lang="de">Liste aller Saisonzeiträume, in denen der Zuschlag gilt</xs:documentation>
+															<xs:documentation xml:lang="en">List of all season periods relevant for surcharge</xs:documentation>
+														</xs:annotation>
+														<xs:complexType>
+															<xs:sequence>
+																<xs:element minOccurs="0" maxOccurs="unbounded" name="date">
+																	<xs:annotation>
+																		<xs:documentation xml:lang="de">Datumsangaben zu den Saisonzeiträumen, in denen der Zuschlag gilt</xs:documentation>
+																		<xs:documentation xml:lang="en">Dates of season period valid for surcharge</xs:documentation>
+																	</xs:annotation>
+																	<xs:complexType>
+																		<xs:attribute name="from" type="xs:string" use="optional">
+																			<xs:annotation>
+																				<xs:documentation xml:lang="de">Von-Datum eines Saisonzeiträums, in dem der Zuschlag gilt</xs:documentation>
+																				<xs:documentation xml:lang="en">From-Date of season period valid for surcharge</xs:documentation>
+																			</xs:annotation>
+																		</xs:attribute>
+																		<xs:attribute name="to" type="xs:string" use="optional">
+																			<xs:annotation>
+																				<xs:documentation xml:lang="de">Von-Datum eines Saisonzeiträums, in dem der Zuschlag gilt</xs:documentation>
+																				<xs:documentation xml:lang="en">To-Date of season period valid for surcharge</xs:documentation>
+																			</xs:annotation>
+																		</xs:attribute>
+																	</xs:complexType>
+																</xs:element>
+															</xs:sequence>
+														</xs:complexType>
+													</xs:element>
+												</xs:sequence>
+												<xs:attribute name="id" type="xs:integer" use="optional">
+													<xs:annotation>
+														<xs:documentation xml:lang="de">Eindeutiger Saisoncode</xs:documentation>
+														<xs:documentation xml:lang="en">Unique Season ID</xs:documentation>
+													</xs:annotation>
+												</xs:attribute>
+												<xs:attribute name="name" type="xs:string" use="optional">
+													<xs:annotation>
+														<xs:documentation xml:lang="de">Saisonbezeichnung</xs:documentation>
+														<xs:documentation xml:lang="en">Season name</xs:documentation>
+													</xs:annotation>
+												</xs:attribute>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element minOccurs="0" name="extra_costs">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element minOccurs="0" maxOccurs="unbounded" name="extra_cost">
+											<xs:complexType>
+												<xs:sequence>
+													<xs:element minOccurs="0" name="price" type="xs:decimal">
+														<xs:annotation>
+															<xs:documentation xml:lang="DE">Betrag</xs:documentation>
+															<xs:documentation xml:lang="EN">Price</xs:documentation>
+														</xs:annotation>
+													</xs:element>
+													<xs:element minOccurs="0" name="currency">
+														<xs:annotation>
+															<xs:documentation xml:lang="de">Währung</xs:documentation>
+															<xs:documentation xml:lang="en">Currency</xs:documentation>
+														</xs:annotation>
+														<xs:complexType>
+															<xs:simpleContent>
+																<xs:extension base="xs:string">
+																	<xs:attribute name="id" type="xs:unsignedByte" use="optional">
+																		<xs:annotation>
+																			<xs:documentation xml:lang="de">Eindeutiger Währungscode</xs:documentation>
+																			<xs:documentation xml:lang="en">Unique Currency ID</xs:documentation>
+																		</xs:annotation>
+																	</xs:attribute>
+																</xs:extension>
+															</xs:simpleContent>
+														</xs:complexType>
+													</xs:element>
+													<xs:element minOccurs="0" name="price_min" type="xs:unsignedByte">
+														<xs:annotation>
+															<xs:documentation xml:lang="DE">Mindestbetrag. Wenn der Wert in "Price" niedriger ist als der Wert in "PriceMin", ist der Wert aus "PriceMin" zu verwenden.</xs:documentation>
+															<xs:documentation xml:lang="EN">Minimum price. If value for "Price" is less than value for "PriceMin", value for "PriceMin" has to be used.</xs:documentation>
+														</xs:annotation>
+													</xs:element>
+													<xs:element minOccurs="0" name="price_max" type="xs:unsignedByte">
+														<xs:annotation>
+															<xs:documentation xml:lang="DE">Hoechstbetrag. Wenn der Wert in "Price" groesser ist als der Wert in "PriceMax", ist der Wert aus "PriceMax" zu verwenden.</xs:documentation>
+															<xs:documentation xml:lang="EN">Maximum price. If value for "Price" is higher than value for "PriceMax", value for "PriceMax" has to be used.</xs:documentation>
+														</xs:annotation>
+													</xs:element>
+													<xs:element minOccurs="0" maxOccurs="unbounded" name="name">
+														<xs:annotation>
+															<xs:documentation xml:lang="DE">Bezeichnung für Nebenkosten</xs:documentation>
+															<xs:documentation xml:lang="EN">Name for extra cost</xs:documentation>
+														</xs:annotation>
+														<xs:complexType>
+															<xs:simpleContent>
+																<xs:extension base="xs:string">
+																	<xs:attribute name="language" type="xs:string" use="optional">
+																		<xs:annotation>
+																			<xs:documentation xml:lang="de">Sprache der Nebenkostenbezeichnung</xs:documentation>
+																			<xs:documentation xml:lang="en">Language of extracost name</xs:documentation>
+																		</xs:annotation>
+																	</xs:attribute>
+																</xs:extension>
+															</xs:simpleContent>
+														</xs:complexType>
+													</xs:element>
+												</xs:sequence>
+												<xs:attribute name="type" type="xs:unsignedByte" use="optional">
+													<xs:annotation>
+														<xs:documentation xml:lang="DE">ID der Nebenkostenart</xs:documentation>
+														<xs:documentation xml:lang="EN">ID of Extra Cost Type</xs:documentation>
+													</xs:annotation>
+												</xs:attribute>
+												<xs:attribute name="payment_art" type="type_extracost_payment_art" use="optional">
+													<xs:annotation>
+														<xs:documentation xml:lang="DE">Alte Zahlungsmethode bei Nebenkostenart. Bitte nicht nutzen! Bleibt nur bestehen für Kompatibilitaet mit vorgehender XSD-Version</xs:documentation>
+														<xs:documentation xml:lang="EN">Former Payment method. Please do not use this element.</xs:documentation>
+													</xs:annotation>
+												</xs:attribute>
+												<xs:attribute name="payment_type" type="type_extracost_payment_type" use="optional">
+													<xs:annotation>
+														<xs:documentation xml:lang="DE">Zahlungsort bei Nebenkostenart</xs:documentation>
+														<xs:documentation xml:lang="EN">Payment location for extra cost type</xs:documentation>
+													</xs:annotation>
+												</xs:attribute>
+												<xs:attribute name="measure" type="type_extracost_measure" use="optional">
+													<xs:annotation>
+														<xs:documentation xml:lang="DE">Zahlungseinheit für Nebenkostenart</xs:documentation>
+														<xs:documentation xml:lang="EN">Basis of payment for extra cost type</xs:documentation>
+													</xs:annotation>
+												</xs:attribute>
+												<xs:attribute name="payment_mode" type="type_extracost_payment_mode" use="optional">
+													<xs:annotation>
+														<xs:documentation xml:lang="DE">Zahlungsmethode bei Nebenkostenart. </xs:documentation>
+														<xs:documentation xml:lang="EN">Payment method for extra cost type</xs:documentation>
+													</xs:annotation>
+												</xs:attribute>
+												<xs:attribute name="discount_flag" type="type_extracost_discount_flag" use="optional">
+													<xs:annotation>
+														<xs:documentation xml:lang="DE">Gibt an, ob Kinder- und Jugendlichenrabatt gewährt wird; Ausprägungen: "1" = "Rabatt wird gewährt"</xs:documentation>
+														<xs:documentation xml:lang="EN">Flag defines, if discount for children and youth is granted; Values: "1" = "discount granted", "0" = "no discount granted"</xs:documentation>
+													</xs:annotation>
+												</xs:attribute>
+												<xs:attribute name="child_discount" type="xs:decimal" use="optional">
+													<xs:annotation>
+														<xs:documentation xml:lang="DE">Höhe des Kinderrabattes</xs:documentation>
+														<xs:documentation xml:lang="EN">Amount of child discount in EUR</xs:documentation>
+													</xs:annotation>
+												</xs:attribute>
+												<xs:attribute name="youth_discount" type="xs:decimal" use="optional">
+													<xs:annotation>
+														<xs:documentation xml:lang="DE">Höhe des Jugendlichenrabattes</xs:documentation>
+														<xs:documentation xml:lang="EN">Amount of Youth discount in EUR</xs:documentation>
+													</xs:annotation>
+												</xs:attribute>
+												<xs:attribute name="optional" type="xs:string" use="optional">
+													<xs:annotation>
+														<xs:documentation xml:lang="DE">Wenn der Wert "Y" vorliegt, ist die betreffende Nebenkostenart optional.</xs:documentation>
+														<xs:documentation xml:lang="EN">If value "Y" appears, extra cost is optional.</xs:documentation>
+													</xs:annotation>
+												</xs:attribute>
+												<xs:attribute name="valid_from" type="xs:date" use="optional">
+													<xs:annotation>
+														<xs:documentation xml:lang="DE">Gültigkeitsbeginn für Nebenkostenart</xs:documentation>
+														<xs:documentation xml:lang="EN">Valid from date for Extra cost type</xs:documentation>
+													</xs:annotation>
+												</xs:attribute>
+												<xs:attribute name="valid_till" type="xs:date" use="optional">
+													<xs:annotation>
+														<xs:documentation xml:lang="DE">Gültigkeitsende für Nebenkostenart</xs:documentation>
+														<xs:documentation xml:lang="EN">Valid to date for Extra cost type</xs:documentation>
+													</xs:annotation>
+												</xs:attribute>
+												<xs:attribute name="original" type="xs:string" use="optional">
+													<xs:annotation>
+														<xs:documentation xml:lang="DE">Wenn der "Y" vorliegt, handelt es sich bei dem Wert zur Nebenkostenart um einen Originalpreis (EUR). Wenn der Wert "N" vorliegt, handelt es sich um einen aus einer anderen Währung umgewandelten EUR-Preis (Wechselkursschwankungen möglich).</xs:documentation>
+														<xs:documentation xml:lang="EN">If value "Y" appears, amount for extra cost is original price in EUR. If value "N" appears, amount for extra cost is a calculated EUR price (Fluctuations due to currency exchange rates possible).</xs:documentation>
+													</xs:annotation>													
+												</xs:attribute>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element minOccurs="0" name="price_children">
+								<xs:annotation>
+									<xs:documentation xml:lang="de">Kinder- und Jugendlichenrabatt</xs:documentation>
+									<xs:documentation xml:lang="en">Discount for children and youths</xs:documentation>
+								</xs:annotation>
+								<xs:complexType>
+									<xs:attribute name="ok" type="xs:boolean" use="optional">
+										<xs:annotation>
+											<xs:documentation xml:lang="de">Gibt an, ob Kinder- und Jugendlichenrabatt angeboten wird oder nicht</xs:documentation>
+											<xs:documentation xml:lang="en">Defines if discount for children and youths is available or not</xs:documentation>
+										</xs:annotation>
+									</xs:attribute>
+									<xs:attribute name="age" type="xs:string" use="optional">
+										<xs:annotation>
+											<xs:documentation xml:lang="de">Alter, bis zu dem der Kinder- und Jugendlichenrabatt gew�hrt wird</xs:documentation>
+											<xs:documentation xml:lang="en">Maximum age for children and youth discount</xs:documentation>
+										</xs:annotation>
+									</xs:attribute>
+								</xs:complexType>
+							</xs:element>
+							<xs:element minOccurs="0" name="deposit">
+								<xs:annotation>
+									<xs:documentation xml:lang="de">Kautionsbetrag mit W�hrungsangabe</xs:documentation>
+									<xs:documentation xml:lang="en">Deposit amount with currency</xs:documentation>
+								</xs:annotation>
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element minOccurs="0" name="price" type="xs:string">
+											<xs:annotation>
+												<xs:documentation xml:lang="de">Betrag</xs:documentation>
+												<xs:documentation xml:lang="en">Amount</xs:documentation>
+											</xs:annotation>
+										</xs:element>
+										<xs:element minOccurs="0" name="currency">
+											<xs:annotation>
+												<xs:documentation xml:lang="de">Währung</xs:documentation>
+												<xs:documentation xml:lang="en">Currency</xs:documentation>
+											</xs:annotation>
+											<xs:complexType>
+												<xs:simpleContent>
+													<xs:extension base="xs:string">
+														<xs:attribute name="id" type="xs:unsignedByte" use="optional">
+															<xs:annotation>
+																<xs:documentation xml:lang="de">Eindeutiger Währungscode</xs:documentation>
+																<xs:documentation xml:lang="en">Unique Currency ID</xs:documentation>
+															</xs:annotation>
+														</xs:attribute>
+													</xs:extension>
+												</xs:simpleContent>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+						<xs:attribute name="id" type="xs:integer" use="optional">
+							<xs:annotation>
+								<xs:documentation xml:lang="de">Eindeutige Objektnummer</xs:documentation>
+								<xs:documentation xml:lang="en">Unique Object ID</xs:documentation>
+							</xs:annotation>
+						</xs:attribute>
+						<xs:attribute name="UnitOwnerID" type="xs:string" use="optional">
+							<xs:annotation>
+								<xs:documentation xml:lang="DE">Eindeutige Referenz-Anbieternummer, vergeben durch e-domizil</xs:documentation>
+								<xs:documentation xml:lang="EN">Unique owner identifier, defined by e-domizil</xs:documentation>
+							</xs:annotation>
+						</xs:attribute>
+						<xs:attribute name="InternalUnitID" type="xs:string" use="optional">
+							<xs:annotation>
+								<xs:documentation xml:lang="DE">AnbieterObjektNr, vergeben durch Anbieter</xs:documentation>
+								<xs:documentation xml:lang="EN">Unique unit identifier in owner system</xs:documentation>
+							</xs:annotation>
+						</xs:attribute>
+						<xs:attribute name="InternalUnitID2" type="xs:string" use="optional">
+							<xs:annotation>
+								<xs:documentation xml:lang="DE">AnbieterObjektNr2, vergeben durch Anbieter</xs:documentation>
+								<xs:documentation xml:lang="EN">Further Unique unit identifier in owner system</xs:documentation>
+							</xs:annotation>
+						</xs:attribute>
+						<xs:attribute name="container" type="xs:string" use="optional">
+							<xs:annotation>
+								<xs:documentation xml:lang="de">Datenkategorisierung</xs:documentation>
+								<xs:documentation xml:lang="en">Data category</xs:documentation>
+							</xs:annotation>
+						</xs:attribute>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

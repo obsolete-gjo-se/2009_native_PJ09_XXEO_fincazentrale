@@ -1,0 +1,45 @@
+<form id="f_umkreissuche" method="post" action="http://www.e-domizil.de/index.cfm?fuseaction=search.search" style="display: inline;">
+	<div class="msgcontainer"></div>
+	<div>
+ 	<input name="umks_lat" id="umks_lat" value="52.456" type="hidden">
+  <input name="umks_lng" id="umks_lng" value="13.4033" type="hidden">
+	<input name="datvon" id="calendar4" value="" type="hidden">
+	<input name="reisedauer" id="ReisedauerSelector4" value="" type="hidden">
+	<input name="personen" id="PersSelector4" value="" type="hidden">
+
+ </div>
+  <div style="line-height: 2em;">
+      Durch Klick in die Karte setzen Sie den Ausgangspunkt <img src="http://maps.google.com/mapfiles/kml/pal5/icon13.png" alt="" width="16"> Ihrer Umkreissuche. Der Radius beträgt standardmäßig 50 Kilometer (maximal 500 Kilometer). Den Radius können Sie variabel durch Verschieben von <img src="http://maps.google.com/mapfiles/kml/pal5/icon5.png" alt="" width="16"> anpassen.<br>Alternativ können Sie Ihre gewünschte Destination inkl. Radius in folgenden Feldern angeben:
+    </div>
+    <ol class="form">
+     <li>
+       <span>
+
+         <label for="umks_ort">Land/Region/Ort</label>
+       </span><input name="umks_ort" id="umks_ort" value="" onKeyUp="onChangeOrt(this,event.keyCode)" class="mandatory">
+        <span style="margin-left: 30px; width: 70px;">
+          <label for="umks_radius">Radius</label>
+        </span><input style="width: 50px;" name="umks_radius" id="umks_radius" size="4" value="159" onKeyUp="onChangeRadius(this,event.keyCode)" type="text"> km
+     </li>
+    </ol>
+
+<div id="map" style="border: 3px solid rgb(153, 153, 153); width: 830px; height: 400px; margin-bottom: 1em; position: relative; background-color: rgb(229, 227, 223);"></div>
+
+<div class="subcolumns">
+
+ <div class="c50l">
+   <div class="subcl">
+     <a href="javascript:clearMap();" class="button button_1 button_left"><span><b>Zurücksetzen</b></span></a>
+
+   </div>
+ </div>
+
+ <div class="c50r">
+   <div class="subcr" style="text-align: right;">
+    <a id="UmkreissucheButt" href="javascript:startUmkreissuche();" class="button button_2 button_2_right"><span><b>Feriendomizile zeigen!</b></span></a>
+   </div>
+ </div>
+
+</div>
+
+</form>

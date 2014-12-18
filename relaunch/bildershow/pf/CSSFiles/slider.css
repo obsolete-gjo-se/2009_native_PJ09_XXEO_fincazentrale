@@ -1,0 +1,35 @@
+
+
+/**************************************************************
+
+	Slider
+	v 1.0
+
+**************************************************************/
+
+.slideContainer {
+	border: 1px solid #ccc;
+	height: 20px;
+}
+
+.slideHandle {
+	background-color: orange;
+	width: 10px;
+	height: 20px;
+	cursor: pointer;
+}
+
+.slideContainer_steps {
+	margin-top: 20px;
+	background-image: url(bg.gif);
+}
+
+.pos {
+	border: 1px solid #ccc;
+	height: 20px;
+	width: 30px;
+	margin-top: 5px;
+	padding-left: 2px;
+}
+
+/*************************************************************/

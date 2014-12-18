@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<AttributKategories xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.e-domizil.de/Schnittstellen/XML/AttributKategories.xsd">
+  <Kategorie>
+    <Nr>1</Nr>
+    <NameDE>Kurzbeschreibung</NameDE>
+    <NameEN>Short description</NameEN>
+    <NameFR>Courte description</NameFR>
+    <NameSP>Descripción abreviada</NameSP>
+    <NameIT>Breve descrizione</NameIT>
+  </Kategorie>
+  <Kategorie>
+    <Nr>2</Nr>
+    <NameDE>Verfügbarkeit</NameDE>
+    <NameEN>Availability</NameEN>
+    <NameFR>Disponibilité</NameFR>
+    <NameIT>Disponibilità</NameIT>
+    <GruppeDE>Verfügbarkeit und Preise</GruppeDE>
+    <GruppeEN>Availability and prices</GruppeEN>
+    <GruppeFR>Disponibilité et prix</GruppeFR>
+    <GruppeIT>Disponibilità e prezzi</GruppeIT>
+  </Kategorie>
+  <Kategorie>
+    <Nr>4</Nr>
+    <NameDE>Wohnzimmer</NameDE>
+    <NameEN>Living room</NameEN>
+    <NameFR>Pièce de séjour</NameFR>
+    <NameSP>Salón</NameSP>
+    <NameIT>Soggiorno</NameIT>
+    <GruppeDE>Räume</GruppeDE>
+    <GruppeEN>Rooms</GruppeEN>
+    <GruppeFR>Pièces</GruppeFR>
+    <GruppeIT>Stanze</GruppeIT>
+  </Kategorie>
+  <Kategorie>
+    <Nr>7</Nr>
+    <NameDE>Garten und Aussenanlagen</NameDE>
+    <NameEN>Garden and outdoor</NameEN>
+    <NameFR>Jardin et extérieurs</NameFR>
+    <NameSP>Jardín y exteriores</NameSP>
+    <NameIT>Giardino e spazi esterni</NameIT>
+  </Kategorie>
+  <Kategorie>
+    <Nr>9</Nr>
+    <NameDE>Serviceleistungen</NameDE>
+    <NameEN>Service benefits</NameEN>
+    <NameFR>Prestations de service</NameFR>
+    <NameSP>Prestaciones de servicio</NameSP>
+    <NameIT>Servizi</NameIT>
+  </Kategorie>
+  <Kategorie>
+    <Nr>13</Nr>
+    <NameDE>Sonstige Inneneinrichtung</NameDE>
+    <NameEN>Inhouse features</NameEN>
+    <NameFR>équipement d'interieur</NameFR>
+    <NameSP>Resto de equipamiento</NameSP>
+    <NameIT>Arredamento interno</NameIT>
+  </Kategorie>
+  <Kategorie>
+    <Nr>17</Nr>
+    <NameDE>Freitextbeschreibung</NameDE>
+    <NameEN>Open text description</NameEN>
+    <NameFR>Description libre</NameFR>
+    <NameSP>Descripción literal</NameSP>
+    <NameIT>Descrizione con testo libero</NameIT>
+  </Kategorie>
+  <Kategorie>
+    <Nr>20</Nr>
+    <NameDE>Präsentation</NameDE>
+    <NameEN>Presentation</NameEN>
+    <NameFR>Présentation</NameFR>
+    <NameSP>Presentación</NameSP>
+    <NameIT>Presentazione</NameIT>
+  </Kategorie>
+  <Kategorie>
+    <Nr>21</Nr>
+    <NameDE>Preisgrundlagen</NameDE>
+    <NameEN>Basic price</NameEN>
+    <NameFR>Prix de base</NameFR>
+    <NameIT>Base prezzo</NameIT>
+    <GruppeDE>Verfügbarkeit und Preise</GruppeDE>
+    <GruppeEN>Availability and prices</GruppeEN>
+    <GruppeFR>Disponibilité et prix</GruppeFR>
+    <GruppeIT>Disponibilità e prezzi</GruppeIT>
+  </Kategorie>
+  <Kategorie>
+    <Nr>22</Nr>
+    <NameDE>Saisonangaben</NameDE>
+    <NameEN>Seasons</NameEN>
+    <NameFR>Indications de saison</NameFR>
+    <NameIT>Dati stagionali</NameIT>
+    <GruppeDE>Verfügbarkeit und Preise</GruppeDE>
+    <GruppeEN>Availability and prices</GruppeEN>
+    <GruppeFR>Disponibilité et prix</GruppeFR>
+    <GruppeIT>Disponibilità e prezzi</GruppeIT>
+  </Kategorie>
+  <Kategorie>
+    <Nr>23</Nr>
+    <NameDE>Preise</NameDE>
+    <NameEN>Prices</NameEN>
+    <NameFR>Prix</NameFR>
+    <NameIT>Prezzi</NameIT>
+    <GruppeDE>Verfügbarkeit und Preise</GruppeDE>
+    <GruppeEN>Availability and prices</GruppeEN>
+    <GruppeFR>Disponibilité et prix</GruppeFR>
+    <GruppeIT>Disponibilità e prezzi</GruppeIT>
+  </Kategorie>
+  <Kategorie>
+    <Nr>24</Nr>
+    <NameDE>Rabatte</NameDE>
+    <NameEN>Discounts</NameEN>
+    <NameFR>Réduction</NameFR>
+    <NameIT>Sconti</NameIT>
+    <GruppeDE>Verfügbarkeit und Preise</GruppeDE>
+    <GruppeEN>Availability and prices</GruppeEN>
+    <GruppeFR>Disponibilité et prix</GruppeFR>
+    <GruppeIT>Disponibilità e prezzi</GruppeIT>
+  </Kategorie>
+  <Kategorie>
+    <Nr>25</Nr>
+    <NameDE>Nebenkosten</NameDE>
+    <NameEN>Extra costs</NameEN>
+    <NameFR>Frais supplémentaires</NameFR>
+    <NameIT>Spese accessorie</NameIT>
+    <GruppeDE>Verfügbarkeit und Preise</GruppeDE>
+    <GruppeEN>Availability and prices</GruppeEN>
+    <GruppeFR>Disponibilité et prix</GruppeFR>
+    <GruppeIT>Disponibilità e prezzi</GruppeIT>
+  </Kategorie>
+  <Kategorie>
+    <Nr>41</Nr>
+    <NameDE>Schlafzimmer</NameDE>
+    <NameEN>Bedroom</NameEN>
+    <NameFR>Chambre à coucher</NameFR>
+    <NameSP>dormitorio</NameSP>
+    <NameIT>Camera da letto</NameIT>
+    <GruppeDE>Räume</GruppeDE>
+    <GruppeEN>Rooms</GruppeEN>
+    <GruppeFR>Pièces</GruppeFR>
+    <GruppeIT>Stanze</GruppeIT>
+  </Kategorie>
+  <Kategorie>
+    <Nr>42</Nr>
+    <NameDE>Badezimmer</NameDE>
+    <NameEN>Bathroom</NameEN>
+    <NameFR>Salle de bain</NameFR>
+    <NameSP>cuarto de baño</NameSP>
+    <NameIT>Camera da bagno</NameIT>
+    <GruppeDE>Räume</GruppeDE>
+    <GruppeEN>Rooms</GruppeEN>
+    <GruppeFR>Pièces</GruppeFR>
+    <GruppeIT>Stanze</GruppeIT>
+  </Kategorie>
+  <Kategorie>
+    <Nr>43</Nr>
+    <NameDE>Küche</NameDE>
+    <NameEN>Kitchen</NameEN>
+    <NameFR>Cuisine</NameFR>
+    <NameSP>cocina</NameSP>
+    <NameIT>Cucina</NameIT>
+    <GruppeDE>Räume</GruppeDE>
+    <GruppeEN>Rooms</GruppeEN>
+    <GruppeFR>Pièces</GruppeFR>
+    <GruppeIT>Stanze</GruppeIT>
+  </Kategorie>
+  <Kategorie>
+    <Nr>51</Nr>
+    <NameDE>Ein-Zimmer-Wohnung</NameDE>
+    <NameEN>One Room Flat</NameEN>
+    <NameFR>Appartement à une pièce</NameFR>
+    <NameSP>Estudio</NameSP>
+    <NameIT>Monolocale</NameIT>
+    <GruppeDE>Räume</GruppeDE>
+    <GruppeEN>Rooms</GruppeEN>
+    <GruppeFR>Pièces</GruppeFR>
+    <GruppeIT>Stanze</GruppeIT>
+  </Kategorie>
+  <Kategorie>
+    <Nr>52</Nr>
+    <NameDE>Umgebung</NameDE>
+    <NameEN>Surrounding</NameEN>
+    <NameFR>Environnement</NameFR>
+    <NameSP>Alrededores</NameSP>
+    <NameIT>Dintorni</NameIT>
+  </Kategorie>
+  <Kategorie>
+    <Nr>53</Nr>
+    <NameDE>Anfahrtsinformationen</NameDE>
+    <NameEN>Travel Instructions</NameEN>
+    <NameFR>Itinéraire à suivre</NameFR>
+    <NameSP>Información de acceso</NameSP>
+    <NameIT>Informazioni sul percorso</NameIT>
+  </Kategorie>
+  <Kategorie>
+    <Nr>54</Nr>
+    <NameDE>Schlüsselübergabe</NameDE>
+    <NameEN>Change of Keys</NameEN>
+    <NameFR>Remise des clés</NameFR>
+    <NameSP>Entrega de llaves</NameSP>
+    <NameIT>Consegna delle chiavi</NameIT>
+  </Kategorie>
+  <Kategorie>
+    <Nr>55</Nr>
+    <NameDE>STV-Klassifikation</NameDE>
+    <NameEN>STV classification</NameEN>
+    <NameSP>Clasificación STV</NameSP>
+  </Kategorie>
+</AttributKategories>

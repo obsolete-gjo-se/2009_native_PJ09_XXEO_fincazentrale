@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<AttributTypes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.e-domizil.de/Schnittstellen/XML/AttributTypes.xsd">
+  <Typ>
+    <Nr>1</Nr>
+    <Name>Text</Name>
+  </Typ>
+  <Typ>
+    <Nr>2</Nr>
+    <Name>Integer</Name>
+  </Typ>
+  <Typ>
+    <Nr>3</Nr>
+    <Name>Real</Name>
+  </Typ>
+  <Typ>
+    <Nr>4</Nr>
+    <Name>Yes/No</Name>
+  </Typ>
+  <Typ>
+    <Nr>5</Nr>
+    <Name>Lookup/Single</Name>
+  </Typ>
+  <Typ>
+    <Nr>6</Nr>
+    <Name>Lookup/Multiple</Name>
+  </Typ>
+  <Typ>
+    <Nr>7</Nr>
+    <Name>Memo</Name>
+  </Typ>
+  <Typ>
+    <Nr>10</Nr>
+    <Name>URL</Name>
+  </Typ>
+  <Typ>
+    <Nr>11</Nr>
+    <Name>Image</Name>
+  </Typ>
+  <Typ>
+    <Nr>12</Nr>
+    <Name>Video</Name>
+  </Typ>
+  <Typ>
+    <Nr>13</Nr>
+    <Name>Sound</Name>
+  </Typ>
+  <Typ>
+    <Nr>14</Nr>
+    <Name>FlashPix</Name>
+  </Typ>
+  <Typ>
+    <Nr>15</Nr>
+    <Name>Quicktime/VR</Name>
+  </Typ>
+  <Typ>
+    <Nr>30</Nr>
+    <Name>Currency (real)</Name>
+  </Typ>
+  <Typ>
+    <Nr>77</Nr>
+    <Name>Memo (Large text)</Name>
+  </Typ>
+</AttributTypes>

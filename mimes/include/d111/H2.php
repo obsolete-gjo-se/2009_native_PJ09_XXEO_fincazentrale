@@ -1,0 +1,1 @@
+<h2><?php echo $row_Allgemein['Header H34']; ?></h2>

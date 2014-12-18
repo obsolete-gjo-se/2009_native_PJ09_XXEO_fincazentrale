@@ -1,0 +1,55 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Unbenanntes Dokument</title>
+</head>
+
+<body>
+
+<script language="JavaScript">
+<!--
+var Marker = "false";
+
+function CheckboxenAktivieren(field)
+{
+    if(Marker == "false")
+    {
+        for(i = 0; i < field.length; i++)
+        {
+            field[i].checked = true;
+        }
+
+        Marker = "true";
+        return "Ich habe keine besucht";
+    }
+    else
+    {
+        for(i = 0; i < field.length; i++)
+        {
+            field[i].checked = false;
+        }
+
+        Marker = "false";
+        return "Ich habe alle besucht";
+    }
+}
+//-->
+</script>
+<title>Mehrere Checkboxen gleichzeitig aktivieren</title>
+</head>
+<body>
+
+<form>
+Welche der folgenden Städte haben Sie bereits besucht?<br><br>
+<input type="button" onClick="this.value=CheckboxenAktivieren(this.form.Stadt);" value="Ich habe alle besucht"><br><br>
+<input type="checkbox" name="Stadt" value="Amsterdam">Amsterdam<br>
+<input type="checkbox" name="Stadt" value="Berlin">Berlin<br>
+<input type="checkbox" name="Stadt" value="Londen">London<br>
+<input type="checkbox" name="Stadt" value="Paris">Paris<br>
+<input type="checkbox" name="Stadt" value="Rhede">Rhede<br>
+<input type="checkbox" name="Stadt" value="Wien">Wien<br>
+<input type="checkbox" name="Stadt" value="Zuerich">Zürich
+</form>
+</body>
+</html>

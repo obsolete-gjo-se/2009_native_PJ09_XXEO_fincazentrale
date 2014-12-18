@@ -1,0 +1,523 @@
+<?xml version="1.0"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Resultset">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" name="domizil">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element minOccurs="0" maxOccurs="unbounded" name="property_type">
+                <xs:annotation>
+                  <xs:documentation xml:lang="de">Hauptobjekttyp</xs:documentation>
+                  <xs:documentation xml:lang="en">Main object type</xs:documentation>
+                </xs:annotation>
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute name="language" type="xs:string" use="optional">
+                        <xs:annotation>
+                          <xs:documentation xml:lang="de">Sprache des Hauptobjekttyps</xs:documentation>
+                          <xs:documentation xml:lang="en">Language of main object type</xs:documentation>
+                        </xs:annotation>
+                      </xs:attribute>
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+              <xs:element minOccurs="0" maxOccurs="unbounded" name="title">
+                <xs:annotation>
+                  <xs:documentation xml:lang="de">Bezeichnung/Name eines Objektes</xs:documentation>
+                  <xs:documentation xml:lang="en">Object name</xs:documentation>
+                </xs:annotation>
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute name="language" type="xs:string" use="optional">
+                        <xs:annotation>
+                          <xs:documentation xml:lang="de">Sprache der/des Objektbezeichnung/-namen</xs:documentation>
+                          <xs:documentation xml:lang="en">Language of object name</xs:documentation>
+                        </xs:annotation>
+                      </xs:attribute>
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+              <xs:element minOccurs="0" name="occupancies">
+                <xs:annotation>
+                  <xs:documentation xml:lang="de">de</xs:documentation>
+                  <xs:documentation xml:lang="en">en</xs:documentation>
+                </xs:annotation>
+                <xs:complexType>
+                  <xs:attribute name="normal" type="xs:integer" use="optional">
+                    <xs:annotation>
+                      <xs:documentation xml:lang="de">Normalbelegung in Anzahl Personen</xs:documentation>
+                      <xs:documentation xml:lang="en">Standard occupancy (Number of persons)</xs:documentation>
+                    </xs:annotation>
+                  </xs:attribute>
+                  <xs:attribute name="maximum" type="xs:integer" use="optional">
+                    <xs:annotation>
+                      <xs:documentation xml:lang="de">Maximalbelegung in Anzahl Personen</xs:documentation>
+                      <xs:documentation xml:lang="en">Maximum occupancy (Number of persons)</xs:documentation>
+                    </xs:annotation>
+                  </xs:attribute>
+                </xs:complexType>
+              </xs:element>
+              <xs:element minOccurs="0" name="offersobject">
+                <xs:annotation>
+                  <xs:documentation xml:lang="de">Detaillierte Angaben zu den Angebotskategorien, die einem Objekt zugeordnet sind</xs:documentation>
+                  <xs:documentation xml:lang="en">Detailed information about offer categories</xs:documentation>
+                </xs:annotation>
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element minOccurs="0" maxOccurs="unbounded" name="offer">
+                      <xs:complexType>
+                        <xs:attribute name="id" type="xs:unsignedInt" use="optional">
+                          <xs:annotation>
+                            <xs:documentation xml:lang="de">Eindeutige Referenz-Angebotsnummer, vergeben durch e-domizil</xs:documentation>
+                            <xs:documentation xml:lang="en">Unique offer identifier, defined by e-domizil</xs:documentation>
+                          </xs:annotation>
+                        </xs:attribute>
+                        <xs:attribute name="name" type="xs:string" use="optional">
+                          <xs:annotation>
+                            <xs:documentation xml:lang="de">Angebotsbezeichnung</xs:documentation>
+                            <xs:documentation xml:lang="en">Offer Category Name</xs:documentation>
+                          </xs:annotation>
+                        </xs:attribute>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element minOccurs="0" name="location">
+                <xs:annotation>
+                  <xs:documentation xml:lang="de">Angaben zur Lokalisierung eines Objektes</xs:documentation>
+                  <xs:documentation xml:lang="en">Information to localise an object</xs:documentation>
+                </xs:annotation>
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element minOccurs="0" name="country">
+                      <xs:annotation>
+                        <xs:documentation xml:lang="de">Lnderbezeichnung</xs:documentation>
+                        <xs:documentation xml:lang="en">Country name</xs:documentation>
+                      </xs:annotation>
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:string">
+                            <xs:attribute name="iso_code" type="xs:string" use="optional">
+                              <xs:annotation>
+                                <xs:documentation xml:lang="de">2-stelliger L�ndercode gem. ISO 3166</xs:documentation>
+                                <xs:documentation xml:lang="en">Country Code following ISO 3166</xs:documentation>
+                              </xs:annotation>
+                            </xs:attribute>
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element minOccurs="0" name="region">
+                      <xs:annotation>
+                        <xs:documentation xml:lang="de">Regionsbezeichnung</xs:documentation>
+                        <xs:documentation xml:lang="en">Region name</xs:documentation>
+                      </xs:annotation>
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:string">
+                            <xs:attribute name="region_code" type="xs:string" use="optional">
+                              <xs:annotation>
+                                <xs:documentation xml:lang="de">Eindeutiger Code einer Region</xs:documentation>
+                                <xs:documentation xml:lang="en">Unique code of a region</xs:documentation>
+                              </xs:annotation>
+                            </xs:attribute>
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element minOccurs="0" name="regionnew">
+                      <xs:annotation>
+                        <xs:documentation xml:lang="de">Regionsbezeichnung</xs:documentation>
+                        <xs:documentation xml:lang="en">Region name</xs:documentation>
+                      </xs:annotation>
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:string">
+                            <xs:attribute name="regionnew_code" type="xs:string" use="optional">
+                              <xs:annotation>
+                                <xs:documentation xml:lang="de">Eindeutiger Code einer Region</xs:documentation>
+                                <xs:documentation xml:lang="en">Unique code of a region</xs:documentation>
+                              </xs:annotation>
+                            </xs:attribute>
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element minOccurs="0" name="postcode" type="xs:string">
+                      <xs:annotation>
+                        <xs:documentation xml:lang="de">Postleitzahl (PLZ)</xs:documentation>
+                        <xs:documentation xml:lang="en">Zip code</xs:documentation>
+                      </xs:annotation>
+                    </xs:element>
+                    <xs:element minOccurs="0" name="city" type="xs:string">
+                      <xs:annotation>
+                        <xs:documentation xml:lang="de">Ortsname</xs:documentation>
+                        <xs:documentation xml:lang="en">City name</xs:documentation>
+                      </xs:annotation>
+                    </xs:element>
+                    <xs:element minOccurs="0" name="geocodes">
+                      <xs:annotation>
+                        <xs:documentation xml:lang="de">Geoinformationen zur Lokalisierung des Objektes oder des Ortes, in dem sich das Objekt befindet</xs:documentation>
+                        <xs:documentation xml:lang="en">Geographic information to localise object or place where object is situated</xs:documentation>
+                      </xs:annotation>
+                      <xs:complexType>
+                        <xs:attribute name="latitude" type="xs:integer" use="optional">
+                          <xs:annotation>
+                            <xs:documentation xml:lang="de">Breitengrad im Format WGS84, multipliziert mit dem Wert 100000</xs:documentation>
+                            <xs:documentation xml:lang="en">Latitude, format WGS84, multiplied with 100000</xs:documentation>
+                          </xs:annotation>
+                        </xs:attribute>
+                        <xs:attribute name="longitude" type="xs:integer" use="optional">
+                          <xs:annotation>
+                            <xs:documentation xml:lang="de">Längengrad im Format WGS84, multipliziert mit dem Wert 100000</xs:documentation>
+                            <xs:documentation xml:lang="en">Longitude, format WGS84, multiplied with 100000</xs:documentation>
+                          </xs:annotation>
+                        </xs:attribute>
+                        <xs:attribute name="type" type="xs:integer" use="optional">
+                          <xs:annotation>
+                            <xs:documentation xml:lang="de">Wert zur Unterscheidung zwischen objektbezogenen (Wert = 1) und ortsbezogenen Geoinformationen (Wert = 0)</xs:documentation>
+                            <xs:documentation xml:lang="en">Value to differentiate between geographic information for objects (value = 1) and places (value = 0)</xs:documentation>
+                          </xs:annotation>
+                        </xs:attribute>
+                        <xs:attribute name="minzoom" type="xs:integer" use="optional">
+                          <xs:annotation>
+                            <xs:documentation xml:lang="de">Minimale Zoomstufe für das Herauszoomen in GoogleMaps</xs:documentation>
+                            <xs:documentation xml:lang="en">Minimal Zoom out for GoogleMaps</xs:documentation>
+                          </xs:annotation>
+                        </xs:attribute>
+                        <xs:attribute name="maxzoom" type="xs:integer" use="optional">
+                          <xs:annotation>
+                            <xs:documentation xml:lang="de">Maximale Zoomstufe für das Hereinzoomen in GoogleMaps</xs:documentation>
+                            <xs:documentation xml:lang="en">Maximum Zoom In for GoogleMaps</xs:documentation>
+                          </xs:annotation>
+                        </xs:attribute>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element minOccurs="0" maxOccurs="unbounded" name="description">
+                <xs:annotation>
+                  <xs:documentation xml:lang="de">Beschreibungstext eines Objektes</xs:documentation>
+                  <xs:documentation xml:lang="en">Object description</xs:documentation>
+                </xs:annotation>
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute name="language" type="xs:string" use="optional">
+                        <xs:annotation>
+                          <xs:documentation xml:lang="de">Sprache des Objektbeschreibungstextes</xs:documentation>
+                          <xs:documentation xml:lang="en">Language of object description</xs:documentation>
+                        </xs:annotation>
+                      </xs:attribute>
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+              <xs:element minOccurs="0" name="features">
+                <xs:annotation>
+                  <xs:documentation xml:lang="de">Liste der Objektausstattungsmerkmale (Attribute)</xs:documentation>
+                  <xs:documentation xml:lang="en">List of object features (Attributes)</xs:documentation>
+                </xs:annotation>
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element minOccurs="0" name="category" maxOccurs="unbounded">
+                      <xs:annotation>
+                        <xs:documentation xml:lang="de">Attributkategorie</xs:documentation>
+                        <xs:documentation xml:lang="en">Attribute category</xs:documentation>
+                      </xs:annotation>
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element minOccurs="0" maxOccurs="unbounded" name="attribute">
+                            <xs:annotation>
+                              <xs:documentation xml:lang="de">Beschreibung ...</xs:documentation>
+                              <xs:documentation xml:lang="en">description ...</xs:documentation>
+                            </xs:annotation>
+                            <xs:complexType>
+                              <xs:simpleContent>
+                                <xs:extension base="xs:string">
+                                  <xs:attribute name="id" type="xs:integer" use="optional">
+                                    <xs:annotation>
+                                      <xs:documentation xml:lang="de">Eindeutige Attribut-ID; Referenz zur Tabelle "attributs.xml"</xs:documentation>
+                                      <xs:documentation xml:lang="en">Unique Attribute ID; Reference to "attributs.xml"</xs:documentation>
+                                    </xs:annotation>
+                                  </xs:attribute>
+                                  <xs:attribute name="title" type="xs:string" use="optional">
+                                    <xs:annotation>
+                                      <xs:documentation xml:lang="de">Attributsname</xs:documentation>
+                                      <xs:documentation xml:lang="en">Attribute name</xs:documentation>
+                                    </xs:annotation>
+                                  </xs:attribute>
+                                  <xs:attribute name="language" type="xs:string" use="optional">
+                                    <xs:annotation>
+                                      <xs:documentation xml:lang="de">Sprache des Attributnamen</xs:documentation>
+                                      <xs:documentation xml:lang="en">Language of attribute name</xs:documentation>
+                                    </xs:annotation>
+                                  </xs:attribute>
+                                </xs:extension>
+                              </xs:simpleContent>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                        <xs:attribute name="id" type="xs:string" use="optional">
+                          <xs:annotation>
+                            <xs:documentation xml:lang="de">Eindeutige ID der Attributskategorie</xs:documentation>
+                            <xs:documentation xml:lang="en">Unique ID of attribute category</xs:documentation>
+                          </xs:annotation>
+                        </xs:attribute>
+                        <xs:attribute name="title" type="xs:string" use="optional">
+                          <xs:annotation>
+                            <xs:documentation xml:lang="de">Name der Attributskategorie</xs:documentation>
+                            <xs:documentation xml:lang="en">Name of attribute category</xs:documentation>
+                          </xs:annotation>
+                        </xs:attribute>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element minOccurs="0" name="ratings">
+                <xs:annotation>
+                  <xs:documentation xml:lang="de">Liste aller Kundenbewertungen mit detaillierten Ratinginformationen</xs:documentation>
+                  <xs:documentation xml:lang="en">Complete rating list with detailed rating information</xs:documentation>
+                </xs:annotation>
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element minOccurs="0" name="average_rating" type="xs:string">
+                      <xs:annotation>
+                        <xs:documentation xml:lang="de">Durchschnittliche Kundenbewertung</xs:documentation>
+                        <xs:documentation xml:lang="en">Average Customer Rating</xs:documentation>
+                      </xs:annotation>
+                    </xs:element>
+                    <xs:element minOccurs="0" maxOccurs="unbounded" name="rating">
+                      <xs:annotation>
+                        <xs:documentation xml:lang="de">Detaillierte Ratinginformationen je Kundenbewertung</xs:documentation>
+                        <xs:documentation xml:lang="en">Detailed rating information for each customer rating</xs:documentation>
+                      </xs:annotation>
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element minOccurs="0" name="furnishings">
+                            <xs:annotation>
+                              <xs:documentation xml:lang="de">Bewertung der Inneneinrichtung</xs:documentation>
+                              <xs:documentation xml:lang="en">Rating for furnishings</xs:documentation>
+                            </xs:annotation>
+                            <xs:complexType>
+                              <xs:attribute name="points" type="xs:unsignedByte" use="optional">
+                                <xs:annotation>
+                                  <xs:documentation xml:lang="de">Bewertung in Anzahl Punkte</xs:documentation>
+                                  <xs:documentation xml:lang="en">Rating points</xs:documentation>
+                                </xs:annotation>
+                              </xs:attribute>
+                            </xs:complexType>
+                          </xs:element>
+                          <xs:element minOccurs="0" name="location">
+                            <xs:annotation>
+                              <xs:documentation xml:lang="de">Bewertung der Objektlage</xs:documentation>
+                              <xs:documentation xml:lang="en">Rating for object location</xs:documentation>
+                            </xs:annotation>
+                            <xs:complexType>
+                              <xs:attribute name="points" type="xs:unsignedByte" use="optional">
+                                <xs:annotation>
+                                  <xs:documentation xml:lang="de">Bewertung in Anzahl Punkte</xs:documentation>
+                                  <xs:documentation xml:lang="en">Rating points</xs:documentation>
+                                </xs:annotation>
+                              </xs:attribute>
+                            </xs:complexType>
+                          </xs:element>
+                          <xs:element minOccurs="0" name="cleanliness">
+                            <xs:annotation>
+                              <xs:documentation xml:lang="de">Bewertung der Sauberkeit eines Objektes</xs:documentation>
+                              <xs:documentation xml:lang="en">Rating for object cleanliness</xs:documentation>
+                            </xs:annotation>
+                            <xs:complexType>
+                              <xs:attribute name="points" type="xs:unsignedByte" use="optional">
+                                <xs:annotation>
+                                  <xs:documentation xml:lang="de">Bewertung in Anzahl Punkte</xs:documentation>
+                                  <xs:documentation xml:lang="en">Rating points</xs:documentation>
+                                </xs:annotation>
+                              </xs:attribute>
+                            </xs:complexType>
+                          </xs:element>
+                          <xs:element minOccurs="0" name="external_impression">
+                            <xs:annotation>
+                              <xs:documentation xml:lang="de">Bewertung des �u�eren Gesamteindrucks eines Objektes</xs:documentation>
+                              <xs:documentation xml:lang="en">Rating for object's external impression</xs:documentation>
+                            </xs:annotation>
+                            <xs:complexType>
+                              <xs:attribute name="points" type="xs:unsignedByte" use="optional">
+                                <xs:annotation>
+                                  <xs:documentation xml:lang="de">Bewertung in Anzahl Punkte</xs:documentation>
+                                  <xs:documentation xml:lang="en">Rating points</xs:documentation>
+                                </xs:annotation>
+                              </xs:attribute>
+                            </xs:complexType>
+                          </xs:element>
+                          <xs:element minOccurs="0" name="price_service">
+                            <xs:annotation>
+                              <xs:documentation xml:lang="de">Bewertung des Preis-Leistungs-Verh�ltnisses eines Objektes</xs:documentation>
+                              <xs:documentation xml:lang="en">Rating for object's price performance ratio</xs:documentation>
+                            </xs:annotation>
+                            <xs:complexType>
+                              <xs:attribute name="points" type="xs:unsignedByte" use="optional">
+                                <xs:annotation>
+                                  <xs:documentation xml:lang="de">Bewertung in Anzahl Punkte</xs:documentation>
+                                  <xs:documentation xml:lang="en">Rating points</xs:documentation>
+                                </xs:annotation>
+                              </xs:attribute>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                        <xs:attribute name="id" type="xs:integer" use="optional">
+                          <xs:annotation>
+                            <xs:documentation xml:lang="de">Eindeutiger Code eines Ratings</xs:documentation>
+                            <xs:documentation xml:lang="en">Unique rating code</xs:documentation>
+                          </xs:annotation>
+                        </xs:attribute>
+                        <xs:attribute name="date" type="xs:string" use="optional">
+                          <xs:annotation>
+                            <xs:documentation xml:lang="de">Anlagedatum eines Ratings</xs:documentation>
+                            <xs:documentation xml:lang="en">Creation date of a rating</xs:documentation>
+                          </xs:annotation>
+                        </xs:attribute>
+                        <xs:attribute name="property_no" type="xs:string" use="optional">
+                          <xs:annotation>
+                            <xs:documentation xml:lang="de">Eindeutige Objektnummer, der das Rating zugeordnet ist</xs:documentation>
+                            <xs:documentation xml:lang="en">Unique Object ID as reference to rating information</xs:documentation>
+                          </xs:annotation>
+                        </xs:attribute>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element minOccurs="0" name="pictures">
+                <xs:annotation>
+                  <xs:documentation xml:lang="de">Objektbilder</xs:documentation>
+                  <xs:documentation xml:lang="en">Object pictures</xs:documentation>
+                </xs:annotation>
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element minOccurs="0" maxOccurs="unbounded" name="picture">
+                      <xs:annotation>
+                        <xs:documentation xml:lang="de">Parameter eines Objektbildes</xs:documentation>
+                        <xs:documentation xml:lang="en">Parameters of an object picture</xs:documentation>
+                      </xs:annotation>
+                      <xs:complexType>
+                        <xs:attribute name="id" type="xs:unsignedInt" use="optional">
+                          <xs:annotation>
+                            <xs:documentation xml:lang="de">Eindeutiger Bildcode</xs:documentation>
+                            <xs:documentation xml:lang="en">Unique picture code</xs:documentation>
+                          </xs:annotation>
+                        </xs:attribute>
+                        <xs:attribute name="attribute_no" type="xs:integer" use="optional">
+                          <xs:annotation>
+                            <xs:documentation xml:lang="de">Eindeutige ID eines Attributs zur Beschreibung des Bildtyps</xs:documentation>
+                            <xs:documentation xml:lang="en">Unique ID of an attribute for picture type</xs:documentation>
+                          </xs:annotation>
+                        </xs:attribute>
+                        <xs:attribute name="description" type="xs:string" use="optional">
+                          <xs:annotation>
+                            <xs:documentation xml:lang="de">Bezeichnung eines Bildtyps</xs:documentation>
+                            <xs:documentation xml:lang="en">Picture type name</xs:documentation>
+                          </xs:annotation>
+                        </xs:attribute>
+                        <xs:attribute name="picture_size" type="xs:integer" use="optional">
+                          <xs:annotation>
+                            <xs:documentation xml:lang="de">Eindeutiger Code einer Bildgr��e</xs:documentation>
+                            <xs:documentation xml:lang="en">Unique code for picture size</xs:documentation>
+                          </xs:annotation>
+                        </xs:attribute>
+                        <xs:attribute name="url" type="xs:string" use="optional">
+                          <xs:annotation>
+                            <xs:documentation xml:lang="de">URL zum Bild</xs:documentation>
+                            <xs:documentation xml:lang="en">Picture URL</xs:documentation>
+                          </xs:annotation>
+                        </xs:attribute>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element minOccurs="0" maxOccurs="unbounded" name="link">
+                <xs:annotation>
+                  <xs:documentation xml:lang="de">Link zur Objektansicht auf der e-domizil-Website</xs:documentation>
+                  <xs:documentation xml:lang="en">Link to object view at e-domizil's website</xs:documentation>
+                </xs:annotation>
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute name="Language" type="xs:string" use="optional">
+                        <xs:annotation>
+                          <xs:documentation xml:lang="de">Sprache</xs:documentation>
+                          <xs:documentation xml:lang="en">Language</xs:documentation>
+                        </xs:annotation>
+                      </xs:attribute>
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute name="id" type="xs:integer" use="optional">
+              <xs:annotation>
+                <xs:documentation xml:lang="de">Eindeutige Objektnummer, durch e-domizil vergeben</xs:documentation>
+                <xs:documentation xml:lang="en">Unique object code defined by e-domizil</xs:documentation>
+              </xs:annotation>
+            </xs:attribute>
+            <xs:attribute name="UnitOwnerID" type="xs:string" use="optional">
+              <xs:annotation>
+                <xs:documentation xml:lang="DE">Eindeutige Referenz-Anbieternummer, vergeben durch e-domizil</xs:documentation>
+                <xs:documentation xml:lang="EN">Unique owner identifier, defined by e-domizil</xs:documentation>
+              </xs:annotation>
+            </xs:attribute>
+            <xs:attribute name="InternalUnitID" type="xs:string" use="optional">
+              <xs:annotation>
+                <xs:documentation xml:lang="DE">AnbieterObjektNr, vergeben durch Anbieter</xs:documentation>
+                <xs:documentation xml:lang="EN">Unique unit identifier in owner system</xs:documentation>
+              </xs:annotation>
+            </xs:attribute>
+            <xs:attribute name="InternalUnitID2" type="xs:string" use="optional">
+              <xs:annotation>
+                <xs:documentation xml:lang="DE">AnbieterObjektNr2, vergeben durch Anbieter</xs:documentation>
+                <xs:documentation xml:lang="EN">Further Unique unit identifier in owner system</xs:documentation>
+              </xs:annotation>
+            </xs:attribute>
+            <xs:attribute name="container" type="xs:string" use="optional">
+              <xs:annotation>
+                <xs:documentation xml:lang="de">Datenkategorisierung</xs:documentation>
+                <xs:documentation xml:lang="en">Data category</xs:documentation>
+              </xs:annotation>
+            </xs:attribute>
+            <xs:attribute name="type" use="optional">
+              <xs:annotation>
+                <xs:documentation xml:lang="de">Vertragsmodell des Objektes</xs:documentation>
+                <xs:documentation xml:lang="en">Business type of object</xs:documentation>
+              </xs:annotation>
+              <xs:simpleType>
+                <xs:restriction base="xs:string">
+                  <xs:enumeration value="1">
+                    <xs:annotation>
+                      <xs:documentation xml:lang="de">Provisionsmodell, Objekte online buchbar</xs:documentation>
+                      <xs:documentation xml:lang="en">Commission model, Objects online bookable</xs:documentation>
+                    </xs:annotation>
+                  </xs:enumeration>
+                  <xs:enumeration value="2">
+                    <xs:annotation>
+                      <xs:documentation xml:lang="de">Inseratmodell, Objekte auf Anfrage</xs:documentation>
+                      <xs:documentation xml:lang="en">Advertisement model, Objects on request</xs:documentation>
+                    </xs:annotation>
+                  </xs:enumeration>
+                </xs:restriction>
+              </xs:simpleType>
+            </xs:attribute>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,160 @@
+<!-- kopiert aus: http://www.jswelt.de/index.php?opencat=JavaScripts&artid=1028808120-->
+<!-- PictureScroller 1.0 by Webmaster@ www.setCookie.de 			-->
+<!-- Da ich ein Netscape Gegner bin, leuft dieses Script nur im IEx	-->
+<!-------------------------------------------------------------------->
+<!-- Wie jeder Source auf meiner Seite ist das auch ein openSource	-->
+<!-- Projekt. Wenn dieses Script jemand verbessert, wuerde ich mich	-->
+<!-- freuen wenn er oder sie es mir zukommen lassen wuerde.			-->
+<!-- Wenn es noch fragen gibt koennt ihr mir auch schreiben.		-->
+<!-- EMail: Webmaster@setCookie.de 									-->
+<!-------------------------------------------------------------------->
+<style type="text/css">
+.viewer1		{width:600px; height:150px; overflow: hidden;}
+.inViewer		{position: absolute; left: -200px; top: -0px;}
+.bildMitte		{filter:Alpha(opacity=100, finishopacity=100, style=3)}
+.bildAusen		{filter:Alpha(opacity=40, finishopacity=40, style=3)}
+</style>
+<script language="JavaScript">
+var pos = -200;				//Sollte das Bild breiter als 200px sein, das muss der Wert hier und in der Klasses .viewer1 angepasst werden
+var thisDirection;			//z.Z. ist der Wert in der Klasses .viewer1 fuer drei sichtbare Bilder, mit der Breite 200px, eingestellt.
+var speed = 50;			//Scroll Geschwindigkeit
+var opacity1 = 100;
+var opacity2 = 40;
+var fin1 = 100;
+var fin2 = 40;
+bilder = new Array();
+source = new Array();
+auto = false;
+
+function init(autoScroll,direction){		//Wenn autoScroll auf true gesetzt wird dann Scroll das Bild automatisch, direction kann auf + oder auf - gesetzt wird.
+								
+// Sollte es "nur" vier Bilder sein, muss das letzte Bild zusaetzlich an die erste Stelle.
+bilder[0] = "BildLinks";
+bilder[1] = "BildMitte";
+bilder[2] = "BildRechts";
+
+bilder[3] = "BildAusen2";
+bilder[4] = "Bildtest1";
+bilder[5] = "Bildtest2";
+if (autoScroll){
+
+auto = true;
+window.setTimeout("scroll()",speed);
+if (direction == "-") thisDirection = "-";
+else thisDirection = "+";
+}
+}
+
+function scroll(doDirection){
+
+if (!doDirection) doDirection = thisDirection;
+else thisDirection = doDirection;
+
+if (doDirection == "-"){
+
+direction = -10;
+
+opacity1 = opacity1 - 3;
+opacity2 = opacity2 + 3;
+fin1 = fin1 - 3;
+fin2 = fin2 + 3;
+
+document.images[bilder[1]].style.filter = "Alpha(opacity="+opacity1+",finishopacity="+fin1+", style=1)";
+document.images[bilder[2]].style.filter = "Alpha(opacity="+opacity2+",finishopacity="+fin2+", style=1)";
+
+}else{
+
+direction = 10;
+
+opacity1 = opacity1 - 3;
+opacity2 = opacity2 + 3;
+fin1 = fin1 - 3;
+fin2 = fin2 + 3;
+
+document.images[bilder[1]].style.filter = "Alpha(opacity="+opacity1+",finishopacity="+fin1+", style=3)";
+document.images[bilder[0]].style.filter = "Alpha(opacity="+opacity2+",finishopacity="+fin2+", style=3)";
+}
+
+pos = pos + direction;
+inViewer.style.left = pos;
+
+if (pos > -400 && pos < 0) window.setTimeout("scroll()",speed);
+else{
+
+if (doDirection == "-"){
+
+document.images[bilder[1]].style.filter = "Alpha(opacity=100,finishopacity=100, style=3)";
+document.images[bilder[2]].style.filter = "Alpha(opacity=40,finishopacity=40, style=3)";
+
+i2 = 0;
+for(i = bilder.length-1; i2 <= i ; i2++){			
+		
+
+		x = i2-1;
+		if (x == -1) x = bilder.length-1;
+		source[x] = document.images[bilder[i2]].src;
+}
+
+i2 = 0;
+for(i = source.length-1; i2 <= i; i2++){
+
+	document.images[bilder[i2]].src = source[i2];
+}				
+}else{
+
+document.images[bilder[1]].style.filter = "Alpha(opacity=100,finishopacity=100, style=3)";
+document.images[bilder[0]].style.filter = "Alpha(opacity=40,finishopacity=40, style=3)";
+
+
+i2 = bilder.length-1;
+for(i = 0; i2 >= i ; i2--){			
+		
+	x = i2+1;
+	if (x ==  bilder.length) x = 0;
+	source[x] = document.images[bilder[i2]].src;
+}
+
+
+i2 = bilder.length-1;
+test = "";
+for(i = 0; i2 >= i ; i2--){	
+
+	document.images[bilder[i2]].src = source[i2];
+}
+}
+
+opacity1 = 100;
+opacity2 = 40;
+fin1 = 100;
+fin2 = 40;
+pos = -200;
+inViewer.style.left = -200;
+
+if (auto) window.setTimeout("scroll()",speed);
+}		
+}
+</script>
+<body onload="init();window.resizeTo(700,300)">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+	<td>
+		<div id="viewer" class="viewer1">
+			<div id="inViewer" class="inViewer">
+			<table cellpadding="0" cellspacing="0" border="0">
+			<tr>
+				<td><img src="gfxu/scroller_bild6.jpg" class="bildAusen" id="Bildtest2"></td>
+				<td><img src="gfxu/scroller_bild1.jpg" class="bildAusen" id="BildLinks"></td>
+				<td><img src="gfxu/scroller_bild2.jpg" class="bildMitte" id="BildMitte"></td>
+				<td><img src="gfxu/scroller_bild3.jpg" class="bildAusen" id="BildRechts"></td>
+				<td><img src="gfxu/scroller_bild4.jpg" class="bildAusen" id="BildAusen2"></td>
+				<td><img src="gfxu/scroller_bild5.jpg" class="bildAusen" id="Bildtest1"></td>
+			</tr>
+			</table>
+			</div>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td align=center><input type="button" value="<<<" value="-" onclick="scroll('-')"  disabled"> <input type="button" value=">>>" value="+" onclick="scroll('+')"></td>
+</tr>
+</table>

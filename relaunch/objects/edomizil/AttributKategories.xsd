@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<xs:element name="AttributKategories">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Kategorie" minOccurs="0" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="Nr">
+								<xs:annotation>
+									<xs:documentation xml:lang="DE">Nummer der Attributkategorie</xs:documentation>
+									<xs:documentation xml:lang="EN">Number of attribute category</xs:documentation>
+								</xs:annotation>
+							</xs:element>
+							<xs:element name="NameDE">
+								<xs:annotation>
+									<xs:documentation xml:lang="DE">Deutscher Name der Attributkategorie</xs:documentation>
+									<xs:documentation xml:lang="EN">German name of attributes category</xs:documentation>
+								</xs:annotation>
+							</xs:element>
+							<xs:element name="NameEN" minOccurs="0">
+								<xs:annotation>
+									<xs:documentation xml:lang="DE">Englischer Name der Attributkategorie</xs:documentation>
+									<xs:documentation xml:lang="EN">English name of attributes category</xs:documentation>
+								</xs:annotation>
+							</xs:element>
+							<xs:element name="NameFR" minOccurs="0">
+								<xs:annotation>
+									<xs:documentation xml:lang="DE">Französischer Name der Attributkategorie</xs:documentation>
+									<xs:documentation xml:lang="EN">French name of attributes category</xs:documentation>
+								</xs:annotation>
+							</xs:element>
+							<xs:element name="NameSP" minOccurs="0">
+								<xs:annotation>
+									<xs:documentation xml:lang="DE">Spanischer Name der Attributkategorie</xs:documentation>
+									<xs:documentation xml:lang="EN">Spanish name of attributes category</xs:documentation>
+								</xs:annotation>
+							</xs:element>
+							<xs:element name="NameIT" minOccurs="0">
+								<xs:annotation>
+									<xs:documentation xml:lang="DE">Italienischer Name der Attributkategorie</xs:documentation>
+									<xs:documentation xml:lang="EN">Italian name of attributes category</xs:documentation>
+								</xs:annotation>
+							</xs:element>
+							<xs:element name="GruppeDE" minOccurs="0">
+								<xs:annotation>
+									<xs:documentation xml:lang="DE">Deutscher Name der Attributgruppe</xs:documentation>
+									<xs:documentation xml:lang="EN">German name of attributes group</xs:documentation>
+								</xs:annotation>
+							</xs:element>
+							<xs:element name="GruppeEN" minOccurs="0">
+								<xs:annotation>
+									<xs:documentation xml:lang="DE">Englischer Name der Attributgruppe</xs:documentation>
+									<xs:documentation xml:lang="EN">English name of attributes group</xs:documentation>
+								</xs:annotation>
+							</xs:element>
+							<xs:element name="GruppeFR" minOccurs="0">
+								<xs:annotation>
+									<xs:documentation xml:lang="DE">Französischer Name der Attributgruppe</xs:documentation>
+									<xs:documentation xml:lang="EN">French name of attributes group</xs:documentation>
+								</xs:annotation>
+							</xs:element>
+							<xs:element name="GruppeSP" minOccurs="0">
+								<xs:annotation>
+									<xs:documentation xml:lang="DE">Spanischer Name der Attributgruppe </xs:documentation>
+									<xs:documentation xml:lang="EN">Spanish name of attributes group</xs:documentation>
+								</xs:annotation>
+							</xs:element>
+							<xs:element name="GruppeIT" minOccurs="0">
+								<xs:annotation>
+									<xs:documentation xml:lang="DE">Italienischer Name der Attributsgruppe </xs:documentation>
+									<xs:documentation xml:lang="EN">Italian name of attributes group</xs:documentation>
+								</xs:annotation>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

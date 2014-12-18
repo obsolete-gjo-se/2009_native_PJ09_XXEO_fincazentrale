@@ -1,0 +1,64 @@
+
+/* default (inactive field) */
+.sf_inactive{
+	border:1px #666666 solid;
+	background:#e8e8e8;
+	color: #333333;
+	width:200px;
+	font-size:11px;
+	font-family:tahoma, verdana;
+	padding:2px;
+}
+/* on focus (when field is clicked on)  */
+.sf_active{
+	border:1px #666666 solid;
+	background:#fff;
+	color:#333;
+	width:200px;
+	font-size:11px;
+	font-family:tahoma, verdana;
+	padding:2px;
+}
+/* with text (when field is inactive but contains user's input)  */
+.sf_text{
+	border:1px #666666 solid;
+	background:#fff;
+	color:#888;
+	width:200px;
+	font-size:11px;
+	font-family:tahoma, verdana;
+	padding:2px;
+}
+
+
+
+/* suggestions box */
+/* js code generates unordered list */
+.sf_suggestion{
+	position:relative;
+}
+.sf_suggestion ul{
+	position:absolute;
+	margin:0;
+	padding:0;
+	background:#a9a9a9;
+	top:0;
+	left:0;
+	font-size:12px;
+	font-family:tahoma, verdana;
+	
+}
+.sf_suggestion li{
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+.sf_suggestion li a{
+	display:block;
+	text-indent:5px;
+	text-decoration:none;
+	color:#fff;
+}
+.sf_suggestion li.selected a{
+	background: #666666;
+}

@@ -1,0 +1,3135 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<AttributLookups xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.e-domizil.de/Schnittstellen/XML/AttributLookups.xsd">
+  <AttributeLookup>
+    <Nr>181</Nr>
+    <ID>Küche</ID>
+    <WertDE>Espressomaschine</WertDE>
+    <WertEN>Espresso machine</WertEN>
+    <WertFR>Machine à café expresso</WertFR>
+    <WertSP>Máquina de café</WertSP>
+    <WertIT>Macchina espresso</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>182</Nr>
+    <ID>Parken</ID>
+    <WertDE>Privatparkplatz auf Grundstück/Hofanlage</WertDE>
+    <WertEN>Private parking on site</WertEN>
+    <WertFR>Parking privé</WertFR>
+    <WertSP>Aparcamiento privado en terreno/patio</WertSP>
+    <WertIT>Parcheggio privato sul terreno / nel cortile</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>183</Nr>
+    <ID>SonstigeRäume</ID>
+    <WertDE>Abschließbarer Abstellraum</WertDE>
+    <WertEN>Lockable storage room</WertEN>
+    <WertFR>Débarras verrouillable</WertFR>
+    <WertSP>Trastero con cerradura</WertSP>
+    <WertIT>Ripostiglio con serratura</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>184</Nr>
+    <ID>Parken</ID>
+    <WertDE>Öffentlicher Parkplatz</WertDE>
+    <WertEN>Public parking</WertEN>
+    <WertFR>Aire de stationnement publique</WertFR>
+    <WertSP>Aparcamiento público</WertSP>
+    <WertIT>Parcheggio pubblico</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>185</Nr>
+    <ID>Parken</ID>
+    <WertDE>Abschließbare Garage</WertDE>
+    <WertEN>Lockable garage</WertEN>
+    <WertFR>Garage verrouillable</WertFR>
+    <WertSP>Garaje con cerradura</WertSP>
+    <WertIT>Garage con serratura</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>186</Nr>
+    <ID>Parken</ID>
+    <WertDE>Carport</WertDE>
+    <WertEN>Carport</WertEN>
+    <WertFR>Carport</WertFR>
+    <WertSP>Plaza de aparcamiento cubierta</WertSP>
+    <WertIT>Carport</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>187</Nr>
+    <ID>Objektkategorie</ID>
+    <WertDE>Aktivurlaub</WertDE>
+    <WertEN>Active holiday</WertEN>
+    <WertFR>Vacances actives</WertFR>
+    <WertSP>Vacaciones activas</WertSP>
+    <WertIT>Vacanze attive</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>189</Nr>
+    <ID>Nutzung</ID>
+    <WertDE>alleinige Nutzung</WertDE>
+    <WertEN>Exclusive use</WertEN>
+    <WertFR>utilisation individuelle</WertFR>
+    <WertSP>uso exclusivo</WertSP>
+    <WertIT>Uso esclusivo</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>190</Nr>
+    <ID>Sonstiges</ID>
+    <WertDE>Allergikergeeignet</WertDE>
+    <WertEN>Suitable for allergic persons</WertEN>
+    <WertFR>Adapté aux personnes allergiques</WertFR>
+    <WertSP>apto para alérgicos</WertSP>
+    <WertIT>Adatto per allergici</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>191</Nr>
+    <ID>Sport</ID>
+    <WertDE>Angeln</WertDE>
+    <WertEN>Fishing</WertEN>
+    <WertFR>Pêche à la ligne</WertFR>
+    <WertSP>Pesca</WertSP>
+    <WertIT>Pescare</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>192</Nr>
+    <ID>Freizeit</ID>
+    <WertDE>Außenswimmingpool</WertDE>
+    <WertEN>Outdoor swimming pool</WertEN>
+    <WertFR>Piscine extérieure</WertFR>
+    <WertSP>Piscina al aire libre</WertSP>
+    <WertIT>Piscina esterna</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>194</Nr>
+    <ID>Küche</ID>
+    <WertDE>Dunstabzugshaube</WertDE>
+    <WertEN>Extractor hood</WertEN>
+    <WertFR>Hotte d'aération</WertFR>
+    <WertSP>Campana extractora</WertSP>
+    <WertIT>Cappa aspirafumi</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>195</Nr>
+    <ID>Sport</ID>
+    <WertDE>Basketball</WertDE>
+    <WertEN>Basketball</WertEN>
+    <WertFR>Basketball</WertFR>
+    <WertSP>Baloncesto</WertSP>
+    <WertIT>Pallacanestro</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>196</Nr>
+    <ID>Bad</ID>
+    <WertDE>Badewanne mit Duschvorrichtung</WertDE>
+    <WertEN>Bath tub with shower</WertEN>
+    <WertFR>Baignoire avec dispositif de douche</WertFR>
+    <WertSP>Bañera con ducha</WertSP>
+    <WertIT>Vasca da bagno con doccia</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>197</Nr>
+    <ID>Bad</ID>
+    <WertDE>Badewanne ohne Duschvorrichtung</WertDE>
+    <WertEN>Bath tub without shower</WertEN>
+    <WertFR>Baignoire sans dispositif de douche</WertFR>
+    <WertSP>Bañera sin ducha</WertSP>
+    <WertIT>Vasca da bagno senza doccia</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>198</Nr>
+    <ID>Sport</ID>
+    <WertDE>Bergsteigen</WertDE>
+    <WertEN>Mountain climbing</WertEN>
+    <WertFR>Ascension</WertFR>
+    <WertSP>Alpinismo</WertSP>
+    <WertIT>Scalare</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>199</Nr>
+    <ID>ObjektArt</ID>
+    <WertDE>Bauernhaus</WertDE>
+    <WertEN>Farmhouse</WertEN>
+    <WertFR>Ferme</WertFR>
+    <WertSP>Casa rural</WertSP>
+    <WertIT>Agriturismo</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>200</Nr>
+    <ID>Objektkategorie</ID>
+    <WertDE>Beauty and Wellness</WertDE>
+    <WertEN>Beauty and wellness</WertEN>
+    <WertFR>Beauté et bien-être</WertFR>
+    <WertSP>Belleza y bienestar</WertSP>
+    <WertIT>Beauty and Wellness</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>201</Nr>
+    <ID>Aussicht</ID>
+    <WertDE>Meer/See</WertDE>
+    <WertEN>Sea/lake</WertEN>
+    <WertFR>Mer/lac</WertFR>
+    <WertSP>Mar/Lago</WertSP>
+    <WertIT>Mare / Lago</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>202</Nr>
+    <ID>Sport</ID>
+    <WertDE>Bolzplatz</WertDE>
+    <WertEN>Football area</WertEN>
+    <WertFR>Terrain de jeu</WertFR>
+    <WertSP>Cancha de fútbol</WertSP>
+    <WertIT>Campetto da calcio</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>204</Nr>
+    <ID>Bad</ID>
+    <WertDE>Separate Dusche</WertDE>
+    <WertEN>Separate shower</WertEN>
+    <WertFR>Cabine de douche séparée</WertFR>
+    <WertSP>Ducha separada</WertSP>
+    <WertIT>Doccia separata</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>206</Nr>
+    <ID>AnbindungSommer</ID>
+    <WertDE>Bis 100-500m Nähe zum Objekt</WertDE>
+    <WertEN>Within a 100-500m proximity of the holiday home</WertEN>
+    <WertFR>A 100-500m de proximité de la maison</WertFR>
+    <WertSP>hasta 100-500 ms del alojamiento</WertSP>
+    <WertIT>Fino a 100-500m dall'oggetto</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>207</Nr>
+    <ID>AnbindungWinter</ID>
+    <WertDE>Bis 100-500m Nähe zum Objekt</WertDE>
+    <WertEN>Within a 100-500m proximity of  the holiday home</WertEN>
+    <WertFR>A 100-500m de proximité de la maison</WertFR>
+    <WertSP>hasta 100-500 ms del alojamiento</WertSP>
+    <WertIT>Fino a 100-500m dall'oggetto</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>208</Nr>
+    <ID>AnbindungSommer</ID>
+    <WertDE>Bis 50-100m Nähe zum Objekt</WertDE>
+    <WertEN>Within a  50-100m proximity of  the holiday home</WertEN>
+    <WertFR>A 50-100m de proximité de la maison</WertFR>
+    <WertSP>hasta 50-100 ms del alojamiento</WertSP>
+    <WertIT>Fino a 50-100m dall'oggetto</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>209</Nr>
+    <ID>AnbindungWinter</ID>
+    <WertDE>Bis 50-100m Nähe zum Objekt</WertDE>
+    <WertEN>Within a  50-100m proximity of  the holiday home</WertEN>
+    <WertFR>A 50-100m de proximité de la maison</WertFR>
+    <WertSP>hasta 50-100 ms del alojamiento</WertSP>
+    <WertIT>Fino a 50-100m dall'oggetto</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>210</Nr>
+    <ID>AnbindungWinter</ID>
+    <WertDE>Bis in 50m Nähe zum Objekt</WertDE>
+    <WertEN>Within 50m of the holiday home</WertEN>
+    <WertFR>A  moins de 50m de proximité de la maison</WertFR>
+    <WertSP>hasta 50 ms del alojamiento</WertSP>
+    <WertIT>Fino a 50m dall'oggetto</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>211</Nr>
+    <ID>AnbindungSommer</ID>
+    <WertDE>Bis in 50m Nähe zum Objekt</WertDE>
+    <WertEN>Within 50m of the holiday home</WertEN>
+    <WertFR>A  moins de 50m de proximité de la maison</WertFR>
+    <WertSP>hasta 50 ms del alojamiento</WertSP>
+    <WertIT>Fino a 50m dall'oggetto</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>212</Nr>
+    <ID>Sport</ID>
+    <WertDE>Eislaufen</WertDE>
+    <WertEN>Ice skating</WertEN>
+    <WertFR>Patin à glace</WertFR>
+    <WertSP>Patinaje sobre hielo</WertSP>
+    <WertIT>Pattinare</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>214</Nr>
+    <ID>Verleih</ID>
+    <WertDE>Bootsverleih</WertDE>
+    <WertEN>Boat rental service</WertEN>
+    <WertFR>Location de bateau</WertFR>
+    <WertSP>Alquiler de barcas</WertSP>
+    <WertIT>Noleggio barche</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>215</Nr>
+    <ID>Service</ID>
+    <WertDE>Brötchenservice</WertDE>
+    <WertEN>Bakery service</WertEN>
+    <WertFR>Service petit-pains</WertFR>
+    <WertSP>Servicio de panadería</WertSP>
+    <WertIT>Pane a domicilio</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>216</Nr>
+    <ID>Parken</ID>
+    <WertDE>Abstellplatz in abschließbarer Parkgarage</WertDE>
+    <WertEN>Parking space in a lockable garage</WertEN>
+    <WertFR>Stationnement dans un garage verrouillable</WertFR>
+    <WertSP>Plaza en garaje subterránea con cerradura</WertSP>
+    <WertIT>Posto macchina in garage con serratura</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>217</Nr>
+    <ID>Elektronik</ID>
+    <WertDE>Radio/Radiowecker</WertDE>
+    <WertEN>Radio/radio alarm clock</WertEN>
+    <WertFR>Radio/radio-réveil</WertFR>
+    <WertSP>Radio/radio-despertador</WertSP>
+    <WertIT>Radio / Radiosveglia</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>218</Nr>
+    <ID>Wohnzimmer</ID>
+    <WertDE>Couchecke</WertDE>
+    <WertEN>Sofa</WertEN>
+    <WertFR>Table basse</WertFR>
+    <WertSP>Rincón-salón</WertSP>
+    <WertIT>Angolo salotto</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>219</Nr>
+    <ID>Freizeit</ID>
+    <WertDE>Dampfbad</WertDE>
+    <WertEN>Steam bath</WertEN>
+    <WertFR>Bain de vapeur</WertFR>
+    <WertSP>Baño turco</WertSP>
+    <WertIT>Bagno turco</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>220</Nr>
+    <ID>AnbindungWinter</ID>
+    <WertDE>Direkt bis zum Objekt</WertDE>
+    <WertEN>Directly up to the holiday home</WertEN>
+    <WertFR>Directement jusqu'à l'objet</WertFR>
+    <WertSP>directamente hasta el alojamiento</WertSP>
+    <WertIT>Direttamente fino all'oggetto</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>221</Nr>
+    <ID>AnbindungSommer</ID>
+    <WertDE>Direkt bis zum Objekt</WertDE>
+    <WertEN>Directly up to the holiday home</WertEN>
+    <WertFR>Directement jusqu'à l'objet</WertFR>
+    <WertSP>directamente hasta el alojamiento</WertSP>
+    <WertIT>Direttamente fino all'oggetto</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>223</Nr>
+    <ID>ObjektBeeinträcht</ID>
+    <WertDE>Diskothek</WertDE>
+    <WertEN>Disco</WertEN>
+    <WertFR>Discothèque</WertFR>
+    <WertSP>Discoteca</WertSP>
+    <WertIT>Discoteca</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>224</Nr>
+    <ID>Küche</ID>
+    <WertDE>Töpfe und Pfannen ausreichend vorhanden</WertDE>
+    <WertEN>Pots and pans provided</WertEN>
+    <WertFR>Poêles et casseroles en quantité suffisante</WertFR>
+    <WertSP>Sartenes y cacerolas en cantidad suficiente</WertSP>
+    <WertIT>Sufficienti pentole e padelle a disposizione</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>225</Nr>
+    <ID>Küche</ID>
+    <WertDE>Mikrowellenherd</WertDE>
+    <WertEN>Microwave oven</WertEN>
+    <WertFR>Four à micro-onde</WertFR>
+    <WertSP>Microondas</WertSP>
+    <WertIT>Forno a microonde</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>227</Nr>
+    <ID>Service</ID>
+    <WertDE>Einkaufsservice vor der Anreise</WertDE>
+    <WertEN>Shopping service before arrival</WertEN>
+    <WertFR>Service d'achat avant l'arrivée</WertFR>
+    <WertSP>Lista de la compra antes de la llegada</WertSP>
+    <WertIT>Servizio di spesa prima della partenza</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>228</Nr>
+    <ID>Heizung</ID>
+    <WertDE>Einzelne Öfen / Heizlüfter / Radiatoren</WertDE>
+    <WertEN>Individual ovens/heaters/radiators</WertEN>
+    <WertFR>Fours/réchauffeurs/radiateurs particuliers</WertFR>
+    <WertSP>Estufas/calefactores/radiadores sueltos</WertSP>
+    <WertIT>Forni / ventilatori ad aria calda / radiatori</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>229</Nr>
+    <ID>ObjektBeeinträcht</ID>
+    <WertDE>Eisenbahnlinien</WertDE>
+    <WertEN>Railway lines</WertEN>
+    <WertFR>Lignes de chemin de fer</WertFR>
+    <WertSP>Líneas de ferrocarril</WertSP>
+    <WertIT>Linee ferroviarie</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>230</Nr>
+    <ID>Sport</ID>
+    <WertDE>Golfplatz</WertDE>
+    <WertEN>Golf course</WertEN>
+    <WertFR>Terraine de golf</WertFR>
+    <WertSP>Campo de golf</WertSP>
+    <WertIT>Campo da golf</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>231</Nr>
+    <ID>Sport</ID>
+    <WertDE>Jagdmöglichkeit</WertDE>
+    <WertEN>Hunting facilities</WertEN>
+    <WertFR>Possibilité de chasse</WertFR>
+    <WertSP>Caza</WertSP>
+    <WertIT>Possibilità di caccia</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>232</Nr>
+    <ID>Sport</ID>
+    <WertDE>Kanu</WertDE>
+    <WertEN>Canoeing</WertEN>
+    <WertFR>Canoé</WertFR>
+    <WertSP>Canoa</WertSP>
+    <WertIT>Canoa</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>233</Nr>
+    <ID>Küche</ID>
+    <WertDE>Theke/Frühstücksbar</WertDE>
+    <WertEN>Bar/breakfast bar</WertEN>
+    <WertFR>Comptoir/bar à petit déjeuner</WertFR>
+    <WertSP>Barra/mesa de desayunos</WertSP>
+    <WertIT>Teca / bar colazione</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>234</Nr>
+    <ID>Verleih</ID>
+    <WertDE>Fahrradverleih</WertDE>
+    <WertEN>Bicycle rental service</WertEN>
+    <WertFR>Location de bicyclette</WertFR>
+    <WertSP>Alquiler de bicis</WertSP>
+    <WertIT>Noleggio biciclette</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>235</Nr>
+    <ID>Objektkategorie</ID>
+    <WertDE>Familie und Kinder</WertDE>
+    <WertEN>Family and children</WertEN>
+    <WertFR>Famille et enfants</WertFR>
+    <WertSP>Familia y niños</WertSP>
+    <WertIT>Famiglia con bambini</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>236</Nr>
+    <ID>Elektronik</ID>
+    <WertDE>Farb-Fernseher</WertDE>
+    <WertEN>Colour television set</WertEN>
+    <WertFR>Télévision couleurs</WertFR>
+    <WertSP>Televisor en color</WertSP>
+    <WertIT>TV a colori</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>238</Nr>
+    <ID>ObjektArt</ID>
+    <WertDE>Ferienhaus</WertDE>
+    <WertEN>Holiday home</WertEN>
+    <WertFR>Maison de vacances</WertFR>
+    <WertSP>Casa de vacaciones</WertSP>
+    <WertIT>Casa per ferie</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>239</Nr>
+    <ID>ObjektArt</ID>
+    <WertDE>Ferienwohnung in Ein- oder Mehrfamilienhaus</WertDE>
+    <WertEN>Holiday apartment in one or multi-family house</WertEN>
+    <WertFR>Logement de vacances dans  un logement multiple ou individuel</WertFR>
+    <WertSP>Apartamento en casa unifamiliar o plurifamiliar</WertSP>
+    <WertIT>Appartamento per ferie in casa mono o plurifamiliare</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>241</Nr>
+    <ID>ObjektBeeinträcht</ID>
+    <WertDE>Flughafen/Einflugschneise</WertDE>
+    <WertEN>Airport/Entry lane</WertEN>
+    <WertFR>Aéroport/ aire d'approche</WertFR>
+    <WertSP>Aeropuerto/corredor de aterrizaje y despegue</WertSP>
+    <WertIT>Aeroporto / corridoio aereo</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>242</Nr>
+    <ID>Aussicht</ID>
+    <WertDE>Fluss</WertDE>
+    <WertEN>River</WertEN>
+    <WertFR>Fleuve</WertFR>
+    <WertSP>Río</WertSP>
+    <WertIT>Fiume</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>243</Nr>
+    <ID>Sport</ID>
+    <WertDE>Klettern</WertDE>
+    <WertEN>Climbing</WertEN>
+    <WertFR>Escalade</WertFR>
+    <WertSP>Escalada</WertSP>
+    <WertIT>Arrampicarsi</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>244</Nr>
+    <ID>ObjektLage</ID>
+    <WertDE>Ferienhaus</WertDE>
+    <WertEN>Holiday home</WertEN>
+    <WertFR>Maison de vacances</WertFR>
+    <WertSP>casa de vacaciones</WertSP>
+    <WertIT>Casa per ferie</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>245</Nr>
+    <ID>ObjektBeeinträcht</ID>
+    <WertDE>Freizeitanlage</WertDE>
+    <WertEN>Leisure facility</WertEN>
+    <WertFR>Centre de loisirs</WertFR>
+    <WertSP>Centro de ocio</WertSP>
+    <WertIT>Impianto per il tempo libero</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>246</Nr>
+    <ID>Service</ID>
+    <WertDE>Frühstück</WertDE>
+    <WertEN>Breakfast</WertEN>
+    <WertFR>Petit déjeuner</WertFR>
+    <WertSP>Desayuno</WertSP>
+    <WertIT>Colazione</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>247</Nr>
+    <ID>Heizung</ID>
+    <WertDE>Fußbodenheizung</WertDE>
+    <WertEN>Under-floor heating</WertEN>
+    <WertFR>Chauffage par le sol</WertFR>
+    <WertSP>Calefacción por hilo radiante (o tuberías calientes)</WertSP>
+    <WertIT>Riscaldamento a pavimento</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>248</Nr>
+    <ID>SonstigeRäume</ID>
+    <WertDE>Garderobe</WertDE>
+    <WertEN>Wardrobe</WertEN>
+    <WertFR>Garderobe</WertFR>
+    <WertSP>Perchero</WertSP>
+    <WertIT>Guardaroba</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>249</Nr>
+    <ID>GartenTyp</ID>
+    <WertDE>Parkähnliche Anlage</WertDE>
+    <WertEN>Park-like location</WertEN>
+    <WertFR>Installation semblable à un parc</WertFR>
+    <WertSP>Recinto ajardinado similar a un parque</WertSP>
+    <WertIT>Zona tipo parco</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>250</Nr>
+    <ID>GartenTyp</ID>
+    <WertDE>Keine Einsicht von Straße oder Nachbargrundstück</WertDE>
+    <WertEN>Not visible from the road or neighbouring properties</WertEN>
+    <WertFR>Pas de vision de la route ou du terrain limitrophe</WertFR>
+    <WertSP>Sin poder ser visto desde la calle o parcela vecina</WertSP>
+    <WertIT>Riparato dalla strada e dal terreno adiacente</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>251</Nr>
+    <ID>GartenTyp</ID>
+    <WertDE>Nicht umzäunt</WertDE>
+    <WertEN>Unfenced</WertEN>
+    <WertFR>Non clôturé</WertFR>
+    <WertSP>Sin vallar</WertSP>
+    <WertIT>Senza staccionata</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>252</Nr>
+    <ID>Bettwäsche</ID>
+    <WertDE>Gegen Aufpreis</WertDE>
+    <WertEN>For extra charges</WertEN>
+    <WertFR>Contre une surtaxe</WertFR>
+    <WertSP>con suplemento</WertSP>
+    <WertIT>Con sovrapprezzo</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>253</Nr>
+    <ID>Handtücher</ID>
+    <WertDE>Gegen Aufpreis</WertDE>
+    <WertEN>For extra charges</WertEN>
+    <WertFR>Contre une surtaxe</WertFR>
+    <WertSP>con suplemento</WertSP>
+    <WertIT>Con sovrapprezzo</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>254</Nr>
+    <ID>Küche</ID>
+    <WertDE>Kühl-/Gefrierkombi</WertDE>
+    <WertEN>Cooler/freezer combination</WertEN>
+    <WertFR>Ensemble réfrigérateur/congélateur</WertFR>
+    <WertSP>Nevera/congelador combi</WertSP>
+    <WertIT>Frigorifero con congelatore</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>255</Nr>
+    <ID>GesamteindruckMöbel</ID>
+    <WertDE>Zweckmäßig und gepflegt, geringe Abnutzungserscheinungen</WertDE>
+    <WertEN>Functional and well maintained, minor wear and tear</WertEN>
+    <WertFR>Appropriée à l'usage et soignée, peu de signes d'usure</WertFR>
+    <WertSP>Equipamiento funcional y cuidado, con algunos rastros de desgaste</WertSP>
+    <WertIT>Pratico e curato, quasi nuovo</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>257</Nr>
+    <ID>Service</ID>
+    <WertDE>Getränkeservice</WertDE>
+    <WertEN>Drinks service</WertEN>
+    <WertFR>Service de boissons</WertFR>
+    <WertSP>Venta de bebidas</WertSP>
+    <WertIT>Servizio bevande a domicilio</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>258</Nr>
+    <ID>Sport</ID>
+    <WertDE>Mountainbiking</WertDE>
+    <WertEN>Mountainbiking</WertEN>
+    <WertFR>VTT</WertFR>
+    <WertSP>Bicicleta de montaña</WertSP>
+    <WertIT>Mountain biking</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>259</Nr>
+    <ID>Freizeit</ID>
+    <WertDE>Innenswimmingpool</WertDE>
+    <WertEN>Indoor swimming pool</WertEN>
+    <WertFR>Piscine couverte</WertFR>
+    <WertSP>Piscina cubierta</WertSP>
+    <WertIT>Piscina interna</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>260</Nr>
+    <ID>ObjektBeeinträcht</ID>
+    <WertDE>Hauptverkehrsstraßen</WertDE>
+    <WertEN>Major roads</WertEN>
+    <WertFR>Artères principales</WertFR>
+    <WertSP>Carreteras principales</WertSP>
+    <WertIT>Strade principali</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>262</Nr>
+    <ID>Service</ID>
+    <WertDE>Hauspersonal</WertDE>
+    <WertEN>House personnel</WertEN>
+    <WertFR>Personnel de maison</WertFR>
+    <WertSP>Personal de servicio</WertSP>
+    <WertIT>Personale di servizio</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>263</Nr>
+    <ID>Haustiere</ID>
+    <WertDE>erlaubt</WertDE>
+    <WertEN>Pets  permitted</WertEN>
+    <WertFR>Les animaux domestiques sont en principe admis</WertFR>
+    <WertSP>permitido</WertSP>
+    <WertIT>permesso</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>264</Nr>
+    <ID>Haustiere</ID>
+    <WertDE>nicht erlaubt</WertDE>
+    <WertEN>Pets not permitted</WertEN>
+    <WertFR>Les animaux domestiques ne sont en principe pas admis</WertFR>
+    <WertSP>no permitido</WertSP>
+    <WertIT>vietato</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>265</Nr>
+    <ID>ObjektArt</ID>
+    <WertDE>Herrschaftliches Landhaus/Villa</WertDE>
+    <WertEN>Stately Manor/Villa</WertEN>
+    <WertFR>Maison de campagne/villa seigneuriale</WertFR>
+    <WertSP>Casa de campo señorial/chalet de lujo</WertSP>
+    <WertIT>Casolare di campagna / villa</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>266</Nr>
+    <ID>ObjektArt</ID>
+    <WertDE>Historisches Gebäude</WertDE>
+    <WertEN>Historical building</WertEN>
+    <WertFR>Bâtiment historique</WertFR>
+    <WertSP>Edificio histórico</WertSP>
+    <WertIT>Edificio storico</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>267</Nr>
+    <ID>Heizung</ID>
+    <WertDE>In allen Räumen vorhanden</WertDE>
+    <WertEN>In all rooms</WertEN>
+    <WertFR>dans toutes les chambres</WertFR>
+    <WertSP>En todas las habitaciones</WertSP>
+    <WertIT>In tutte le camere</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>268</Nr>
+    <ID>ObjektBeeinträcht</ID>
+    <WertDE>Industrieansiedlung</WertDE>
+    <WertEN>Industrial settlement</WertEN>
+    <WertFR>Zone industrielle</WertFR>
+    <WertSP>Polígono industrial</WertSP>
+    <WertIT>Zona industriale</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>269</Nr>
+    <ID>Telekom</ID>
+    <WertDE>Internet-Zugang</WertDE>
+    <WertEN>Internet access</WertEN>
+    <WertFR>Accès Internet</WertFR>
+    <WertSP>Acceso a internet</WertSP>
+    <WertIT>Accesso Internet</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>270</Nr>
+    <ID>Sport</ID>
+    <WertDE>Paragliding</WertDE>
+    <WertEN>Paragliding</WertEN>
+    <WertFR>Paragliding</WertFR>
+    <WertSP>Parapente</WertSP>
+    <WertIT>Paragliding</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>271</Nr>
+    <ID>Elektronik</ID>
+    <WertDE>S/W-Fernseher</WertDE>
+    <WertEN>B/W television</WertEN>
+    <WertFR>Télévision N/B</WertFR>
+    <WertSP>Televisor en blanco y negro</WertSP>
+    <WertIT>TV in bianco e nero</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>272</Nr>
+    <ID>Wohnzimmer</ID>
+    <WertDE>Ofen</WertDE>
+    <WertEN>Oven</WertEN>
+    <WertFR>Poêle de faience</WertFR>
+    <WertSP>Estufa</WertSP>
+    <WertIT>Forno</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>273</Nr>
+    <ID>Küche</ID>
+    <WertDE>Tiefkühlschrank/Truhe</WertDE>
+    <WertEN>Deep freezer</WertEN>
+    <WertFR>Coffre réfrigérateur/congélateur</WertFR>
+    <WertSP>Congelador/Arcón</WertSP>
+    <WertIT>Congelatore</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>274</Nr>
+    <ID>Wohnzimmer</ID>
+    <WertDE>Kamin</WertDE>
+    <WertEN>Fireplace</WertEN>
+    <WertFR>Cheminée</WertFR>
+    <WertSP>Chimenea abierta</WertSP>
+    <WertIT>Camino</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>275</Nr>
+    <ID>Sport</ID>
+    <WertDE>Radtouren</WertDE>
+    <WertEN>Bike tours</WertEN>
+    <WertFR>Tours en vélo</WertFR>
+    <WertSP>Rutas de ciclismo</WertSP>
+    <WertIT>Gite in bicicletta</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>277</Nr>
+    <ID>Sport</ID>
+    <WertDE>Rafting</WertDE>
+    <WertEN>Rafting</WertEN>
+    <WertFR>Rafting</WertFR>
+    <WertSP>Rafting</WertSP>
+    <WertIT>Rafting</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>279</Nr>
+    <ID>Elektronik</ID>
+    <WertDE>Videorekorder</WertDE>
+    <WertEN>Video recorder</WertEN>
+    <WertFR>Magnétoscope</WertFR>
+    <WertSP>Vídeo</WertSP>
+    <WertIT>Videoregistratore</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>280</Nr>
+    <ID>Anbindung</ID>
+    <WertDE>Keine direkte Zufahrt möglich</WertDE>
+    <WertEN>Not direct road connection</WertEN>
+    <WertFR>Pas d'accès direct</WertFR>
+    <WertSP>sin acceso directo</WertSP>
+    <WertIT>Impossibile l'accesso diretto</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>281</Nr>
+    <ID>GartenTyp</ID>
+    <WertDE>Umzäunt mit einer Hecke, Mauer oder Zaun</WertDE>
+    <WertEN>Enclosed with a hedge, a wall or a fence</WertEN>
+    <WertFR>Clôturé par une haie, un mur ou une clôture</WertFR>
+    <WertSP>Rodeado por seto, muro o valla</WertSP>
+    <WertIT>Dotato di siepe, muro o staccionata</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>282</Nr>
+    <ID>Heizung</ID>
+    <WertDE>Keine Heizung</WertDE>
+    <WertEN>No heating available</WertEN>
+    <WertFR>Pas de chauffage existant</WertFR>
+    <WertSP>Sin calefacción</WertSP>
+    <WertIT>Senza riscaldamento</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>283</Nr>
+    <ID>Strandart</ID>
+    <WertDE>Kieselstrand</WertDE>
+    <WertEN>Silicic beach</WertEN>
+    <WertFR>Plage de galets</WertFR>
+    <WertSP>Playa de gravilla</WertSP>
+    <WertIT>Spiaggia con ghiaia</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>284</Nr>
+    <ID>Service</ID>
+    <WertDE>Kinderbetreuung, Babysitter mögl.</WertDE>
+    <WertEN>Child care, baby sitter possible</WertEN>
+    <WertFR>Garde d'enfants, babysitter possible.</WertFR>
+    <WertSP>Servicio de guardería/canguro</WertSP>
+    <WertIT>Servizio babysitter disponibile</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>285</Nr>
+    <ID>FreizeitUmgebung</ID>
+    <WertDE>Diskothek</WertDE>
+    <WertEN>Disco</WertEN>
+    <WertFR>Discothèque</WertFR>
+    <WertSP>Discoteca</WertSP>
+    <WertIT>Discoteca</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>288</Nr>
+    <ID>Sport</ID>
+    <WertDE>Reitboxen (Gäste)</WertDE>
+    <WertEN>Horse stalls (guests)</WertEN>
+    <WertFR>Boxes pour chevaux (invités)</WertFR>
+    <WertSP>Cuadras (para húespedes)</WertSP>
+    <WertIT>Box cavalli (per gli ospiti)</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>289</Nr>
+    <ID>Service</ID>
+    <WertDE>Koch</WertDE>
+    <WertEN>Cook</WertEN>
+    <WertFR>Cuisinier</WertFR>
+    <WertSP>Cocinero</WertSP>
+    <WertIT>Cuoco</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>290</Nr>
+    <ID>Küche</ID>
+    <WertDE>Kochgelegenheit (2 Herdplatten)</WertDE>
+    <WertEN>Cooking facilities (two hobs)</WertEN>
+    <WertFR>Possibilités de cuisson (2 plaques de four)</WertFR>
+    <WertSP>Cocina (2 fuegos)</WertSP>
+    <WertIT>Angolo cottura (2 piastre di cottura)</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>291</Nr>
+    <ID>Küche</ID>
+    <WertDE>Kochgelegenheit (4 Herdplatten)</WertDE>
+    <WertEN>Cooking facilities (four  hobs)</WertEN>
+    <WertFR>Possibilités de cuisson (4 plaques de four)</WertFR>
+    <WertSP>Cocina (4 fuegos)</WertSP>
+    <WertIT>Angolo cottura (4 piastre di cottura)</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>292</Nr>
+    <ID>KüchenArt</ID>
+    <WertDE>Küchenzeile</WertDE>
+    <WertEN>Kitchenette</WertEN>
+    <WertFR>Kichenette</WertFR>
+    <WertSP>cocina americana</WertSP>
+    <WertIT>Cucina</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>294</Nr>
+    <ID>KüchenArt</ID>
+    <WertDE>Schrankküche</WertDE>
+    <WertEN>Cabinet kitchen</WertEN>
+    <WertFR>Coin cuisine</WertFR>
+    <WertSP>cocina armario</WertSP>
+    <WertIT>Cucina ad incasso</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>295</Nr>
+    <ID>Küche</ID>
+    <WertDE>Geschirrspüler</WertDE>
+    <WertEN>Dishwasher</WertEN>
+    <WertFR>Lave-vaisselle</WertFR>
+    <WertSP>Lavavajillas</WertSP>
+    <WertIT>Lavastoviglie</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>296</Nr>
+    <ID>Objektkategorie</ID>
+    <WertDE>Kultur und Kreativität</WertDE>
+    <WertEN>Culture and creativity</WertEN>
+    <WertFR>Culture et créativité</WertFR>
+    <WertSP>Cultura y creatividad</WertSP>
+    <WertIT>Cultura e creatività</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>298</Nr>
+    <ID>Aussicht</ID>
+    <WertDE>Berge</WertDE>
+    <WertEN>Mountains</WertEN>
+    <WertFR>Montagnes</WertFR>
+    <WertSP>Montañas</WertSP>
+    <WertIT>Montagne</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>299</Nr>
+    <ID>GesamteindruckMöbel</ID>
+    <WertDE>Luxuriös und aufeinander abgestimmt</WertDE>
+    <WertEN>Luxurious and carefully selected</WertEN>
+    <WertFR>Luxueux et bien accordé</WertFR>
+    <WertSP>Equipamiento lujoso con mobiliario a juego</WertSP>
+    <WertIT>Elegante e di lusso</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>300</Nr>
+    <ID>Aussicht</ID>
+    <WertDE>Garten, Wald, Wiese</WertDE>
+    <WertEN>Garden, forest, meadow</WertEN>
+    <WertFR>Jardin/forêt/prairie</WertFR>
+    <WertSP>Jardín, Bosque, Prado</WertSP>
+    <WertIT>Giardino, bosco, prato</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>301</Nr>
+    <ID>ObjektArt</ID>
+    <WertDE>Mehrstöckige Ferienwohnung/Maisonette</WertDE>
+    <WertEN>Multistorey holiday home/maisonette</WertEN>
+    <WertFR>Logement de vacances/Maisonette à plusieurs étages</WertFR>
+    <WertSP>Apartamento dúplex/triplex</WertSP>
+    <WertIT>Casa per ferie a più piani / maisonette</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>302</Nr>
+    <ID>Küche</ID>
+    <WertDE>Einbauküche</WertDE>
+    <WertEN>Fitted kitchen</WertEN>
+    <WertFR>Cuisine intégrée</WertFR>
+    <WertSP>Cocina integrada</WertSP>
+    <WertIT>Cucina componibile</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>303</Nr>
+    <ID>Sport</ID>
+    <WertDE>Reithalle</WertDE>
+    <WertEN>Indoor riding arena</WertEN>
+    <WertFR>Manège</WertFR>
+    <WertSP>Pabellón de equitación</WertSP>
+    <WertIT>Scuola di equitazione</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>304</Nr>
+    <ID>Sonstiges</ID>
+    <WertDE>Seniorengerecht</WertDE>
+    <WertEN>Suitable for elderly people</WertEN>
+    <WertFR>Adapté aux personnes âgées</WertFR>
+    <WertSP>apto para personas mayores</WertSP>
+    <WertIT>Adatto ai seniores</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>305</Nr>
+    <ID>Nutzung</ID>
+    <WertDE>Mitnutzung</WertDE>
+    <WertEN>Shared use</WertEN>
+    <WertFR>Usage commun</WertFR>
+    <WertSP>uso comunitario</WertSP>
+    <WertIT>Uso congiunto</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>306</Nr>
+    <ID>GartenNutzung</ID>
+    <WertDE>Alleinige Nutzung</WertDE>
+    <WertEN>Exclusive garden use</WertEN>
+    <WertFR>Usage exclusif du jardin</WertFR>
+    <WertSP>Uso exclusivo</WertSP>
+    <WertIT>Uso esclusivo</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>307</Nr>
+    <ID>Telekom</ID>
+    <WertDE>Mobilfunkempfang möglich</WertDE>
+    <WertEN>Mobile telephone reception possible</WertEN>
+    <WertFR>Ciouvertur téléphone mobile</WertFR>
+    <WertSP>Cobertura de telefonía móvil</WertSP>
+    <WertIT>Ricezione cellulare possibile</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>309</Nr>
+    <ID>Sport</ID>
+    <WertDE>Reitplatz / Reitmöglichkeiten</WertDE>
+    <WertEN>Riding possibilities</WertEN>
+    <WertFR>Possibilités de faire du cheval</WertFR>
+    <WertSP>Plaza hípica / equitación</WertSP>
+    <WertIT>Campo di equitazione / possibilità di equitazione</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>312</Nr>
+    <ID>Objektkategorie</ID>
+    <WertDE>Natur</WertDE>
+    <WertEN>Nature</WertEN>
+    <WertFR>Nature</WertFR>
+    <WertSP>Naturaleza</WertSP>
+    <WertIT>Natura</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>313</Nr>
+    <ID>GartenNutzung</ID>
+    <WertDE>Gartenmitnutzung</WertDE>
+    <WertEN>Joint garden use</WertEN>
+    <WertFR>Usage commun du jardin</WertFR>
+    <WertSP>Uso compartido</WertSP>
+    <WertIT>Uso congiunto giardino</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>314</Nr>
+    <ID>Bettwäsche</ID>
+    <WertDE>Nicht vorhanden</WertDE>
+    <WertEN>Not  available</WertEN>
+    <WertFR>Non compris</WertFR>
+    <WertSP>no disponible</WertSP>
+    <WertIT>Non disponibile</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>315</Nr>
+    <ID>Handtücher</ID>
+    <WertDE>Nicht vorhanden</WertDE>
+    <WertEN>Not available</WertEN>
+    <WertFR>Non compris</WertFR>
+    <WertSP>no disponible</WertSP>
+    <WertIT>Non disponibile</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>316</Nr>
+    <ID>Klimatisierung</ID>
+    <WertDE>ja</WertDE>
+    <WertEN>Yes</WertEN>
+    <WertFR>oui</WertFR>
+    <WertSP>Sí</WertSP>
+    <WertIT>si</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>318</Nr>
+    <ID>Küche</ID>
+    <WertDE>2 Sätze Teller, Tassen, Besteck pro Person</WertDE>
+    <WertEN>2 sets of plates, cups, cutlery per person</WertEN>
+    <WertFR>2 jeux d'assiettes, de tasses, de couverts par personne</WertFR>
+    <WertSP>2 juegos de platos, tazas y cubiertos por persona</WertSP>
+    <WertIT>2 set di piatti, tazze, posate per persona</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>319</Nr>
+    <ID>Sonstiges</ID>
+    <WertDE>Rollstuhlgerecht / Behindertengerecht</WertDE>
+    <WertEN>Handicapped and wheelchair accessible</WertEN>
+    <WertFR>Accessible aux handicapés et aux fauteuils roulant</WertFR>
+    <WertSP>apto para silla de ruedas/minusválidos</WertSP>
+    <WertIT>Accessibile a sedie a rotelle / disabili</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>320</Nr>
+    <ID>AussenEindruck</ID>
+    <WertDE>neu oder neu renoviert</WertDE>
+    <WertEN>New or recently renovated</WertEN>
+    <WertFR>Nouveau ou récemment rénové</WertFR>
+    <WertSP>nuevo o reformado</WertSP>
+    <WertIT>nuovo o appena rinnovato</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>321</Nr>
+    <ID>ObjektUmgbung</ID>
+    <WertDE>Objekt liegt in Ferienanlage</WertDE>
+    <WertEN>Holiday home  is situated in a  holiday resort</WertEN>
+    <WertFR>La maison  se trouve dans un village de vacances</WertFR>
+    <WertSP>Alojamiento situado en complejo vacacional</WertSP>
+    <WertIT>Oggetto nel centro vacanze</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>322</Nr>
+    <ID>ObjektUmgbung</ID>
+    <WertDE>Objekt liegt in Wohngebiet</WertDE>
+    <WertEN>Holiday home  is situated in a residential area</WertEN>
+    <WertFR>La maion se trouve en zone résidentielle</WertFR>
+    <WertSP>Alojamiento situado en área residencial</WertSP>
+    <WertIT>Oggetto nel centro abitato</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>323</Nr>
+    <ID>ObjektUmgbung</ID>
+    <WertDE>Objekt liegt in Mischgebiet</WertDE>
+    <WertEN>Holiday home is situated in mixed development area</WertEN>
+    <WertFR>La maison se trouve en secteur mixte</WertFR>
+    <WertSP>Alojamiento situado en área mixto</WertSP>
+    <WertIT>Oggetto in zona mista</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>324</Nr>
+    <ID>ObjektUmgbung</ID>
+    <WertDE>Objekt liegt in Gewerbegebiet</WertDE>
+    <WertEN>Holiday home  is situated in industrial area</WertEN>
+    <WertFR>La maison se trouve en zone industrielle</WertFR>
+    <WertSP>Alojamiento situado en polígono industrial</WertSP>
+    <WertIT>Oggetto in zona industriale</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>325</Nr>
+    <ID>ObjektBeeinträcht</ID>
+    <WertDE>Öffentliche Parkplätze</WertDE>
+    <WertEN>Public parking spaces</WertEN>
+    <WertFR>Parking public</WertFR>
+    <WertSP>Aparcamiento público</WertSP>
+    <WertIT>Parcheggi pubblici</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>328</Nr>
+    <ID>Sport</ID>
+    <WertDE>Rodeln</WertDE>
+    <WertEN>Toboggen</WertEN>
+    <WertFR>luge</WertFR>
+    <WertSP>Trineo</WertSP>
+    <WertIT>Slittare</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>330</Nr>
+    <ID>ObjektArt</ID>
+    <WertDE>Penthouse-Ferienwohnung</WertDE>
+    <WertEN>Penthouse holiday apartment</WertEN>
+    <WertFR>Logement de vacances Penthouse</WertFR>
+    <WertSP>Ático</WertSP>
+    <WertIT>Penthouse - casa per ferie</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>332</Nr>
+    <ID>GesamteindruckMöbel</ID>
+    <WertDE>Geschmackvoll und mehr als rein zweckmäßig</WertDE>
+    <WertEN>Tasteful and more than just functional</WertEN>
+    <WertFR>Avec goût et plus que simplement fonctionnel</WertFR>
+    <WertSP>Equipamiento selecto, superior a funcional</WertSP>
+    <WertIT>Di gusto e non solo pratico</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>333</Nr>
+    <ID>Elektronik</ID>
+    <WertDE>Kabelfernsehen</WertDE>
+    <WertEN>Cable television</WertEN>
+    <WertFR>Télévision câblée</WertFR>
+    <WertSP>Televisión por cable</WertSP>
+    <WertIT>TV via cavo</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>334</Nr>
+    <ID>Sport</ID>
+    <WertDE>Rudern</WertDE>
+    <WertEN>Rowing</WertEN>
+    <WertFR>Aviron</WertFR>
+    <WertSP>Remo</WertSP>
+    <WertIT>Remare</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>335</Nr>
+    <ID>ObjektLage</ID>
+    <WertDE>Ferienhaus/Bungalow in Ferienanlage</WertDE>
+    <WertEN>Holiday home/Bungalow in holiday area</WertEN>
+    <WertFR>Maison de vacances/Bungalow dans un lieu de villégiature</WertFR>
+    <WertSP>casa de vacaciones/bungalow en complejo</WertSP>
+    <WertIT>Casa per ferie / bungalow in centro vacanze</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>336</Nr>
+    <ID>Service</ID>
+    <WertDE>Reinigungsservice während des Aufenthaltes</WertDE>
+    <WertEN>Cleaning service during your stay</WertEN>
+    <WertFR>Service de nettoyage pendant le séjour</WertFR>
+    <WertSP>Servicio de limpieza durante la estancia</WertSP>
+    <WertIT>Servizio lavanderia durante il soggiorno</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>337</Nr>
+    <ID>Sport</ID>
+    <WertDE>Ski (alpin)</WertDE>
+    <WertEN>Skiing (alpin)</WertEN>
+    <WertFR>Ski alpin</WertFR>
+    <WertSP>Esquí (alpino)</WertSP>
+    <WertIT>Sci (discesa)</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>338</Nr>
+    <ID>Sport</ID>
+    <WertDE>Ski (Langlauf)</WertDE>
+    <WertEN>Cross-country skiing</WertEN>
+    <WertFR>Ski de fond</WertFR>
+    <WertSP>Esquí (nórdico)</WertSP>
+    <WertIT>Sci (fondo)</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>339</Nr>
+    <ID>Sport</ID>
+    <WertDE>Sportcenter</WertDE>
+    <WertEN>Sport center</WertEN>
+    <WertFR>Centre de sport</WertFR>
+    <WertSP>Centro deportivo</WertSP>
+    <WertIT>Centro sportivo</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>340</Nr>
+    <ID>AussenEindruck</ID>
+    <WertDE>sehr gepflegt</WertDE>
+    <WertEN>Well maintained</WertEN>
+    <WertFR>Très soigné</WertFR>
+    <WertSP>muy cuidado</WertSP>
+    <WertIT>molto curato</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>341</Nr>
+    <ID>ObjektBeeinträcht</ID>
+    <WertDE>Restaurant</WertDE>
+    <WertEN>Restaurant</WertEN>
+    <WertFR>Restaurant</WertFR>
+    <WertSP>Restaurante</WertSP>
+    <WertIT>Ristorante</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>342</Nr>
+    <ID>Sport</ID>
+    <WertDE>Squash</WertDE>
+    <WertEN>Squash</WertEN>
+    <WertFR>Squash</WertFR>
+    <WertSP>Squash</WertSP>
+    <WertIT>Squash</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>343</Nr>
+    <ID>Sonstiges</ID>
+    <WertDE>Nichtraucherhaus</WertDE>
+    <WertEN>Non-smoking house</WertEN>
+    <WertFR>Maisson non-fumeur</WertFR>
+    <WertSP>Casa para no fumadores</WertSP>
+    <WertIT>Casa per non fumatori</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>344</Nr>
+    <ID>Sport</ID>
+    <WertDE>Surfen</WertDE>
+    <WertEN>Surfing</WertEN>
+    <WertFR>Surf</WertFR>
+    <WertSP>Surf</WertSP>
+    <WertIT>Andare in surf</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>345</Nr>
+    <ID>Objektkategorie</ID>
+    <WertDE>Ruhe und Erholung</WertDE>
+    <WertEN>Peace and relaxation</WertEN>
+    <WertFR>Calem et repos</WertFR>
+    <WertSP>Tranquilidad y descanso</WertSP>
+    <WertIT>Pace e relax</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>346</Nr>
+    <ID>Elektronik</ID>
+    <WertDE>SAT-Empfang</WertDE>
+    <WertEN>SAT receipt</WertEN>
+    <WertFR>Reception satellite</WertFR>
+    <WertSP>Televisión por satélite</WertSP>
+    <WertIT>TV via satellitare</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>347</Nr>
+    <ID>Strandart</ID>
+    <WertDE>Sandstrand</WertDE>
+    <WertEN>Sandy  beach</WertEN>
+    <WertFR>Plage de sable</WertFR>
+    <WertSP>Playa de arena</WertSP>
+    <WertIT>Spiaggia di sabbia</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>348</Nr>
+    <ID>Elektronik</ID>
+    <WertDE>Stereoanlage</WertDE>
+    <WertEN>Hi-fi</WertEN>
+    <WertFR>Equipement Stéréo</WertFR>
+    <WertSP>Equipo de música</WertSP>
+    <WertIT>Impianto stereo</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>349</Nr>
+    <ID>Sport</ID>
+    <WertDE>Tauchen</WertDE>
+    <WertEN>Diving</WertEN>
+    <WertFR>Plongée</WertFR>
+    <WertSP>Buceo</WertSP>
+    <WertIT>Snorkeling</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>350</Nr>
+    <ID>Freizeit</ID>
+    <WertDE>Sauna</WertDE>
+    <WertEN>Sauna</WertEN>
+    <WertFR>Sauna</WertFR>
+    <WertSP>Sauna</WertSP>
+    <WertIT>Sauna</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>351</Nr>
+    <ID>ObjektArt</ID>
+    <WertDE>Schloß/Burg</WertDE>
+    <WertEN>Castle</WertEN>
+    <WertFR>Château/château fort</WertFR>
+    <WertSP>Castillo</WertSP>
+    <WertIT>Castello / fortezza</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>352</Nr>
+    <ID>InfrastrukturSonst</ID>
+    <WertDE>Schränke und Schubladen bieten genügend Ablageplatz</WertDE>
+    <WertEN>Cabinets and drawers provide for enough space</WertEN>
+    <WertFR>Les coffres et tiroirs offrent suffisamment la place de rangement</WertFR>
+    <WertSP>Armarios y cajones con espacio suficiente</WertSP>
+    <WertIT>Spazio a sufficienza in armadi e cassetti</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>353</Nr>
+    <ID>Küche</ID>
+    <WertDE>Backofen</WertDE>
+    <WertEN>Oven</WertEN>
+    <WertFR>Four</WertFR>
+    <WertSP>Horno</WertSP>
+    <WertIT>Forno</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>354</Nr>
+    <ID>SonstigeRäume</ID>
+    <WertDE>Schuhregal</WertDE>
+    <WertEN>Shoe shelf</WertEN>
+    <WertFR>Meuble à chaussures</WertFR>
+    <WertSP>Zapatero</WertSP>
+    <WertIT>Scarpiera</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>355</Nr>
+    <ID>Aussicht</ID>
+    <WertDE>Straße</WertDE>
+    <WertEN>Street</WertEN>
+    <WertFR>Route</WertFR>
+    <WertSP>Carretera</WertSP>
+    <WertIT>Strada</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>356</Nr>
+    <ID>Sport</ID>
+    <WertDE>Tennis</WertDE>
+    <WertEN>Tennis</WertEN>
+    <WertFR>Tennis</WertFR>
+    <WertSP>Tenis</WertSP>
+    <WertIT>Tennis</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>357</Nr>
+    <ID>AussenEindruck</ID>
+    <WertDE>gepflegt</WertDE>
+    <WertEN>Maintained</WertEN>
+    <WertFR>soigné</WertFR>
+    <WertSP>cuidado</WertSP>
+    <WertIT>curato</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>359</Nr>
+    <ID>Bad</ID>
+    <WertDE>Bidet</WertDE>
+    <WertEN>Bidet</WertEN>
+    <WertFR>Bidet</WertFR>
+    <WertSP>Bidé</WertSP>
+    <WertIT>Bidet</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>360</Nr>
+    <ID>Wohnzimmer</ID>
+    <WertDE>Separate Essecke</WertDE>
+    <WertEN>Separate dining area</WertEN>
+    <WertFR>Coin cuisine séparé</WertFR>
+    <WertSP>Rincón-comedor</WertSP>
+    <WertIT>Angolo pranzo separato</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>361</Nr>
+    <ID>KüchenArt</ID>
+    <WertDE>Kochnische</WertDE>
+    <WertEN>Kitchenette</WertEN>
+    <WertFR>Kitchenette</WertFR>
+    <WertSP>rincón de cocina</WertSP>
+    <WertIT>Angolo cottura</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>362</Nr>
+    <ID>SonstigeRäume</ID>
+    <WertDE>Separater Eingangsbereich (Flur oder Diele)</WertDE>
+    <WertEN>Separate entrance area (corridor or hall)</WertEN>
+    <WertFR>Espace d'entrée séparé (couloir ou hall)</WertFR>
+    <WertSP>Entrada separada (pasillo)</WertSP>
+    <WertIT>Entrata separata (corridoio o entrata)</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>363</Nr>
+    <ID>Freizeit</ID>
+    <WertDE>Separater Fitnessraum</WertDE>
+    <WertEN>Separate fitness room</WertEN>
+    <WertFR>Pièce de fitness séparée</WertFR>
+    <WertSP>Gimnasio separado</WertSP>
+    <WertIT>Palestra separata</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>364</Nr>
+    <ID>Küche</ID>
+    <WertDE>Kühlschrank</WertDE>
+    <WertEN>Refrigerator</WertEN>
+    <WertFR>Réfrigérateur</WertFR>
+    <WertSP>Nevera</WertSP>
+    <WertIT>Frigorifero</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>365</Nr>
+    <ID>InfrastrukturSonst</ID>
+    <WertDE>Separater Trockenraum (alleinige Nutzung)</WertDE>
+    <WertEN>Separate drying room ( exclusive use)</WertEN>
+    <WertFR>Pièce de séchaffe du linge séparée (usage individuel)</WertFR>
+    <WertSP>Tendedero interior (uso exclusivo)</WertSP>
+    <WertIT>Asciugatoio separato (uso esclusivo)</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>366</Nr>
+    <ID>InfrastrukturSonst</ID>
+    <WertDE>Separater Trockenraum (Mitnutzung)</WertDE>
+    <WertEN>Separate drying room (joint use)</WertEN>
+    <WertFR>Pièce de séchaffe du linge séparée (usage commun)</WertFR>
+    <WertSP>Tendedero interior (uso compartido)</WertSP>
+    <WertIT>Asciugatoio separato (uso esclusivo)</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>368</Nr>
+    <ID>Aussicht</ID>
+    <WertDE>Sicht verbaut</WertDE>
+    <WertEN>View is blocked</WertEN>
+    <WertFR>La vue est bloquée</WertFR>
+    <WertSP>Sin vistas por edificaciones</WertSP>
+    <WertIT>Senza vista panoramica</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>371</Nr>
+    <ID>Sport</ID>
+    <WertDE>Wasserski</WertDE>
+    <WertEN>Water skiing</WertEN>
+    <WertFR>Ski nautique</WertFR>
+    <WertSP>Esquí acuático</WertSP>
+    <WertIT>Sci d'acqua</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>373</Nr>
+    <ID>Verleih</ID>
+    <WertDE>Ski-, Snowboard- oder Schlittenverleih</WertDE>
+    <WertEN>Ski-, Snowboard</WertEN>
+    <WertFR>Location de ski, snowboard ou luge</WertFR>
+    <WertSP>Alquiler de esquís, snow o trineos</WertSP>
+    <WertIT>Noleggio sci, snowboard o slitte</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>375</Nr>
+    <ID>Freizeit</ID>
+    <WertDE>Solarium</WertDE>
+    <WertEN>Solarium</WertEN>
+    <WertFR>Solarium</WertFR>
+    <WertSP>Solarium</WertSP>
+    <WertIT>Solarium</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>376</Nr>
+    <ID>SonstigeRäume</ID>
+    <WertDE>Sonstiger Abstellraum</WertDE>
+    <WertEN>Other storage room</WertEN>
+    <WertFR>Autre pièces de rangement</WertFR>
+    <WertSP>Office, trastero o parecido</WertSP>
+    <WertIT>Altro spazio ripostiglio</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>377</Nr>
+    <ID>Freizeit</ID>
+    <WertDE>Spielplatz</WertDE>
+    <WertEN>Playground</WertEN>
+    <WertFR>Terrain de jeu pour enfants aec matériel</WertFR>
+    <WertSP>Área infantil</WertSP>
+    <WertIT>Campo giochi</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>378</Nr>
+    <ID>Objektkategorie</ID>
+    <WertDE>Sport</WertDE>
+    <WertEN>Sport</WertEN>
+    <WertFR>Sport</WertFR>
+    <WertSP>Deporte</WertSP>
+    <WertIT>Sport</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>380</Nr>
+    <ID>Objektkategorie</ID>
+    <WertDE>Sprache und Studien</WertDE>
+    <WertEN>Language and studies</WertEN>
+    <WertFR>Langue et études</WertFR>
+    <WertSP>Idiomas y estudios</WertSP>
+    <WertIT>Lingua e studi</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>382</Nr>
+    <ID>Objektkategorie</ID>
+    <WertDE>Stadtnähe</WertDE>
+    <WertEN>Near to the city</WertEN>
+    <WertFR>A proximité de la ville</WertFR>
+    <WertSP>Proximidad a la ciudad</WertSP>
+    <WertIT>Vicinanza alla città</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>383</Nr>
+    <ID>Strandart</ID>
+    <WertDE>Stein/Felsstrand</WertDE>
+    <WertEN>Stone/rock beach</WertEN>
+    <WertFR>Falaise/plage rocheuse</WertFR>
+    <WertSP>Playa de piedras/roca</WertSP>
+    <WertIT>Spiaggia di sassi / scogli</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>384</Nr>
+    <ID>Elektronik</ID>
+    <WertDE>CD-Player</WertDE>
+    <WertEN>CD-Player</WertEN>
+    <WertFR>Lecteur de CD</WertFR>
+    <WertSP>CD</WertSP>
+    <WertIT>CD Player</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>387</Nr>
+    <ID>Klimatisierung</ID>
+    <WertDE>teilweise</WertDE>
+    <WertEN>Partly</WertEN>
+    <WertFR>en partie</WertFR>
+    <WertSP>parcialmente</WertSP>
+    <WertIT>parzialmente</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>388</Nr>
+    <ID>Telekom</ID>
+    <WertDE>Fax</WertDE>
+    <WertEN>Fax</WertEN>
+    <WertFR>Fax</WertFR>
+    <WertSP>Fax</WertSP>
+    <WertIT>Fax</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>389</Nr>
+    <ID>Telekom</ID>
+    <WertDE>Telefon</WertDE>
+    <WertEN>Telephone</WertEN>
+    <WertFR>Téléphone</WertFR>
+    <WertSP>Teléfono</WertSP>
+    <WertIT>Telefono</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>390</Nr>
+    <ID>Telekom</ID>
+    <WertDE>ISDN-Anschluss</WertDE>
+    <WertEN>ISDN connection</WertEN>
+    <WertFR>Accès ISDN</WertFR>
+    <WertSP>Conexión RDSI</WertSP>
+    <WertIT>Connessione ISDN</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>392</Nr>
+    <ID>Freizeit</ID>
+    <WertDE>Tennisplatz</WertDE>
+    <WertEN>Tennis court</WertEN>
+    <WertFR>Court de tennis (éclairé)</WertFR>
+    <WertSP>Cancha de tenis</WertSP>
+    <WertIT>Campo da tennis</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>396</Nr>
+    <ID>Freizeit</ID>
+    <WertDE>Tischtennis</WertDE>
+    <WertEN>Table tennis</WertEN>
+    <WertFR>Ping pong</WertFR>
+    <WertSP>Ping pong</WertSP>
+    <WertIT>Ping-pong</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>397</Nr>
+    <ID>Küche</ID>
+    <WertDE>Kaffeemaschine</WertDE>
+    <WertEN>Coffee machine</WertEN>
+    <WertFR>Machine à café</WertFR>
+    <WertSP>Cafetera</WertSP>
+    <WertIT>Macchina da caffè</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>398</Nr>
+    <ID>Service</ID>
+    <WertDE>Transferservice (Flughafen etc.)</WertDE>
+    <WertEN>Transfer service (airport etc)</WertEN>
+    <WertFR>Service de transfert (aéroport...)</WertFR>
+    <WertSP>Servicio de traslados (aeropuerto etc)</WertSP>
+    <WertIT>Servizio navetta (aeroporto, ecc.)</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>399</Nr>
+    <ID>AnbindungSommer</ID>
+    <WertDE>Über 500m Nähe zum Objekt</WertDE>
+    <WertEN>Within 500m of the holiday home</WertEN>
+    <WertFR>Plus de 500m jusqu'à l'objet</WertFR>
+    <WertSP>hasta más de 500 ms del alojamiento</WertSP>
+    <WertIT>Ad oltre 500m dall'oggetto</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>400</Nr>
+    <ID>AnbindungWinter</ID>
+    <WertDE>Über 500m Nähe zum Objekt</WertDE>
+    <WertEN>Within 500m of the holiday home</WertEN>
+    <WertFR>Plus de 500m jusqu'à l'objet</WertFR>
+    <WertSP>hasta más de 500 ms del alojamiento</WertSP>
+    <WertIT>Ad oltre 500m dall'oggetto</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>404</Nr>
+    <ID>Elektronik</ID>
+    <WertDE>Kein TV und Radio</WertDE>
+    <WertEN>No TV or radio</WertEN>
+    <WertFR>Pas de TV ou radio</WertFR>
+    <WertSP>sin TV ni radio</WertSP>
+    <WertIT>Senza TV e radio</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>406</Nr>
+    <ID>Bettwäsche</ID>
+    <WertDE>Vorhanden</WertDE>
+    <WertEN>Available</WertEN>
+    <WertFR>Présents</WertFR>
+    <WertSP>disponible</WertSP>
+    <WertIT>Disponibile</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>407</Nr>
+    <ID>Klimatisierung</ID>
+    <WertDE>nein</WertDE>
+    <WertEN>No</WertEN>
+    <WertFR>Non</WertFR>
+    <WertSP>No</WertSP>
+    <WertIT>no</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>408</Nr>
+    <ID>Handtücher</ID>
+    <WertDE>Vorhanden</WertDE>
+    <WertEN>Available</WertEN>
+    <WertFR>Présents</WertFR>
+    <WertSP>disponible</WertSP>
+    <WertIT>Disponibile</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>409</Nr>
+    <ID>InfrastrukturSonst</ID>
+    <WertDE>Wäschetrockner/ Trocknungsmöglichkeit</WertDE>
+    <WertEN>Dryer/drying facilities</WertEN>
+    <WertFR>Sèche linge/possibilité de séchage</WertFR>
+    <WertSP>Secadora/posibilidad de secar la ropa</WertSP>
+    <WertIT>Asciugatrice / possibilità di asciugare la biancheria</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>410</Nr>
+    <ID>InfrastrukturSonst</ID>
+    <WertDE>Waschmaschine</WertDE>
+    <WertEN>Washing machine</WertEN>
+    <WertFR>Machine à laver</WertFR>
+    <WertSP>Lavadora</WertSP>
+    <WertIT>Lavatrice</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>412</Nr>
+    <ID>Freizeit</ID>
+    <WertDE>Whirlpool</WertDE>
+    <WertEN>Whirlpool</WertEN>
+    <WertFR>Jacuzzi</WertFR>
+    <WertSP>Yacuzzi</WertSP>
+    <WertIT>Vasca con idromassaggio</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>413</Nr>
+    <ID>Heizung</ID>
+    <WertDE>Zentralheizung (Öl/Gas/Nachtspeicher)</WertDE>
+    <WertEN>Central heating (oil/gas/nightsaver)</WertEN>
+    <WertFR>Chauffage central (fioul/gaz/mémoire de nuit)</WertFR>
+    <WertSP>Calefacción central (gasóleo/gas/acumuladores)</WertSP>
+    <WertIT>Riscaldamento centralizzato (olio / gas / accumulatore notturno)</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>414</Nr>
+    <ID>Service</ID>
+    <WertDE>Zimmermädchen</WertDE>
+    <WertEN>Chambermaid</WertEN>
+    <WertFR>Femme de chambre</WertFR>
+    <WertSP>Camarera de habitaciones</WertSP>
+    <WertIT>Servizio camere</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>416</Nr>
+    <ID>Anbindung</ID>
+    <WertDE>Zufahrt zum Objekt über befestigte Straße</WertDE>
+    <WertEN>Access of the holiday home over fixed road</WertEN>
+    <WertFR>Accès à l'objet au moyen d'un chemin asphalté</WertFR>
+    <WertSP>acceso al alojamiento por calle con buen firme</WertSP>
+    <WertIT>Accesso all'oggetto su strada pavimentata</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>417</Nr>
+    <ID>Anbindung</ID>
+    <WertDE>Zufahrt zum Objekt über unbefestigten Feldweg</WertDE>
+    <WertEN>Access of the holiday home over unfixed track</WertEN>
+    <WertFR>Accès à l'objet au moyen d'un chemin non asphalté</WertFR>
+    <WertSP>acceso al alojamiento por camino de tierra</WertSP>
+    <WertIT>Accesso all'oggetto su strada di campagna non pavimentata</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>420</Nr>
+    <ID>GesamteindruckMöbel</ID>
+    <WertDE>Qualitativ hochwertig, keine Schäden durch Abnutzung erkennbar</WertDE>
+    <WertEN>High-quality, no deficiencies</WertEN>
+    <WertFR>Qualitativement de grande qualité, pas de dommages par l'usure perceptibles</WertFR>
+    <WertSP>de buena calidad, sin aparentes rastros de desgaste</WertSP>
+    <WertIT>Di qualità, nessun danno da utilizzo visibile</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>422</Nr>
+    <ID>KüchenArt</ID>
+    <WertDE>Separate Küche</WertDE>
+    <WertEN>Separate kitchen</WertEN>
+    <WertFR>Cuisine séparée</WertFR>
+    <WertSP>cocina independiente</WertSP>
+    <WertIT>Cucina separata</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>423</Nr>
+    <ID>GesamteindruckMöbel</ID>
+    <WertDE>Einfache Einrichtung</WertDE>
+    <WertEN>Simple Furnishing</WertEN>
+    <WertFR>Equipement simple</WertFR>
+    <WertSP>Equipamiento sencillo</WertSP>
+    <WertIT>Arredamento semplice</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>425</Nr>
+    <ID>Bad</ID>
+    <WertDE>Tageslicht</WertDE>
+    <WertEN>Day light</WertEN>
+    <WertFR>Lumière du jour</WertFR>
+    <WertSP>Luz natural</WertSP>
+    <WertIT>Luce a giorno</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>427</Nr>
+    <ID>Grill</ID>
+    <WertDE>Fest installierter Gartengrill</WertDE>
+    <WertEN>Garden grill</WertEN>
+    <WertFR>Barbecue de jardin fixe</WertFR>
+    <WertSP>barbacoa fija/ de obra</WertSP>
+    <WertIT>Griglia in giardino fissa</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>428</Nr>
+    <ID>Grill</ID>
+    <WertDE>Mobiler Gartengrill</WertDE>
+    <WertEN>Mobile garden grill</WertEN>
+    <WertFR>Barbecue de jardin mobile</WertFR>
+    <WertSP>barbacoa portátil</WertSP>
+    <WertIT>Griglia in giardino mobile</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>431</Nr>
+    <ID>Symbole</ID>
+    <WertDE>Interessante Aussicht</WertDE>
+    <WertEN>Interesting view</WertEN>
+    <WertFR>Vue intéressante</WertFR>
+    <WertSP>Vista interesante</WertSP>
+    <WertIT>Panorama interessante</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>433</Nr>
+    <ID>Symbole</ID>
+    <WertDE>Sicht: Rundblick</WertDE>
+    <WertEN>Panoramic view</WertEN>
+    <WertFR>Vue: panorama</WertFR>
+    <WertSP>Vista: panorámica</WertSP>
+    <WertIT>Panorama a 360°</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>434</Nr>
+    <ID>Symbole</ID>
+    <WertDE>Sicht: Natur</WertDE>
+    <WertEN>Nature view</WertEN>
+    <WertFR>Vue: nature</WertFR>
+    <WertSP>Vista: naturaleza</WertSP>
+    <WertIT>Panorama: natura</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>435</Nr>
+    <ID>Symbole</ID>
+    <WertDE>Sport &amp; Freizeit</WertDE>
+    <WertEN>Sport and free time</WertEN>
+    <WertFR>Sport et temps libre</WertFR>
+    <WertSP>Deporte y Ocio</WertSP>
+    <WertIT>Sport &amp; tempo libero</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>436</Nr>
+    <ID>Symbole</ID>
+    <WertDE>Kultur</WertDE>
+    <WertEN>Culture</WertEN>
+    <WertFR>Culture</WertFR>
+    <WertSP>Cultura</WertSP>
+    <WertIT>Cultura</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>437</Nr>
+    <ID>Symbole</ID>
+    <WertDE>Ruhe</WertDE>
+    <WertEN>Quiet</WertEN>
+    <WertFR>Calme</WertFR>
+    <WertSP>Tranquilidad</WertSP>
+    <WertIT>Pace</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>439</Nr>
+    <ID>Symbole</ID>
+    <WertDE>Komfort: Luxuriös</WertDE>
+    <WertEN>Comfort:  luxury</WertEN>
+    <WertFR>Aménagement: luxueux</WertFR>
+    <WertSP>Confort: lujoso</WertSP>
+    <WertIT>Confort: di lusso</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>440</Nr>
+    <ID>Symbole</ID>
+    <WertDE>Komfort: Komfortabel</WertDE>
+    <WertEN>Comfort:  comfortabe</WertEN>
+    <WertFR>Aménagement: confortable</WertFR>
+    <WertSP>Confort: confortable</WertSP>
+    <WertIT>Confort: comodo</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>442</Nr>
+    <ID>Anreisetag</ID>
+    <WertDE>beliebig</WertDE>
+    <WertEN>optional</WertEN>
+    <WertFR>Au choix</WertFR>
+    <WertSP>cualquiera</WertSP>
+    <WertIT>a piacere</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>444</Nr>
+    <ID>Anreisetag</ID>
+    <WertDE>Samstag</WertDE>
+    <WertEN>Saturday</WertEN>
+    <WertFR>Samedi</WertFR>
+    <WertSP>sábado</WertSP>
+    <WertIT>Sabato</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>446</Nr>
+    <ID>Anreisetag</ID>
+    <WertDE>Freitag</WertDE>
+    <WertEN>Friday</WertEN>
+    <WertFR>Vendredi</WertFR>
+    <WertSP>viernes</WertSP>
+    <WertIT>Venerdì</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>447</Nr>
+    <ID>Anreisetag</ID>
+    <WertDE>Donnerstag</WertDE>
+    <WertEN>Thursday</WertEN>
+    <WertFR>Jeudi</WertFR>
+    <WertSP>jueves</WertSP>
+    <WertIT>Giovedì</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>448</Nr>
+    <ID>Anreisetag</ID>
+    <WertDE>Mittwoch</WertDE>
+    <WertEN>Wednesday</WertEN>
+    <WertFR>Mercredi</WertFR>
+    <WertSP>miércoles</WertSP>
+    <WertIT>Mercoledì</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>449</Nr>
+    <ID>Anreisetag</ID>
+    <WertDE>Dienstag</WertDE>
+    <WertEN>Tuesday</WertEN>
+    <WertFR>Mardi</WertFR>
+    <WertSP>martes</WertSP>
+    <WertIT>Martedì</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>450</Nr>
+    <ID>Anreisetag</ID>
+    <WertDE>Montag</WertDE>
+    <WertEN>Monday</WertEN>
+    <WertFR>Lundi</WertFR>
+    <WertSP>lunes</WertSP>
+    <WertIT>Lunedì</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>451</Nr>
+    <ID>Anreisetag</ID>
+    <WertDE>Sonntag</WertDE>
+    <WertEN>Sunday</WertEN>
+    <WertFR>Dimanche</WertFR>
+    <WertSP>domingo</WertSP>
+    <WertIT>Domenica</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>452</Nr>
+    <ID>AussenEindruck</ID>
+    <WertDE>kleine Mängel</WertDE>
+    <WertEN>Minor deficiencies</WertEN>
+    <WertFR>Quelque défauts</WertFR>
+    <WertSP>Deficiencias menores</WertSP>
+    <WertIT>nessun difetto</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>453</Nr>
+    <ID>AussenEindruck</ID>
+    <WertDE>renovierungsbedürftig</WertDE>
+    <WertEN>Needs to be renovated</WertEN>
+    <WertFR>Rénovation nécessaire</WertFR>
+    <WertSP>necesita reforma</WertSP>
+    <WertIT>da rinnovare</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>455</Nr>
+    <ID>Sport</ID>
+    <WertDE>Segeln</WertDE>
+    <WertEN>Sailing</WertEN>
+    <WertFR>Voile</WertFR>
+    <WertSP>Vela</WertSP>
+    <WertIT>Fare della vela</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>471</Nr>
+    <ID>Endreinigung</ID>
+    <WertDE>wird von Mieter übernommen</WertDE>
+    <WertEN>You take over from the previous tenant</WertEN>
+    <WertFR>Pris en charge par les locataires</WertFR>
+    <WertSP>a efectuar por el inquilino</WertSP>
+    <WertIT>a carico del locatario</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>472</Nr>
+    <ID>Endreinigung</ID>
+    <WertDE>durch Vermieter möglich</WertDE>
+    <WertEN>Possibly through the rental property manager</WertEN>
+    <WertFR>possible par le propriétaire</WertFR>
+    <WertSP>puede ser contratada al propietario</WertSP>
+    <WertIT>possibile da parte del locatore</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>474</Nr>
+    <ID>Wohnzimmer</ID>
+    <WertDE>Wohnküche</WertDE>
+    <WertEN>Combined kitchen/living room</WertEN>
+    <WertFR>Cuisine et salon combinés</WertFR>
+    <WertSP>Cocina-comedor</WertSP>
+    <WertIT>Cucina abitabile</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>476</Nr>
+    <ID>Bad</ID>
+    <WertDE>WC</WertDE>
+    <WertEN>Toilet</WertEN>
+    <WertFR>Cabinet</WertFR>
+    <WertSP>WC</WertSP>
+    <WertIT>Servizi</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>477</Nr>
+    <ID>Klimatisierung</ID>
+    <WertDE>Ventilatoren</WertDE>
+    <WertEN>Ventilation</WertEN>
+    <WertFR>Ventilateurs</WertFR>
+    <WertSP>Ventiladores</WertSP>
+    <WertIT>Ventilatori</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>478</Nr>
+    <ID>Outdoor</ID>
+    <WertDE>Terrasse</WertDE>
+    <WertEN>Terrace</WertEN>
+    <WertFR>Terrasse</WertFR>
+    <WertSP>Terraza</WertSP>
+    <WertIT>Terrazza</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>479</Nr>
+    <ID>Outdoor</ID>
+    <WertDE>Wintergarten</WertDE>
+    <WertEN>Winter garden</WertEN>
+    <WertFR>Jardin d'hiver</WertFR>
+    <WertSP>Invernadero (espacio acristalado)</WertSP>
+    <WertIT>Giardino d'inverno</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>480</Nr>
+    <ID>Outdoor</ID>
+    <WertDE>Balkon</WertDE>
+    <WertEN>Balcony</WertEN>
+    <WertFR>Balcon</WertFR>
+    <WertSP>Balcón</WertSP>
+    <WertIT>Balcone</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>481</Nr>
+    <ID>Freiflaechen</ID>
+    <WertDE>Gartenhaus</WertDE>
+    <WertEN>Summer house</WertEN>
+    <WertFR>Abri de jardin</WertFR>
+    <WertSP>Caseta de jardín</WertSP>
+    <WertIT>Serra</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>482</Nr>
+    <ID>Freiflaechen</ID>
+    <WertDE>Gartengrill</WertDE>
+    <WertEN>Garden grill</WertEN>
+    <WertFR>Barbecue de jardin</WertFR>
+    <WertSP>Barbacoa</WertSP>
+    <WertIT>Griglia</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>483</Nr>
+    <ID>Freiflaechen</ID>
+    <WertDE>Pavillon</WertDE>
+    <WertEN>Pavilion</WertEN>
+    <WertFR>Pavillon</WertFR>
+    <WertSP>Pabellón</WertSP>
+    <WertIT>Padiglione</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>485</Nr>
+    <ID>FreizeitUmgebung</ID>
+    <WertDE>Restaurant</WertDE>
+    <WertEN>Restaurant</WertEN>
+    <WertFR>Restaurant</WertFR>
+    <WertSP>Restaurante</WertSP>
+    <WertIT>Ristorante</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>486</Nr>
+    <ID>FreizeitUmgebung</ID>
+    <WertDE>Freizeitanlage</WertDE>
+    <WertEN>Leisure area</WertEN>
+    <WertFR>Installation de loisir</WertFR>
+    <WertSP>Centro de ocio</WertSP>
+    <WertIT>Impianto per il tempo libero</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>487</Nr>
+    <ID>FreizeitUmgebung</ID>
+    <WertDE>öffentliche Parkplätze</WertDE>
+    <WertEN>Public parking</WertEN>
+    <WertFR>Parking publique</WertFR>
+    <WertSP>Aparcamiento público</WertSP>
+    <WertIT>Parcheggi pubblici</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>488</Nr>
+    <ID>FreizeitUmgebung</ID>
+    <WertDE>Hauptverkehrsstrasse</WertDE>
+    <WertEN>Main street</WertEN>
+    <WertFR>Route principale</WertFR>
+    <WertSP>Carretera principal</WertSP>
+    <WertIT>Strada principale</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>489</Nr>
+    <ID>FreizeitUmgebung</ID>
+    <WertDE>Eisenbahnlinie</WertDE>
+    <WertEN>Railway line</WertEN>
+    <WertFR>Ligne de chemin de fer</WertFR>
+    <WertSP>Línea de ferrocarril</WertSP>
+    <WertIT>Linea ferroviaria</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>490</Nr>
+    <ID>FreizeitUmgebung</ID>
+    <WertDE>Industrieansiedlung</WertDE>
+    <WertEN>Industrial area</WertEN>
+    <WertFR>Zone industrielle</WertFR>
+    <WertSP>Polígono industrial</WertSP>
+    <WertIT>Zona industriale</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>491</Nr>
+    <ID>FreizeitUmgebung</ID>
+    <WertDE>Flughafen, Einflugschneise</WertDE>
+    <WertEN>Airport connection road</WertEN>
+    <WertFR>Aéroport/ aire d'approche</WertFR>
+    <WertSP>Aeropuerto/corredor de aterrizaje y despegue</WertSP>
+    <WertIT>Aeroporto / corridoio aereo</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>492</Nr>
+    <ID>ObjektArt</ID>
+    <WertDE>Villa</WertDE>
+    <WertEN>Villa</WertEN>
+    <WertFR>Villa</WertFR>
+    <WertSP>Chalet de lujo</WertSP>
+    <WertIT>Villa</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>493</Nr>
+    <ID>ObjektArt</ID>
+    <WertDE>Ferienwohnung in Doppelbungalow</WertDE>
+    <WertEN>Holiday apartment in a double bungalow</WertEN>
+    <WertFR>Appartement de vacance dans un double bungalow</WertFR>
+    <WertSP>Apartamento en bungalow pareado</WertSP>
+    <WertIT>Casa per ferie in bungalow doppio</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>494</Nr>
+    <ID>Outdoor</ID>
+    <WertDE>Balkon oder Terrasse</WertDE>
+    <WertEN>Balcony or terrace</WertEN>
+    <WertFR>Balcon ou Terrasse</WertFR>
+    <WertSP>Balcón o terraza</WertSP>
+    <WertIT>Balcone o terrazza</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>495</Nr>
+    <ID>ObjektArt</ID>
+    <WertDE>Feriendomizil der Luxusklasse</WertDE>
+    <WertEN>Luxury holiday home</WertEN>
+    <WertFR>Domicile de vacance de luxe</WertFR>
+    <WertSP>Alojamiento de alto standing</WertSP>
+    <WertIT>Residenza per ferie di lusso</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>496</Nr>
+    <ID>ObjektArt</ID>
+    <WertDE>alleinstehendes Ferienhaus</WertDE>
+    <WertEN>Holiday home</WertEN>
+    <WertFR>Maison de vacances indépendante</WertFR>
+    <WertSP>Casa de vacaciones independiente</WertSP>
+    <WertIT>Casa per ferie singola</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>497</Nr>
+    <ID>ObjektArt</ID>
+    <WertDE>Ferienwohnung in alleinstehendem Zweifamilienhaus</WertDE>
+    <WertEN>Holiday apartment in a two family house</WertEN>
+    <WertFR>Maison de vacances dans une maison pour deux familles</WertFR>
+    <WertSP>Apartamento en casa de dos viviendas</WertSP>
+    <WertIT>Appartamento per ferie in casa bifamiliare singola</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>498</Nr>
+    <ID>ObjektArt</ID>
+    <WertDE>Ferienwohnung in Villa</WertDE>
+    <WertEN>Holiday apartment in a villa</WertEN>
+    <WertFR>Maison de vacance dans une villa</WertFR>
+    <WertSP>Apartamento en chalet de lujo</WertSP>
+    <WertIT>Appartamento per ferie in villa</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>499</Nr>
+    <ID>ObjektArt</ID>
+    <WertDE>Ferienwohnung in Bauernhaus</WertDE>
+    <WertEN>Holiday apartment in a farmhouse</WertEN>
+    <WertFR>Maison de vacance dans une ferme</WertFR>
+    <WertSP>Apartamento en casa rural</WertSP>
+    <WertIT>Appartamento per ferie in agriturismo</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>500</Nr>
+    <ID>Heizung</ID>
+    <WertDE>Elektroheizung</WertDE>
+    <WertEN>Electric heating</WertEN>
+    <WertFR>Chauffage électrique</WertFR>
+    <WertSP>Calefacción eléctrica</WertSP>
+    <WertIT>Riscaldamento elettrico</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>501</Nr>
+    <ID>Heizung</ID>
+    <WertDE>Holz- / Kohleheizung</WertDE>
+    <WertEN>Wood/coal heating</WertEN>
+    <WertFR>Chauffage au bois/ charbon</WertFR>
+    <WertSP>Calefacción de leña/carbón</WertSP>
+    <WertIT>Riscaldamento a legna / carbone</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>502</Nr>
+    <ID>GesamteindruckMöbel</ID>
+    <WertDE>Besonders charmantes Feriendomizil</WertDE>
+    <WertEN>Especially charming holiday home</WertEN>
+    <WertFR>Domicile de vacance particulièrement attrayant</WertFR>
+    <WertSP>Alojamiento con encanto especial</WertSP>
+    <WertIT>Residenza per ferie particolarmente romantica</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>503</Nr>
+    <ID>Küche</ID>
+    <WertDE>Gasherd</WertDE>
+    <WertEN>Gas stove</WertEN>
+    <WertFR>Gazinière</WertFR>
+    <WertSP>Cocina de gas</WertSP>
+    <WertIT>Forno a gas</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>504</Nr>
+    <ID>Freiflaechen</ID>
+    <WertDE>Gartenmöbel vorhanden</WertDE>
+    <WertEN>Garden furniture provided</WertEN>
+    <WertFR>Mobilier de jardin founi</WertFR>
+    <WertSP>Mobiliario de jardín</WertSP>
+    <WertIT>Mobili da giardino disponibili</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>505</Nr>
+    <ID>Sonstiges</ID>
+    <WertDE>Unterkunft mit besonderen Extras (z.B. Fahrrad-, Bootsverleih, Kochkurse, Möglichkeit einer Kochilfe...)</WertDE>
+    <WertEN>Accommadation with many extras (Rent-a-bike, rent-a-boat, rent-a-cook, cooking-classes)</WertEN>
+    <WertFR>Hébergement avec plusieurs avantages (par ex. Location de vélo, bateau, cours de cuisine, possibilité d'aide pour la cuisine...)</WertFR>
+    <WertSP>Alojamiento con extras especiales (p.ej. alquiler de bicis o barcas, cursos de cocina o ayuda doméstica)</WertSP>
+    <WertIT>Domicilio con servizi extra (p.es. noleggio biciclette o barche, corsi di cucina, possibilità di servizio cuoco...)</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>506</Nr>
+    <ID>ObjektArt</ID>
+    <WertDE>Ferienwohnung</WertDE>
+    <WertEN>Holiday apartment</WertEN>
+    <WertFR>Appartement de vacances</WertFR>
+    <WertSP>Apartamento</WertSP>
+    <WertIT>Casa per ferie</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>507</Nr>
+    <ID>AussenEindruck</ID>
+    <WertDE>Besonders charmantes Feriendomizil</WertDE>
+    <WertEN>Extremely charming holiday home</WertEN>
+    <WertFR>Domicile de vacance particulièrement attrayant</WertFR>
+    <WertSP>Alojamiento con encanto especial</WertSP>
+    <WertIT>Residenza per ferie particolarmente romantica</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>508</Nr>
+    <ID>Heizung</ID>
+    <WertDE>Elektro- / Holz- / Kohleheizung</WertDE>
+    <WertEN>Electric-/wood-/coal heating</WertEN>
+    <WertFR>Chauffage électrique/bois/charbon</WertFR>
+    <WertSP>Calefacción eléctrica/de leña/de carbón</WertSP>
+    <WertIT>Riscaldamento elettrico / a legna / a carbone</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>509</Nr>
+    <ID>ObjektArt</ID>
+    <WertDE>Ferienwohnung in Ferienanlage</WertDE>
+    <WertEN>Apartment in a holiday resort</WertEN>
+    <WertFR>Appartement de vacances dans un village de vacances</WertFR>
+    <WertSP>Apartamento en complejo vacacional</WertSP>
+    <WertIT>Appartamento per ferie in centro vacanze</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>510</Nr>
+    <ID>ObjektArt</ID>
+    <WertDE>Ferienwohnung  in Bungalowanlage</WertDE>
+    <WertEN>Apartment in a bungalow park</WertEN>
+    <WertFR>Appartement de vacances dans un parc de bungalow</WertFR>
+    <WertSP>Apartamento en complejo de bungalows</WertSP>
+    <WertIT>Appartamento per ferie in centro bungalow</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>511</Nr>
+    <ID>ObjektArt</ID>
+    <WertDE>Ferienhaus in Bungalowanlage</WertDE>
+    <WertEN>Holiday home in a bungalow park</WertEN>
+    <WertFR>Maison de vacances dans un parc de bungalow</WertFR>
+    <WertSP>Casa en complejo de bungalows</WertSP>
+    <WertIT>Casa per ferie in centro bungalow</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>513</Nr>
+    <ID>Freizeit</ID>
+    <WertDE>Badebassin</WertDE>
+    <WertEN>Basin</WertEN>
+    <WertFR>Bassin</WertFR>
+    <WertSP>Piscina elevada</WertSP>
+    <WertIT>Vasca</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>514</Nr>
+    <ID>Outdoor</ID>
+    <WertDE>Veranda</WertDE>
+    <WertEN>Veranda</WertEN>
+    <WertFR>Veranda</WertFR>
+    <WertSP>Veranda</WertSP>
+    <WertIT>Veranda</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>515</Nr>
+    <ID>FreizeitUmgebung</ID>
+    <WertDE>Nachbarhäuser vorhanden</WertDE>
+    <WertEN>Houses in the neighbourhood</WertEN>
+    <WertFR>Maisons dans le voisinage disponibles</WertFR>
+    <WertSP>Existen casas en la vecindad</WertSP>
+    <WertIT>Presenti case vicine</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>516</Nr>
+    <ID>Wohnzimmer</ID>
+    <WertDE>Kamin/Ofen</WertDE>
+    <WertEN>Fireplace/oven</WertEN>
+    <WertFR>Cheminée/poêle</WertFR>
+    <WertSP>Chimenea/estufa</WertSP>
+    <WertIT>Camino / forno</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>517</Nr>
+    <ID>Freizeit</ID>
+    <WertDE>Swimmingpool</WertDE>
+    <WertEN>Swimming pool</WertEN>
+    <WertFR>Piscine</WertFR>
+    <WertSP>Piscina</WertSP>
+    <WertIT>Piscina</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>518</Nr>
+    <ID>Parken</ID>
+    <WertDE>Garage</WertDE>
+    <WertEN>Garage</WertEN>
+    <WertFR>Garage</WertFR>
+    <WertSP>Garaje</WertSP>
+    <WertIT>Garage</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>519</Nr>
+    <ID>Aussicht</ID>
+    <WertDE>Tal</WertDE>
+    <WertEN>Valley</WertEN>
+    <WertFR>Vallée</WertFR>
+    <WertSP>Valle</WertSP>
+    <WertIT>Valle</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>520</Nr>
+    <ID>Küche</ID>
+    <WertDE>kombinierter Gas-/E-Herd</WertDE>
+    <WertEN>Combined gas/electric stove</WertEN>
+    <WertFR>Cuisinière au gaz et électrique</WertFR>
+    <WertSP>Cocina combinada de gas/eléctrica</WertSP>
+    <WertIT>Forno combinato elettricità/gas</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>521</Nr>
+    <ID>Küche</ID>
+    <WertDE>E-Herd</WertDE>
+    <WertEN>Electric stove</WertEN>
+    <WertFR>Cuisinière électrique</WertFR>
+    <WertSP>Cocina eléctrica</WertSP>
+    <WertIT>Forno elettrico</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>522</Nr>
+    <ID>Küche</ID>
+    <WertDE>Toaster</WertDE>
+    <WertEN>Toaster</WertEN>
+    <WertFR>Grille pain</WertFR>
+    <WertSP>Tostadora</WertSP>
+    <WertIT>Tostapane</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>523</Nr>
+    <ID>InfrastrukturSonst</ID>
+    <WertDE>Gemeinschaftswaschmaschine</WertDE>
+    <WertEN>Shared washing machine</WertEN>
+    <WertFR>Machine à laver commune</WertFR>
+    <WertSP>Lavadora comunitaria</WertSP>
+    <WertIT>Lavatrice in comune</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>524</Nr>
+    <ID>Freiflaechen</ID>
+    <WertDE>Grill vorhanden</WertDE>
+    <WertEN>Grill available</WertEN>
+    <WertFR>Barbecue disponible</WertFR>
+    <WertSP>Barbacoa</WertSP>
+    <WertIT>Griglia disponibile</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>525</Nr>
+    <ID>Küche</ID>
+    <WertDE>Kochgelegenheit</WertDE>
+    <WertEN>Cooking facilities</WertEN>
+    <WertFR>Possibilité cuisine</WertFR>
+    <WertSP>Posibilidad de cocinar</WertSP>
+    <WertIT>Possibilità di cottura</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>526</Nr>
+    <ID>Heizung</ID>
+    <WertDE>Heizung</WertDE>
+    <WertEN>Heating</WertEN>
+    <WertFR>Chauffage</WertFR>
+    <WertSP>Calefacción</WertSP>
+    <WertIT>Riscaldamento</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>527</Nr>
+    <ID>ObjektArt</ID>
+    <WertDE>Hütte</WertDE>
+    <WertEN>Hut</WertEN>
+    <WertFR>Hutte</WertFR>
+    <WertSP>Cabaña</WertSP>
+    <WertIT>Rifugio</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>528</Nr>
+    <ID>ObjektArt</ID>
+    <WertDE>Chalet</WertDE>
+    <WertEN>Chalet</WertEN>
+    <WertFR>Chalet</WertFR>
+    <WertSP>Chalet de madera</WertSP>
+    <WertIT>Baita</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>529</Nr>
+    <ID>ObjektArt</ID>
+    <WertDE>Reihenhaus</WertDE>
+    <WertEN>Row house</WertEN>
+    <WertFR>Maison mitoyenne</WertFR>
+    <WertSP>Casa adosada</WertSP>
+    <WertIT>Casa a schiera</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>530</Nr>
+    <ID>ObjektArt</ID>
+    <WertDE>Doppelhaus</WertDE>
+    <WertEN>Twin house</WertEN>
+    <WertFR>Maison jumelée</WertFR>
+    <WertSP>Casa pareada</WertSP>
+    <WertIT>Casa doppia</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>531</Nr>
+    <ID>Elektronik</ID>
+    <WertDE>TV</WertDE>
+    <WertEN>TV</WertEN>
+    <WertFR>TV</WertFR>
+    <WertSP>Televisor</WertSP>
+    <WertIT>TV</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>532</Nr>
+    <ID>Parken</ID>
+    <WertDE>Parkplatz</WertDE>
+    <WertEN>Parking</WertEN>
+    <WertFR>Parking</WertFR>
+    <WertSP>Plaza de aparcamiento</WertSP>
+    <WertIT>Parcheggio</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>533</Nr>
+    <ID>ObjektArt</ID>
+    <WertDE>Bungalow in Ferienanlage</WertDE>
+    <WertEN>Bungalow in a holiday area</WertEN>
+    <WertFR>Bungalow dans un village de vacances</WertFR>
+    <WertSP>Bungalow en complejo de bungalows</WertSP>
+    <WertIT>Bungalow in centro vacanze</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>534</Nr>
+    <ID>ObjektArt</ID>
+    <WertDE>Landhaus</WertDE>
+    <WertEN>Manor</WertEN>
+    <WertFR>Belle maison de campagne</WertFR>
+    <WertSP>Casa de campo</WertSP>
+    <WertIT>Casolare di campagna</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>535</Nr>
+    <ID>InfrastrukturSonst</ID>
+    <WertDE>Alarmanlage</WertDE>
+    <WertEN>Alarm system</WertEN>
+    <WertFR>Système d'alarme</WertFR>
+    <WertSP>Alarma</WertSP>
+    <WertIT>Impianto di allarme</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>536</Nr>
+    <ID>Elektronik</ID>
+    <WertDE>DVD</WertDE>
+    <WertEN>DVD</WertEN>
+    <WertFR>DVD</WertFR>
+    <WertSP>DVD</WertSP>
+    <WertIT>DVD</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>537</Nr>
+    <ID>ObjektZusatzInfo</ID>
+    <WertDE>Kinderbett vorhanden</WertDE>
+    <WertEN>Crib available</WertEN>
+    <WertFR>Lit pour enfant disponible</WertFR>
+    <WertSP>Cama de niño disponible</WertSP>
+    <WertIT>Disponibile letto per bambini</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>538</Nr>
+    <ID>ObjektZusatzInfo</ID>
+    <WertDE>Hochstuhl vorhanden</WertDE>
+    <WertEN>Baby's high chair available</WertEN>
+    <WertFR>Chaise pour enfant disponible</WertFR>
+    <WertSP>Trona disponible</WertSP>
+    <WertIT>Seggiolone disponibile</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>539</Nr>
+    <ID>ObjektZusatzInfo</ID>
+    <WertDE>Mehrere Haustiere erlaubt</WertDE>
+    <WertEN>Several pets allowed</WertEN>
+    <WertFR>Plusieurs animaux domestiques acceptés</WertFR>
+    <WertSP>Varios animales domésticos permitidos</WertSP>
+    <WertIT>Permessi vari animali domestici</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>540</Nr>
+    <ID>ObjektZusatzInfo</ID>
+    <WertDE>Behinderten- und rollstuhlgerecht</WertDE>
+    <WertEN>Handicapped and wheelchair accessible</WertEN>
+    <WertFR>Accessible aux handicapés et aux personnes en fauteuils roulants</WertFR>
+    <WertSP>Apto para minusválidos/sillas de rueda</WertSP>
+    <WertIT>Accessibile a sedie a rotelle / disabili</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>541</Nr>
+    <ID>ObjektZusatzInfo</ID>
+    <WertDE>Boot zu mieten/vorhanden</WertDE>
+    <WertEN>Boat for rent/available</WertEN>
+    <WertFR>Bateau disponble/ à louer</WertFR>
+    <WertSP>Barca se alquila/está disponible</WertSP>
+    <WertIT>Barca a noleggio / disponibile</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>542</Nr>
+    <ID>ObjektZusatzInfo</ID>
+    <WertDE>Überbelegung mit Baby/Kleinkind möglich</WertDE>
+    <WertEN>Baby/infants in addition to maximum occupancy allowed</WertEN>
+    <WertFR>Prise en charge des nourissons/enfants possible</WertFR>
+    <WertSP>Sobreocupación con bebé/niño pequeño permitido</WertSP>
+    <WertIT>Possibile con bambino in più</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>543</Nr>
+    <ID>ObjektZusatzInfo</ID>
+    <WertDE>Fahrräder vorhanden</WertDE>
+    <WertEN>Bikes available</WertEN>
+    <WertFR>Vélos disponibles</WertFR>
+    <WertSP>Bicicletas disponibles</WertSP>
+    <WertIT>Biciclette disponibili</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>544</Nr>
+    <ID>InfrastrukturSonst</ID>
+    <WertDE>Staubsauger</WertDE>
+    <WertEN>Vacuum cleaner</WertEN>
+    <WertFR>Aspirateur</WertFR>
+    <WertSP>Aspiradora</WertSP>
+    <WertIT>Aspirapolvere</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>545</Nr>
+    <ID>Bad</ID>
+    <WertDE>Waschbecken</WertDE>
+    <WertEN>Wash basin</WertEN>
+    <WertFR>Bassine pour lessive</WertFR>
+    <WertSP>Lavabo</WertSP>
+    <WertIT>Lavatoio</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>547</Nr>
+    <ID>WZSchlafgelegenheit</ID>
+    <WertDE>Schlafcouch</WertDE>
+    <WertEN>Sofa bed</WertEN>
+    <WertFR>Canapé-lit</WertFR>
+    <WertSP>Sofá-cama</WertSP>
+    <WertIT>Divano letto</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>548</Nr>
+    <ID>WZSchlafgelegenheit</ID>
+    <WertDE>Schrankbett</WertDE>
+    <WertEN>Fold-away bed</WertEN>
+    <WertFR>Bahut lit</WertFR>
+    <WertSP>Cama-armario</WertSP>
+    <WertIT>Letto a scomparsa</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>549</Nr>
+    <ID>WZSchlafgelegenheit</ID>
+    <WertDE>Zustellbett</WertDE>
+    <WertEN>Additional bed</WertEN>
+    <WertFR>Lit supplémentaire</WertFR>
+    <WertSP>Plegatín</WertSP>
+    <WertIT>Letto aggiuntivo</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>550</Nr>
+    <ID>WZSchlafgelegenheit</ID>
+    <WertDE>Bett</WertDE>
+    <WertEN>Bed</WertEN>
+    <WertFR>Lit</WertFR>
+    <WertSP>Cama</WertSP>
+    <WertIT>Letto</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>551</Nr>
+    <ID>Küche</ID>
+    <WertDE>Schrankküche</WertDE>
+    <WertEN>Kitchenette</WertEN>
+    <WertFR>Kitchenette</WertFR>
+    <WertSP>Cocina-armario</WertSP>
+    <WertIT>Cucina ad incasso</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>552</Nr>
+    <ID>Bad</ID>
+    <WertDE>Waschtisch</WertDE>
+    <WertEN>Washing stand</WertEN>
+    <WertFR>Table basse</WertFR>
+    <WertSP>Mesa de baño</WertSP>
+    <WertIT>Lavabo</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>553</Nr>
+    <ID>Bad</ID>
+    <WertDE>Doppelwaschtisch</WertDE>
+    <WertEN>Double washing stand</WertEN>
+    <WertFR>Meuble sous vasque</WertFR>
+    <WertSP>Mesa de baño doble</WertSP>
+    <WertIT>Doppio lavabo</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>557</Nr>
+    <ID>Schluessel</ID>
+    <WertDE>Der Schlüssel wird vom Schlüsselhalter am Objekt übergeben</WertDE>
+    <WertEN>Keys will be handed out on site by key holder</WertEN>
+    <WertFR>La clé sera remise par son détenteur sur place</WertFR>
+    <WertSP>El gerente de llaves entrega las llaves en el mismo alojamiento</WertSP>
+    <WertIT>La chiave viene consegnata dal titolare all'oggetto</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>558</Nr>
+    <ID>Schluessel</ID>
+    <WertDE>Schlüssel ist bei Schlüsselhalter abzuholen</WertDE>
+    <WertEN>Keys have to be collected from the key holder</WertEN>
+    <WertFR>La clé est à retirer chez le détenteur de la clé</WertFR>
+    <WertSP>El cliente recoge las llaves en casa del gerente de llaves</WertSP>
+    <WertIT>Ritirare la chiave presso il titolare</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>559</Nr>
+    <ID>GartenNutzung</ID>
+    <WertDE>Nicht möglich</WertDE>
+    <WertEN>Not available</WertEN>
+    <WertFR>Impossible</WertFR>
+    <WertSP>imposible</WertSP>
+    <WertIT>Impossibile</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>560</Nr>
+    <ID>Outdoor</ID>
+    <WertDE>Garten</WertDE>
+    <WertEN>Garden</WertEN>
+    <WertFR>Jardin</WertFR>
+    <WertSP>Jardín</WertSP>
+    <WertIT>Giardino</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>561</Nr>
+    <ID>Outdoor</ID>
+    <WertDE>Garage</WertDE>
+    <WertEN>Garage</WertEN>
+    <WertFR>Garage</WertFR>
+    <WertSP>Garaje</WertSP>
+    <WertIT>Garage</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>562</Nr>
+    <ID>Outdoor</ID>
+    <WertDE>Tiefgarage</WertDE>
+    <WertEN>Basement garage</WertEN>
+    <WertFR>Garage souterrain</WertFR>
+    <WertSP>Garaje subterránea</WertSP>
+    <WertIT>Garage interrato</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>564</Nr>
+    <ID>Schluessel</ID>
+    <WertDE>Sonstige Schlüsselübergabe</WertDE>
+    <WertEN>Other key handout</WertEN>
+    <WertFR>Autres remarques sur la remise de la clé</WertFR>
+    <WertSP>Otro tipo de entrega de llaves</WertSP>
+    <WertIT>Altra consegna chiavi</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>565</Nr>
+    <ID>ObjektArt</ID>
+    <WertDE>Ferienhaus in Ferienanlage</WertDE>
+    <WertEN>Holiday home in a holiday resort</WertEN>
+    <WertFR>Maison de vacances dans un village de vacance</WertFR>
+    <WertSP>Casa en complejo vacacional</WertSP>
+    <WertIT>Casa per ferie in centro vacanze</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>566</Nr>
+    <ID>GesamteindruckMöbel</ID>
+    <WertDE>Feriengerechte, zweckmäßige Einrichtung</WertDE>
+    <WertEN>Functional and convinient for a holiday</WertEN>
+    <WertFR>Intérieur fonctionnel, adapté aux vacances</WertFR>
+    <WertSP>Equipamiento funcional, pensado para vacaciones</WertSP>
+    <WertIT>Arredamento pratico adatto per vacanze</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>567</Nr>
+    <ID>GesamteindruckMöbel</ID>
+    <WertDE>Gute, angenehme Einrichtung</WertDE>
+    <WertEN>Well and comfortably furnished</WertEN>
+    <WertFR>Intérieur agréable</WertFR>
+    <WertSP>Equipamiento bueno y agradable</WertSP>
+    <WertIT>Arredamento piacevole di qualità</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>568</Nr>
+    <ID>GesamteindruckMöbel</ID>
+    <WertDE>Gehobene, komfortable Einrichtung</WertDE>
+    <WertEN>Upscale, comfortable furnishing</WertEN>
+    <WertFR>Intérieur comfortable et de grande qualité</WertFR>
+    <WertSP>Equipamiento superior y confortable</WertSP>
+    <WertIT>Arredamento confortevole ed elegante</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>569</Nr>
+    <ID>ObjektArt</ID>
+    <WertDE>Hausteil</WertDE>
+    <WertEN>Part of a house</WertEN>
+    <WertFR>Partie de maison</WertFR>
+    <WertSP>Parte de edificio</WertSP>
+    <WertIT>Porzione</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>570</Nr>
+    <ID>Heizung</ID>
+    <WertDE>Ofenheizung</WertDE>
+    <WertEN>Stove heating</WertEN>
+    <WertFR>Chauffage au poêle</WertFR>
+    <WertSP>Calefacción por estufa</WertSP>
+    <WertIT>Riscaldamento a stufa</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>571</Nr>
+    <ID>Klassifikation</ID>
+    <WertDE>Vorhanden</WertDE>
+    <WertEN>Available</WertEN>
+    <WertFR>Présents</WertFR>
+    <WertSP>Existe</WertSP>
+    <WertIT>esistente</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>572</Nr>
+    <ID>Klassifikation</ID>
+    <WertDE>Nicht vorhanden</WertDE>
+    <WertEN>Not available</WertEN>
+    <WertFR>Non compris</WertFR>
+    <WertSP>No existe</WertSP>
+    <WertIT>inesistente</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>573</Nr>
+    <ID>Anreisetag</ID>
+    <WertDE>saisonabhängig</WertDE>
+    <WertEN>dependent on season</WertEN>
+    <WertFR>dépendant de la saison</WertFR>
+    <WertSP>según temporada</WertSP>
+    <WertIT>stagionale</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>574</Nr>
+    <ID>Stockwerk</ID>
+    <WertDE>Erdgeschoss</WertDE>
+    <WertEN>Ground floor</WertEN>
+    <WertFR>Rez-de-chaussée</WertFR>
+    <WertSP>Planta baja</WertSP>
+    <WertIT>Piano terra</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>575</Nr>
+    <ID>Stockwerk</ID>
+    <WertDE>1. Stock</WertDE>
+    <WertEN>First floor</WertEN>
+    <WertFR>Premier étage</WertFR>
+    <WertSP>1ª planta</WertSP>
+    <WertIT>primo piano</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>576</Nr>
+    <ID>Stockwerk</ID>
+    <WertDE>2. Stock</WertDE>
+    <WertEN>Second floor</WertEN>
+    <WertFR>deuxième étage</WertFR>
+    <WertSP>2ª planta</WertSP>
+    <WertIT>secondo piano</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>577</Nr>
+    <ID>Stockwerk</ID>
+    <WertDE>3. Stock</WertDE>
+    <WertEN>Third floor</WertEN>
+    <WertFR>troisième étage</WertFR>
+    <WertSP>3ª planta</WertSP>
+    <WertIT>terzo piano</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>578</Nr>
+    <ID>Stockwerk</ID>
+    <WertDE>4. Stock</WertDE>
+    <WertEN>Fourth floor</WertEN>
+    <WertFR>quatrième étage</WertFR>
+    <WertSP>4ª planta</WertSP>
+    <WertIT>quarto piano</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>579</Nr>
+    <ID>Stockwerk</ID>
+    <WertDE>5. Stock</WertDE>
+    <WertEN>Fifth floor</WertEN>
+    <WertFR>cinquiémeme étage</WertFR>
+    <WertSP>5ª planta</WertSP>
+    <WertIT>quinto piano</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>580</Nr>
+    <ID>Stockwerk</ID>
+    <WertDE>Über 5. Stock</WertDE>
+    <WertEN>Over fifth floor</WertEN>
+    <WertFR>au-dessus du cinquiéme étage</WertFR>
+    <WertSP>más que 5 plantas</WertSP>
+    <WertIT>oltre il quinto piano</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>581</Nr>
+    <ID>Bad</ID>
+    <WertDE>Dusche</WertDE>
+    <WertEN>Shower</WertEN>
+    <WertFR>Douche</WertFR>
+    <WertSP>Ducha</WertSP>
+    <WertIT>Doccia</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>582</Nr>
+    <ID>Anzahl Zimmer</ID>
+    <WertDE>1</WertDE>
+    <WertEN>1</WertEN>
+    <WertFR>1</WertFR>
+    <WertSP>1</WertSP>
+    <WertIT>1</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>583</Nr>
+    <ID>Anzahl Zimmer</ID>
+    <WertDE>1.5</WertDE>
+    <WertEN>1.5</WertEN>
+    <WertFR>1.5</WertFR>
+    <WertSP>1.5</WertSP>
+    <WertIT>1.5</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>584</Nr>
+    <ID>Anzahl Zimmer</ID>
+    <WertDE>2</WertDE>
+    <WertEN>2</WertEN>
+    <WertFR>2</WertFR>
+    <WertSP>2</WertSP>
+    <WertIT>2</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>585</Nr>
+    <ID>Anzahl Zimmer</ID>
+    <WertDE>2.5</WertDE>
+    <WertEN>2.5</WertEN>
+    <WertFR>2.5</WertFR>
+    <WertSP>2.5</WertSP>
+    <WertIT>2.5</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>586</Nr>
+    <ID>Anzahl Zimmer</ID>
+    <WertDE>3</WertDE>
+    <WertEN>3</WertEN>
+    <WertFR>3</WertFR>
+    <WertSP>3</WertSP>
+    <WertIT>3</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>587</Nr>
+    <ID>Anzahl Zimmer</ID>
+    <WertDE>3.5</WertDE>
+    <WertEN>3.5</WertEN>
+    <WertFR>3.5</WertFR>
+    <WertSP>3.5</WertSP>
+    <WertIT>3.5</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>588</Nr>
+    <ID>Anzahl Zimmer</ID>
+    <WertDE>4</WertDE>
+    <WertEN>4</WertEN>
+    <WertFR>4</WertFR>
+    <WertSP>4</WertSP>
+    <WertIT>4</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>589</Nr>
+    <ID>Anzahl Zimmer</ID>
+    <WertDE>4.5</WertDE>
+    <WertEN>4.5</WertEN>
+    <WertFR>4.5</WertFR>
+    <WertSP>4.5</WertSP>
+    <WertIT>4.5</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>590</Nr>
+    <ID>Anzahl Zimmer</ID>
+    <WertDE>5</WertDE>
+    <WertEN>5</WertEN>
+    <WertFR>5</WertFR>
+    <WertSP>5</WertSP>
+    <WertIT>5</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>591</Nr>
+    <ID>Anzahl Zimmer</ID>
+    <WertDE>5.5</WertDE>
+    <WertEN>5.5</WertEN>
+    <WertFR>5.5</WertFR>
+    <WertSP>5.5</WertSP>
+    <WertIT>5.5</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>592</Nr>
+    <ID>Anzahl Zimmer</ID>
+    <WertDE>6</WertDE>
+    <WertEN>6</WertEN>
+    <WertFR>6</WertFR>
+    <WertSP>6</WertSP>
+    <WertIT>6</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>593</Nr>
+    <ID>Anzahl Zimmer</ID>
+    <WertDE>6.5</WertDE>
+    <WertEN>6.5</WertEN>
+    <WertFR>6.5</WertFR>
+    <WertSP>6.5</WertSP>
+    <WertIT>6.5</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>594</Nr>
+    <ID>Anzahl Zimmer</ID>
+    <WertDE>7</WertDE>
+    <WertEN>7</WertEN>
+    <WertFR>7</WertFR>
+    <WertSP>7</WertSP>
+    <WertIT>7</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>595</Nr>
+    <ID>Anzahl Zimmer</ID>
+    <WertDE>7.5</WertDE>
+    <WertEN>7.5</WertEN>
+    <WertFR>7.5</WertFR>
+    <WertSP>7.5</WertSP>
+    <WertIT>7.5</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>596</Nr>
+    <ID>Anzahl Zimmer</ID>
+    <WertDE>8</WertDE>
+    <WertEN>8</WertEN>
+    <WertFR>8</WertFR>
+    <WertSP>8</WertSP>
+    <WertIT>8</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>597</Nr>
+    <ID>Anzahl Zimmer</ID>
+    <WertDE>8.5</WertDE>
+    <WertEN>8.5</WertEN>
+    <WertFR>8.5</WertFR>
+    <WertSP>8.5</WertSP>
+    <WertIT>8.5</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>598</Nr>
+    <ID>Anzahl Zimmer</ID>
+    <WertDE>9</WertDE>
+    <WertEN>9</WertEN>
+    <WertFR>9</WertFR>
+    <WertSP>9</WertSP>
+    <WertIT>9</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>599</Nr>
+    <ID>Anzahl Zimmer</ID>
+    <WertDE>9.5</WertDE>
+    <WertEN>9.5</WertEN>
+    <WertFR>9.5</WertFR>
+    <WertSP>9.5</WertSP>
+    <WertIT>9.5</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>600</Nr>
+    <ID>Anzahl Zimmer</ID>
+    <WertDE>10</WertDE>
+    <WertEN>10</WertEN>
+    <WertFR>10</WertFR>
+    <WertSP>10</WertSP>
+    <WertIT>10</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>601</Nr>
+    <ID>Anzahl Zimmer</ID>
+    <WertDE>11</WertDE>
+    <WertEN>11</WertEN>
+    <WertFR>11</WertFR>
+    <WertSP>11</WertSP>
+    <WertIT>11</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>602</Nr>
+    <ID>Anzahl Zimmer</ID>
+    <WertDE>12</WertDE>
+    <WertEN>12</WertEN>
+    <WertFR>12</WertFR>
+    <WertSP>12</WertSP>
+    <WertIT>12</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>603</Nr>
+    <ID>Anzahl Zimmer</ID>
+    <WertDE>13</WertDE>
+    <WertEN>13</WertEN>
+    <WertFR>13</WertFR>
+    <WertSP>13</WertSP>
+    <WertIT>13</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>604</Nr>
+    <ID>Anzahl Zimmer</ID>
+    <WertDE>14</WertDE>
+    <WertEN>14</WertEN>
+    <WertFR>14</WertFR>
+    <WertSP>14</WertSP>
+    <WertIT>14</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>605</Nr>
+    <ID>Anzahl Zimmer</ID>
+    <WertDE>15</WertDE>
+    <WertEN>15</WertEN>
+    <WertFR>15</WertFR>
+    <WertSP>15</WertSP>
+    <WertIT>15</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>606</Nr>
+    <ID>Anzahl Zimmer</ID>
+    <WertDE>&gt;15</WertDE>
+    <WertEN>&gt;15</WertEN>
+    <WertFR>&gt;15</WertFR>
+    <WertSP>&gt;15</WertSP>
+    <WertIT>&gt;15</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>608</Nr>
+    <ID>Freizeit</ID>
+    <WertDE>Gemeinsamer Innenswimmingpool</WertDE>
+    <WertEN>Common indoor swimming pool</WertEN>
+    <WertFR>Piscine couverte commun</WertFR>
+    <WertSP>Piscina interna comunitaria</WertSP>
+    <WertIT>Piscina cubierta comune</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>609</Nr>
+    <ID>Freizeit</ID>
+    <WertDE>Gemeinsamer Außenswimmingpool</WertDE>
+    <WertEN>Common outdoor swimming pool</WertEN>
+    <WertFR>Piscine extérieure commun</WertFR>
+    <WertSP>Piscina esterna comunitaria</WertSP>
+    <WertIT>Piscina al aire libre comune</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>610</Nr>
+    <ID>Freizeit</ID>
+    <WertDE>Gemeinsamer Swimmingpool</WertDE>
+    <WertEN>Common swimming pool</WertEN>
+    <WertFR>Piscine commun</WertFR>
+    <WertSP>Piscina comunitaria</WertSP>
+    <WertIT>Piscina comune</WertIT>
+  </AttributeLookup>
+  <AttributeLookup>
+    <Nr>611</Nr>
+    <ID>Küche</ID>
+    <WertDE>Kochgelegenheit (3 Herdplatten)</WertDE>
+    <WertEN>Cooking facilities (three hobs)</WertEN>
+    <WertFR>Possibilités de cuisson (3 plaques de four)</WertFR>
+    <WertSP>Cocina (3 fuegos)</WertSP>
+    <WertIT>Angolo cottura (3 piastre di cottura)</WertIT>
+  </AttributeLookup>
+</AttributLookups>

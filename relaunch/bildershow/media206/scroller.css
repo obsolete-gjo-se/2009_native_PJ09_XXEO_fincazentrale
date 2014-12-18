@@ -1,0 +1,66 @@
+@charset "utf-8";
+/* CSS Document */
+
+.scroller .scrollpane { position:relative }
+
+#content .scroller .scrollinner {
+
+	height:80px;
+
+	position:relative;
+
+	overflow:hidden;
+
+}
+
+.scroller .images {
+
+	width:6000px;
+
+	position:absolute;
+
+	top:0;
+
+	left:0;
+
+}
+
+.scroller .scrollBtn {
+
+	width:16px;
+
+	height:55px;
+
+	position:absolute;
+
+	cursor:pointer;
+
+	background:center no-repeat;
+
+	top : 8px;
+
+}
+
+.scroller .left {
+
+	left:-20px;
+
+	background-image:url(arrow_l.gif)
+
+}
+
+.scroller .right {
+
+	right:-20px;
+
+	background-image:url(arrow_r.gif)
+
+}
+
+#scrollinner, #scrollpane, #scroller {
+
+	width: 100%;
+
+	overflow: hidden;
+
+}

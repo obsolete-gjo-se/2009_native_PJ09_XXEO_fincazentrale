@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+#fzGmap_container {
+	margin:60px auto;
+	width:980px;
+	height:580px;
+	border:thin solid #999
+	}
+#fzGmap_navigation {
+	width:150px;
+	float:left;
+	height:580px
+	}
+#fzGmap {
+	width:830px;
+	height:100%;
+	margin-left:150px
+	}
+	
+
+

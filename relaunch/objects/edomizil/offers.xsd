@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<!-- ++++++++++++++++++++++++++++ Enumerationen +++++++++++++++++++++++++++++++++++ -->
+	<!-- +++++++++++++++++++++++++++ Root element +++++++++++++++++++++++++++++++++++++ -->
+	<xs:element name="ROOT">
+		<xs:annotation>
+			<xs:documentation>Comment describing your root element</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Offer" minOccurs="0" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:attribute name="ID" type="xs:integer">
+							<xs:annotation>
+								<xs:documentation xml:lang="DE">Eindeutige Referenz-Angebotsnummer, vergeben durch e-domizil</xs:documentation>
+								<xs:documentation xml:lang="EN">Unique offer identifier, defined by e-domizil</xs:documentation>
+							</xs:annotation>
+						</xs:attribute>
+						<xs:attribute name="DE" type="xs:string">
+							<xs:annotation>
+								<xs:documentation xml:lang="DE">Angebotsname auf Deutsch</xs:documentation>
+								<xs:documentation xml:lang="EN">German offer name</xs:documentation>
+							</xs:annotation>
+						</xs:attribute>
+						<xs:attribute name="EN" type="xs:string">
+							<xs:annotation>
+								<xs:documentation xml:lang="DE">Angebotsname auf Englisch</xs:documentation>
+								<xs:documentation xml:lang="EN">English offer name</xs:documentation>
+							</xs:annotation>
+						</xs:attribute>
+						<xs:attribute name="FR" type="xs:string">
+							<xs:annotation>
+								<xs:documentation xml:lang="DE">Angebotsname auf Französisch</xs:documentation>
+								<xs:documentation xml:lang="EN">Franch offer name</xs:documentation>
+							</xs:annotation>
+						</xs:attribute>
+						<xs:attribute name="ES" type="xs:string">
+							<xs:annotation>
+								<xs:documentation xml:lang="DE">Angebotsname auf Spanisch</xs:documentation>
+								<xs:documentation xml:lang="EN">Spain offer name</xs:documentation>
+							</xs:annotation>
+						</xs:attribute>
+						<xs:attribute name="IT" type="xs:string">
+							<xs:annotation>
+								<xs:documentation xml:lang="DE">Angebotsname auf Italienisch</xs:documentation>
+								<xs:documentation xml:lang="EN">Italian offer name</xs:documentation>
+							</xs:annotation>
+						</xs:attribute>
+						<xs:attribute name="active" type="xs:integer">
+							<xs:annotation>
+								<xs:documentation xml:lang="DE">Flag: 0- Angebot ist nicht aktiv, 1 - Angebot ist aktiv</xs:documentation>
+								<xs:documentation xml:lang="EN">Flag: 0- Offer is not active, 1 - offer ist active</xs:documentation>
+							</xs:annotation>
+						</xs:attribute>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

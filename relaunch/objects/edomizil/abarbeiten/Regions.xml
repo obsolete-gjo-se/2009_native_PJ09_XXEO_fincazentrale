@@ -1,0 +1,1951 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ROOT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.e-domizil.de/Schnittstellen/XML/Regions.xsd">
+  <Land Nr="123" ISO="EG" Name_DE="Ägypten" Name_EN="Egypt">
+    <SubRegion1 Number="1-506" Name_DE="Hurghada" Name_EN="Hurghada">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-402" Name_DE="Sharm El Sheikh" Name_EN="Sharm El Sheikh">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="82" ISO="AD" Name_DE="Andorra" Name_EN="Andorra">
+    <SubRegion1 Number="1-310" Name_DE="Encamp" Name_EN="Encamp">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="137" ISO="AR" Name_DE="Argentinien" Name_EN="Argentina">
+    <SubRegion1 Number="1-440" Name_DE="Buenos Aires und Umgebung" Name_EN="Buenos Aires and surroundings">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="109" ISO="AU" Name_DE="Australien" Name_EN="Australia">
+    <SubRegion1 Number="1-394" Name_DE="Queensland" Name_EN="Queensland">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="106" ISO="BB" Name_DE="Barbados" Name_EN="Barbados">
+    <SubRegion1 Number="1-371" Name_DE="Insel" Name_EN="Island">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="76" ISO="BE" Name_DE="Belgien" Name_EN="Belgium">
+    <SubRegion1 Number="1-229" Name_DE="Antwerpen" Name_EN="Antwerp">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-231" Name_DE="Brabant (Flämisch)" Name_EN="Brabant (flemish)">
+      <SubRegion2 Number="2-220" Name_DE="Brüssel" Name_EN="Brussels">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-233" Name_DE="Hennegau (Hainaut)" Name_EN="Hainaut">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-230" Name_DE="Limburg" Name_EN="Limburg">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-235" Name_DE="Lüttich (Liège)" Name_EN="Liège">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-236" Name_DE="Luxemburg" Name_EN="Luxemburg">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-234" Name_DE="Namur (Namen)" Name_EN="Namur">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-227" Name_DE="Ost-Flandern" Name_EN="East-Flanders">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-228" Name_DE="West-Flandern" Name_EN="West-Flanders">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="75" ISO="BR" Name_DE="Brasilien" Name_EN="Brasil">
+    <SubRegion1 Number="1-405" Name_DE="Der Nordosten" Name_EN="The North-East">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-425" Name_DE="Süden" Name_EN="South">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="83" ISO="BG" Name_DE="Bulgarien" Name_EN="Bulgaria">
+    <SubRegion1 Number="1-385" Name_DE="Burgas" Name_EN="Burgas">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-392" Name_DE="Varna" Name_EN="Varna">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="151" ISO="CN" Name_DE="China" Name_EN="China">
+    <SubRegion1 Number="1-495" Name_DE="Peking und Umgebung" Name_EN="Beijing and surrounding">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="148" ISO="CR" Name_DE="Costa Rica" Name_EN="Costa Rica">
+    <SubRegion1 Number="1-468" Name_DE="Landesinnere" Name_EN="Countryside">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="36" ISO="DK" Name_DE="Dänemark" Name_EN="Denmark">
+    <SubRegion1 Number="1-41" Name_DE="Bornholm" Name_EN="Bornholm">
+      <SubRegion2 Number="2-29" Name_DE="Nordbornholm" Name_EN="North Bornholm">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-31" Name_DE="Ostbornholm" Name_EN="East Bornholm">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-30" Name_DE="Südbornholm" Name_EN="South Bornholm">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-32" Name_DE="Westbornholm" Name_EN="West Bornholm">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-334" Name_DE="Friesische Inseln" Name_EN="Frisian Islands">
+      <SubRegion2 Number="2-342" Name_DE="Fanø" Name_EN="Fanø">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-343" Name_DE="Rømø" Name_EN="Rømø">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-319" Name_DE="Fünen/Langeland/Tasinge" Name_EN="Funen/Langeland/Tasinge">
+      <SubRegion2 Number="2-357" Name_DE="Fünen" Name_EN="Funen">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-358" Name_DE="Langeland" Name_EN="Langeland">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-359" Name_DE="Tasinge" Name_EN="Tasinge">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-90" Name_DE="Jütland" Name_EN="Jutland">
+      <SubRegion2 Number="2-340" Name_DE="Djursland/Mols" Name_EN="Djursland/Mols">
+        <SubRegion3 Number="3-120" Name_DE="Djursland" Name_EN="Djursland"/>
+        <SubRegion3 Number="3-121" Name_DE="Mols" Name_EN="Mols"/>
+      </SubRegion2>
+      <SubRegion2 Number="2-339" Name_DE="Limfjord" Name_EN="Limfjord">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-316" Name_DE="Nordjütland" Name_EN="North Jutland">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-338" Name_DE="Nordostjütland" Name_EN="Northeast Jutland">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-315" Name_DE="Nordwestjütland" Name_EN="Northwest Jutland">
+        <SubRegion3 Number="3-116" Name_DE="Viborg und Umgebung" Name_EN="Viborg and surroundings"/>
+        <SubRegion3 Number="3-117" Name_DE="Westliche Gebiete" Name_EN="Western parts"/>
+      </SubRegion2>
+      <SubRegion2 Number="2-317" Name_DE="Ostjütland" Name_EN="East Jutland">
+        <SubRegion3 Number="3-127" Name_DE="Arhus und Umgebung" Name_EN="Arhus and its surroundings"/>
+        <SubRegion3 Number="3-128" Name_DE="Vejle und Umgebung" Name_EN="Vejle and its surroundings"/>
+      </SubRegion2>
+      <SubRegion2 Number="2-318" Name_DE="Südostjütland" Name_EN="Southeast Jutland">
+        <SubRegion3 Number="3-125" Name_DE="Sønderjütland" Name_EN="Sønderjutland"/>
+      </SubRegion2>
+      <SubRegion2 Number="2-341" Name_DE="Westküste" Name_EN="The westcoast">
+        <SubRegion3 Number="3-133" Name_DE="Blavand und Umgebung" Name_EN="Blavand and its surroundings"/>
+        <SubRegion3 Number="3-123" Name_DE="Ribe und Umgebung" Name_EN="Ribe and its surroundings"/>
+        <SubRegion3 Number="3-122" Name_DE="Ringkobing und Umgebung" Name_EN="Ringkobing and its surroundings"/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-44" Name_DE="Seeland" Name_EN="Zealand">
+      <SubRegion2 Number="2-360" Name_DE="Nordseeland" Name_EN="North Zealand">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-363" Name_DE="Nordwestseeland" Name_EN="Northwest Zealand">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-361" Name_DE="Südseeland" Name_EN="South Zealand">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-362" Name_DE="Westseeland" Name_EN="West Zealand">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-320" Name_DE="Südsee-Inseln" Name_EN="Islands of the south seas">
+      <SubRegion2 Number="2-355" Name_DE="Falster" Name_EN="Falster">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-354" Name_DE="Lolland" Name_EN="Lolland">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-356" Name_DE="Møn" Name_EN="Møn">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="1" ISO="DE" Name_DE="Deutschland" Name_EN="Germany">
+    <SubRegion1 Number="1-29" Name_DE="Baden-Württemberg" Name_EN="Baden-Württemberg">
+      <SubRegion2 Number="2-285" Name_DE="Bodensee" Name_EN="Lake Constance">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-424" Name_DE="Rhein-Neckar" Name_EN="Rhein-Neckar">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-298" Name_DE="Schwäbische Alb" Name_EN="Swabian Alb">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-26" Name_DE="Schwarzwald" Name_EN="Black Forest">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-30" Name_DE="Bayern" Name_EN="Bavaria">
+      <SubRegion2 Number="2-27" Name_DE="Allgäu" Name_EN="Allgaeu">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-28" Name_DE="Berchtesgadener Land" Name_EN="Berchtesgadener Land">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-432" Name_DE="Chiemgau" Name_EN="Chiemgau">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-299" Name_DE="Fichtelgebirge" Name_EN="Fichtelgebirge">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-415" Name_DE="Franken" Name_EN="Franconia">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-431" Name_DE="Mittelfranken" Name_EN="Middle Franconia">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-23" Name_DE="Niederbayern" Name_EN="Lower Bavaria">
+        <SubRegion3 Number="3-97" Name_DE="Bayrischer Wald" Name_EN="Bavarian Forest"/>
+      </SubRegion2>
+      <SubRegion2 Number="2-24" Name_DE="Oberbayern" Name_EN="Upper Bavaria">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-416" Name_DE="Oberfranken" Name_EN="Upper Franconia">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-386" Name_DE="Oberpfalz" Name_EN="Upper Palatinate">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-418" Name_DE="Rhön" Name_EN="Rhön">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-364" Name_DE="Unterfranken" Name_EN="Lower Franconia">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-106" Name_DE="Berlin" Name_EN="Berlin">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-300" Name_DE="Berlin / Brandenburg" Name_EN="Berlin / Brandenburg">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-195" Name_DE="Brandenburg" Name_EN="Brandenburg">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-33" Name_DE="Bremen" Name_EN="Bremen">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-34" Name_DE="Hamburg" Name_EN="Hamburg">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-32" Name_DE="Hessen" Name_EN="Hesse">
+      <SubRegion2 Number="2-292" Name_DE="Hessisches Bergland" Name_EN="Hessisches Bergland">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-293" Name_DE="Odenwald" Name_EN="Odenwald">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-436" Name_DE="Region Vogelsberg" Name_EN="Vogelsberg Region">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-509" Name_DE="Rheingau" Name_EN="Rheingau">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-168" Name_DE="Rhön" Name_EN="Rhön">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-508" Name_DE="Taunus" Name_EN="Taunus">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-35" Name_DE="Mecklenburg - Vorpommern" Name_EN="Mecklenburg Western Pomerania">
+      <SubRegion2 Number="2-445" Name_DE="Fischland-Darß-Zingst" Name_EN="Fischland-Darss-Zingst">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-286" Name_DE="Mecklenburg. Seenplatte" Name_EN="Mecklenburg sea region">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-450" Name_DE="Nordvorpommern" Name_EN="Northern Pomerania">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-337" Name_DE="Nordwestmecklenburg" Name_EN="North Mecklenburg Western Pomerania">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-336" Name_DE="Ostseeküste" Name_EN="Baltic sea coast">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-365" Name_DE="Ostvorpommern" Name_EN="Eastern Pomerania">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-25" Name_DE="Rügen" Name_EN="Ruegen">
+        <SubRegion3 Number="3-7" Name_DE="Binz" Name_EN="Binz"/>
+        <SubRegion3 Number="3-130" Name_DE="Gingst und Umgebung" Name_EN="Gingst"/>
+        <SubRegion3 Number="3-131" Name_DE="Gustow und Umgebung" Name_EN="Gustow"/>
+        <SubRegion3 Number="3-160" Name_DE="Ralswiek und Umgebung" Name_EN="Ralswiek and surroundings"/>
+        <SubRegion3 Number="3-8" Name_DE="Sassnitz und Umgebung" Name_EN="Sassnitz and surroundings"/>
+        <SubRegion3 Number="3-9" Name_DE="Sellin und Umgebung" Name_EN="Sellin and surroundings"/>
+        <SubRegion3 Number="3-132" Name_DE="Wiek und Umgebung" Name_EN="Wiek and surroundings"/>
+      </SubRegion2>
+      <SubRegion2 Number="2-417" Name_DE="Usedom" Name_EN="Usedom">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-36" Name_DE="Niedersachsen" Name_EN="Lower Saxony">
+      <SubRegion2 Number="2-492" Name_DE="Elbe - Weser - Land" Name_EN="Region of River Elbe and Weser River">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-426" Name_DE="Emsland" Name_EN="Emsland">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-435" Name_DE="Hannover und Umgebung" Name_EN="Hannover and surroundings">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-288" Name_DE="Harz" Name_EN="Harz">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-289" Name_DE="Lüneburger Heide" Name_EN="Heath of Lüneburg">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-303" Name_DE="Nordseeküste" Name_EN="North Sea coast">
+        <SubRegion3 Number="3-147" Name_DE="Borkum" Name_EN="Borkum"/>
+        <SubRegion3 Number="3-148" Name_DE="Juist" Name_EN="Juist"/>
+        <SubRegion3 Number="3-150" Name_DE="Norderney" Name_EN="Norderney"/>
+        <SubRegion3 Number="3-152" Name_DE="Wangerooge" Name_EN="Wangerooge"/>
+      </SubRegion2>
+      <SubRegion2 Number="2-491" Name_DE="Oldenburger Münsterland" Name_EN="Oldenburger Munsterland">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-501" Name_DE="Osnabrücker Land" Name_EN="Osnabrucker Land">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-490" Name_DE="Ostfriesland" Name_EN="East Frisia">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-419" Name_DE="Wendland" Name_EN="Wendland">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-287" Name_DE="Weserbergland" Name_EN="Weserbergland">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-147" Name_DE="Nordrhein-Westfalen" Name_EN="Northrhine Westphalia">
+      <SubRegion2 Number="2-505" Name_DE="Bergisches Land" Name_EN="Bergisches Land">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-421" Name_DE="Eifel" Name_EN="Eifel">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-446" Name_DE="Münsterland" Name_EN="Münsterland">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-425" Name_DE="Ruhrgebiet" Name_EN="Ruhr region">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-295" Name_DE="Sauerland" Name_EN="Sauerland">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-294" Name_DE="Teutoburger Wald" Name_EN="Teutoburger Wald">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-194" Name_DE="Rheinland-Pfalz" Name_EN="Rhineland Palatinate">
+      <SubRegion2 Number="2-296" Name_DE="Eifel" Name_EN="Eifel">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-290" Name_DE="Hunsrück" Name_EN="Hunsrück">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-297" Name_DE="Pfälzer Wald" Name_EN="Palatine Forest">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-300" Name_DE="Rhein / Mosel / Saar" Name_EN="Rhine/Moselle/Saar">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-489" Name_DE="Westerwald" Name_EN="Westerwald">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-31" Name_DE="Sachsen" Name_EN="Saxony">
+      <SubRegion2 Number="2-21" Name_DE="Dresden" Name_EN="Dresden">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-443" Name_DE="Erzgebirge" Name_EN="The Ore Mountains">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-488" Name_DE="Sächsische Schweiz" Name_EN="Saxon Switzerland">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-442" Name_DE="Vogtland" Name_EN="Vogtland">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-37" Name_DE="Sachsen-Anhalt" Name_EN="Saxony4-Anhalt">
+      <SubRegion2 Number="2-437" Name_DE="Harz" Name_EN="Harz">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-39" Name_DE="Schleswig-Holstein" Name_EN="Schleswig-Holstein">
+      <SubRegion2 Number="2-301" Name_DE="Nordseeküste" Name_EN="Northsea Coast">
+        <SubRegion3 Number="3-154" Name_DE="Föhr" Name_EN="Föhr"/>
+        <SubRegion3 Number="3-155" Name_DE="Nordstrand" Name_EN="Nordstrand"/>
+        <SubRegion3 Number="3-157" Name_DE="Sylt" Name_EN="Sylt"/>
+      </SubRegion2>
+      <SubRegion2 Number="2-302" Name_DE="Ostseeküste" Name_EN="Baltic sea Coast">
+        <SubRegion3 Number="3-158" Name_DE="Fehmarn" Name_EN="Fehmarn"/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-40" Name_DE="Thüringen" Name_EN="Thuringia">
+      <SubRegion2 Number="2-291" Name_DE="Thüringer Wald" Name_EN="Thüringer Wald">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="124" ISO="DM" Name_DE="Dominica" Name_EN="Dominica">
+    <SubRegion1 Number="1-406" Name_DE="ganzes Land" Name_EN="whole country">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="140" ISO="EC" Name_DE="Ecuador" Name_EN="Ecuador">
+    <SubRegion1 Number="1-470" Name_DE="Küste" Name_EN="Coast">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="74" ISO="FI" Name_DE="Finnland" Name_EN="Finland">
+    <SubRegion1 Number="1-345" Name_DE="Lappland" Name_EN="Lapland">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-344" Name_DE="Mittelfinnland" Name_EN="The center">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-346" Name_DE="Saimaa Seen" Name_EN="Saimaa Lake area">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-343" Name_DE="Südfinnland" Name_EN="South Finland">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="44" ISO="FR" Name_DE="Frankreich" Name_EN="France">
+    <SubRegion1 Number="1-266" Name_DE="Der Norden" Name_EN="The North">
+      <SubRegion2 Number="2-227" Name_DE="Nord - Pas - de - Calais" Name_EN="Nord - Pas - de - Calais">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-226" Name_DE="Picardie" Name_EN="Picardie">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-71" Name_DE="Der Nordosten" Name_EN="The Northeast">
+      <SubRegion2 Number="2-225" Name_DE="Champagne - Ardennes" Name_EN="Champagne - Ardennes">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-221" Name_DE="Franche - Comté" Name_EN="Franche - Comté">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-160" Name_DE="Lothringen / Elsass" Name_EN="Lorraine / Alsace">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-213" Name_DE="Der Nordwesten" Name_EN="The Northwest">
+      <SubRegion2 Number="2-195" Name_DE="Bretagne" Name_EN="Bretagne">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-194" Name_DE="Normandie" Name_EN="Normandie">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-73" Name_DE="Der Südosten" Name_EN="The South East">
+      <SubRegion2 Number="2-240" Name_DE="Ardèche / Drôme" Name_EN="Ardèche / Drôme">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-73" Name_DE="Cote d'Azur" Name_EN="Cote d'Azur">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-250" Name_DE="Dauphiné" Name_EN="Dauphiné">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-198" Name_DE="Französische Alpen" Name_EN="The french Alps">
+        <SubRegion3 Number="3-109" Name_DE="Alpes du Sud - Provence" Name_EN="Alpes of the South - Provence"/>
+        <SubRegion3 Number="3-96" Name_DE="Hochalpen" Name_EN="High alps"/>
+        <SubRegion3 Number="3-95" Name_DE="Isère" Name_EN="Isère"/>
+        <SubRegion3 Number="3-93" Name_DE="Savoyen / Hochsavoyen" Name_EN="Savoyen / Highsavoyen"/>
+      </SubRegion2>
+      <SubRegion2 Number="2-232" Name_DE="Languedoc - Roussillon" Name_EN="Languedoc - Roussillon">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-199" Name_DE="Provence" Name_EN="Provence">
+        <SubRegion3 Number="3-98" Name_DE="Alpes de Haute Provence" Name_EN="Alpes of High Provence"/>
+      </SubRegion2>
+      <SubRegion2 Number="2-239" Name_DE="Rhône - Tal" Name_EN="Rhône - Valley">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-243" Name_DE="Rivièra" Name_EN="Rivièra">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-74" Name_DE="Der Südwesten" Name_EN="The South West">
+      <SubRegion2 Number="2-196" Name_DE="Baskenland" Name_EN="Basque region">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-149" Name_DE="Dordogne" Name_EN="Dordogne">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-76" Name_DE="Gironde" Name_EN="Gironde">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-197" Name_DE="Landes" Name_EN="Landes">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-312" Name_DE="Lot &amp; Garonne" Name_EN="Lot &amp; Garonne">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-231" Name_DE="Midi - Pyrénées" Name_EN="Midi - Pyrénées">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-75" Name_DE="Der Westen" Name_EN="The West">
+      <SubRegion2 Number="2-74" Name_DE="Insel Oléron" Name_EN="Island of Oléron">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-193" Name_DE="Pays de la Loire" Name_EN="Pays de la Loire">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-228" Name_DE="Poitou - Charentes" Name_EN="Poitou - Charentes">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-72" Name_DE="Die Mitte" Name_EN="The center">
+      <SubRegion2 Number="2-230" Name_DE="Auvergne" Name_EN="Auvergne">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-113" Name_DE="Burgund" Name_EN="Bourgogne">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-229" Name_DE="Limousin / Périgord" Name_EN="Limousin / Périgord">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-305" Name_DE="Loiretal - Centre" Name_EN="Loire Valley / Centre">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-71" Name_DE="Paris" Name_EN="Paris">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-277" Name_DE="Korsika" Name_EN="Corse">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="45" ISO="GR" Name_DE="Griechenland" Name_EN="Greece">
+    <SubRegion1 Number="1-358" Name_DE="Ägäische Inseln" Name_EN="Aegean Islands">
+      <SubRegion2 Number="2-456" Name_DE="Chios" Name_EN="Chios">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-454" Name_DE="Limnos" Name_EN="Limnos">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-455" Name_DE="Samos" Name_EN="Samos">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-150" Name_DE="Athen und Attika" Name_EN="Athens and Attika">
+      <SubRegion2 Number="2-462" Name_DE="Athen" Name_EN="Athens">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-218" Name_DE="Chalkidiki" Name_EN="Chalkidiki">
+      <SubRegion2 Number="2-396" Name_DE="Kassandra" Name_EN="Kassandra">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-395" Name_DE="Sithonia" Name_EN="Sithonia">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-361" Name_DE="Dodekannes" Name_EN="Dodecanese">
+      <SubRegion2 Number="2-464" Name_DE="Karpathos" Name_EN="Karpathos">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-399" Name_DE="Rhodos" Name_EN="Rhodos">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-151" Name_DE="Epirus" Name_EN="Epirus">
+      <SubRegion2 Number="2-467" Name_DE="Thesprotia" Name_EN="Thesprotia">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-388" Name_DE="Euböa" Name_EN="Euböa">
+      <SubRegion2 Number="2-441" Name_DE="Skyros" Name_EN="Skyros">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-152" Name_DE="Ionische Inseln" Name_EN="Ionian Islands">
+      <SubRegion2 Number="2-122" Name_DE="Kefalonia" Name_EN="Kefallonia">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-123" Name_DE="Korfu" Name_EN="Korfu">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-397" Name_DE="Lefkas" Name_EN="Lefkada">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-128" Name_DE="Zákynthos" Name_EN="Zakynthos">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-104" Name_DE="Kreta" Name_EN="Crete">
+      <SubRegion2 Number="2-200" Name_DE="Osten (Kreta)" Name_EN="East (Crete)">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-201" Name_DE="Westen (Kreta)" Name_EN="West (Crete)">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-362" Name_DE="Kykladen" Name_EN="Cyclades">
+      <SubRegion2 Number="2-478" Name_DE="Andros" Name_EN="Andros">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-448" Name_DE="Kea" Name_EN="Kea">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-401" Name_DE="Naxos" Name_EN="Naxos">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-400" Name_DE="Paros" Name_EN="Paros">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-402" Name_DE="Santorini" Name_EN="Santorini">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-444" Name_DE="Tinos" Name_EN="Tinos">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-133" Name_DE="Makedonien" Name_EN="Macedonia">
+      <SubRegion2 Number="2-483" Name_DE="Kavala" Name_EN="Kavala">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-487" Name_DE="Thássos" Name_EN="Thasos">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-160" Name_DE="Peloponnes" Name_EN="Peloponnes">
+      <SubRegion2 Number="2-390" Name_DE="Nord-Peloponnes" Name_EN="Peloponnes (North)">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-394" Name_DE="Ost-Peloponnes" Name_EN="Peloponnes (East)">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-391" Name_DE="Süd-Peloponnes" Name_EN="Peloponnes (South)">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-392" Name_DE="West-Peloponnes" Name_EN="Peloponnes (West)">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-164" Name_DE="Thessalien" Name_EN="Thessalia">
+      <SubRegion2 Number="2-389" Name_DE="Pilion" Name_EN="Pilion">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="43" ISO="GB" Name_DE="Großbritannien" Name_EN="Great Britain">
+    <SubRegion1 Number="1-275" Name_DE="England" Name_EN="England">
+      <SubRegion2 Number="2-246" Name_DE="Der Norden" Name_EN="The North">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-249" Name_DE="Der Osten" Name_EN="The East">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-248" Name_DE="Der Südosten" Name_EN="The Southeast">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-247" Name_DE="Der Südwesten" Name_EN="The Southwest">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-245" Name_DE="Die Mitte" Name_EN="The Middle">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-244" Name_DE="London" Name_EN="London">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-246" Name_DE="Schottland" Name_EN="Scotland">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-245" Name_DE="Wales" Name_EN="Wales">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="116" ISO="ID" Name_DE="Indonesien" Name_EN="Indonesia">
+    <SubRegion1 Number="1-384" Name_DE="Bali" Name_EN="Bali">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="46" ISO="IE" Name_DE="Irland" Name_EN="Ireland">
+    <SubRegion1 Number="1-57" Name_DE="Der Norden" Name_EN="The North">
+      <SubRegion2 Number="2-279" Name_DE="Der Nordwesten (Irland)" Name_EN="The Northwest (Ireland)">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-59" Name_DE="Der Süden" Name_EN="The South">
+      <SubRegion2 Number="2-276" Name_DE="Cork and Kerry" Name_EN="Cork and Kerry">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-280" Name_DE="Der Südosten (Irland)" Name_EN="The South-East (Ireland)">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-277" Name_DE="The Shannon" Name_EN="The Shannon">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-297" Name_DE="Die Ostküste / Midlands" Name_EN="The Eastcoast / Midlands">
+      <SubRegion2 Number="2-275" Name_DE="Dublin" Name_EN="Dublin">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-60" Name_DE="Die Westküste" Name_EN="The Westcoast">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="115" ISO="IS" Name_DE="Island" Name_EN="Iceland">
+    <SubRegion1 Number="1-521" Name_DE="Der Norden" Name_EN="North">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-522" Name_DE="Der Osten" Name_EN="East">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-520" Name_DE="Der Süden" Name_EN="The South">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-523" Name_DE="Der Westen" Name_EN="The West">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-518" Name_DE="Reykjavik und Umgebung" Name_EN="Reykjavik and Surroundings">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="114" ISO="IL" Name_DE="Israel" Name_EN="Israel">
+    <SubRegion1 Number="1-426" Name_DE="Rotes Meer" Name_EN="Red Sea">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="35" ISO="IT" Name_DE="Italien" Name_EN="Italy">
+    <SubRegion1 Number="1-208" Name_DE="Der Nordosten" Name_EN="The North East">
+      <SubRegion2 Number="2-422" Name_DE="Dolomiten" Name_EN="Dolomites">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-107" Name_DE="Südtirol - Trentino" Name_EN="South Tyrol - Trentino">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-171" Name_DE="Venetien" Name_EN="Veneto">
+        <SubRegion3 Number="3-48" Name_DE="Das Land (Venetien)" Name_EN="Land (Veneto)"/>
+        <SubRegion3 Number="3-49" Name_DE="Friaul" Name_EN="Friaul"/>
+        <SubRegion3 Number="3-47" Name_DE="Gardasee" Name_EN="Lake Garda"/>
+        <SubRegion3 Number="3-144" Name_DE="Idrosee" Name_EN="Lake Idro"/>
+        <SubRegion3 Number="3-145" Name_DE="Ledrosee" Name_EN="Lake Ledro"/>
+        <SubRegion3 Number="3-50" Name_DE="Venedig" Name_EN="Venice"/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-209" Name_DE="Der Nordwesten" Name_EN="The North West">
+      <SubRegion2 Number="2-281" Name_DE="Aosta-Tal" Name_EN="Valley of Aosta">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-282" Name_DE="Lago Maggiore" Name_EN="Lake Maggiore">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-180" Name_DE="Lombardei" Name_EN="Lombardia">
+        <SubRegion3 Number="3-139" Name_DE="Lago di Como" Name_EN="Como Lake"/>
+        <SubRegion3 Number="3-138" Name_DE="Lago di Lugano" Name_EN="Lugano Lake"/>
+        <SubRegion3 Number="3-140" Name_DE="Sondrio und Umgebung" Name_EN="Sondrio and surroundings"/>
+      </SubRegion2>
+      <SubRegion2 Number="2-179" Name_DE="Piemont" Name_EN="Piemont">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-68" Name_DE="Der Süden" Name_EN="Southern Italy">
+      <SubRegion2 Number="2-284" Name_DE="Basilikata - Apulien" Name_EN="Basilikata - Apulia">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-206" Name_DE="Kalabrien" Name_EN="Calabria">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-178" Name_DE="Kampanien" Name_EN="Campania">
+        <SubRegion3 Number="3-71" Name_DE="Amalfiküste - Positano - Capri - Ischia" Name_EN="Amalfi Coast - Positano - Capri - Ischia"/>
+      </SubRegion2>
+      <SubRegion2 Number="2-504" Name_DE="Pantelleria" Name_EN="Pantelleria">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-210" Name_DE="Die Mitte" Name_EN="The centre">
+      <SubRegion2 Number="2-304" Name_DE="Abruzzen - Molise" Name_EN="Abruzzi - Molise">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-283" Name_DE="Emilia-Romagna" Name_EN="Emilia-Romagna">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-176" Name_DE="Latium" Name_EN="Latium">
+        <SubRegion3 Number="3-69" Name_DE="Rom Stadt" Name_EN="Rome"/>
+        <SubRegion3 Number="3-70" Name_DE="Umgebung Roms und die Seen" Name_EN="Rome's surroundings and the lakes"/>
+      </SubRegion2>
+      <SubRegion2 Number="2-420" Name_DE="Ligurien" Name_EN="Liguria">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-173" Name_DE="Toskana" Name_EN="Tuscany">
+        <SubRegion3 Number="3-159" Name_DE="Apuanische Küste" Name_EN="Apuan Coast"/>
+        <SubRegion3 Number="3-58" Name_DE="Arezzo - Cortona" Name_EN="Arezzo - Cortona"/>
+        <SubRegion3 Number="3-64" Name_DE="Argentario" Name_EN="Argentario"/>
+        <SubRegion3 Number="3-63" Name_DE="Cast. Della Pescaia - Punta Ala" Name_EN="Cast. Della Pescaia - Punta Ala"/>
+        <SubRegion3 Number="3-55" Name_DE="Chianti" Name_EN="Chianti"/>
+        <SubRegion3 Number="3-65" Name_DE="Elba" Name_EN="Island of Elba"/>
+        <SubRegion3 Number="3-61" Name_DE="Etruskische Küste - Pisa" Name_EN="Etruscan coast - Pisa"/>
+        <SubRegion3 Number="3-54" Name_DE="Florentiner Hügel" Name_EN="Florentine hill"/>
+        <SubRegion3 Number="3-53" Name_DE="Florenz und die Umgebung" Name_EN="Florence and its surroundings"/>
+        <SubRegion3 Number="3-60" Name_DE="Ligurien" Name_EN="Liguria"/>
+        <SubRegion3 Number="3-51" Name_DE="Lucca" Name_EN="Lucca"/>
+        <SubRegion3 Number="3-62" Name_DE="Maremma" Name_EN="Maremma"/>
+        <SubRegion3 Number="3-52" Name_DE="Pistoia - Montecatini Terme" Name_EN="Pistoia - Montecatini Terme"/>
+        <SubRegion3 Number="3-57" Name_DE="Siena" Name_EN="Siena"/>
+        <SubRegion3 Number="3-59" Name_DE="Versilia" Name_EN="Versilia"/>
+        <SubRegion3 Number="3-56" Name_DE="Volterra - San Gimignano" Name_EN="Volterra - St. Gimignano"/>
+      </SubRegion2>
+      <SubRegion2 Number="2-174" Name_DE="Toskana - Küste" Name_EN="Coast of Tuscany">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-175" Name_DE="Umbrien" Name_EN="Umbria">
+        <SubRegion3 Number="3-68" Name_DE="Marken" Name_EN="Marche"/>
+        <SubRegion3 Number="3-66" Name_DE="Perugia - Assisi - Gubbio - Orvieto" Name_EN="Perugia - Assisi - Gubbio - Orvieto"/>
+        <SubRegion3 Number="3-67" Name_DE="Trasimenischer See" Name_EN="Trasimenian Lake"/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-134" Name_DE="Sardinien" Name_EN="Sardegna">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-69" Name_DE="Sizilien" Name_EN="Sicily">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="104" ISO="JM" Name_DE="Jamaika" Name_EN="Jamaica">
+    <SubRegion1 Number="1-367" Name_DE="Nordküste" Name_EN="North Coast">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="92" ISO="JP" Name_DE="Japan" Name_EN="Japan">
+    <SubRegion1 Number="1-479" Name_DE="Ganzes Land" Name_EN="whole country">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="64" ISO="CA" Name_DE="Kanada" Name_EN="Canada">
+    <SubRegion1 Number="1-450" Name_DE="British Columbia" Name_EN="British Columbia">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-389" Name_DE="Québec" Name_EN="Québec">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="110" ISO="KE" Name_DE="Kenia" Name_EN="Kenya">
+    <SubRegion1 Number="1-393" Name_DE="ganzes Land" Name_EN="whole country">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="47" ISO="HR" Name_DE="Kroatien" Name_EN="Croatia">
+    <SubRegion1 Number="1-221" Name_DE="Dalmatien" Name_EN="Dalmatia">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-531" Name_DE="Gorski Kotar" Name_EN="Gorski Kotar">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-56" Name_DE="Istrien" Name_EN="Istria">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-348" Name_DE="Kroatische Inseln" Name_EN="Croatian islands">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-296" Name_DE="Kvarner" Name_EN="Kvarnia">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-349" Name_DE="Slavonien" Name_EN="Slavonia">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="86" ISO="LV" Name_DE="Lettland" Name_EN="Latvia">
+    <SubRegion1 Number="1-535" Name_DE="Kurland" Name_EN="Courland">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="77" ISO="LU" Name_DE="Luxemburg" Name_EN="Luxembourg">
+    <SubRegion1 Number="1-481" Name_DE="Luxemburg" Name_EN="Luxembourg">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="48" ISO="MT" Name_DE="Malta" Name_EN="Malta">
+    <SubRegion1 Number="1-189" Name_DE="Insel Gozo" Name_EN="Island of Gozo">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-190" Name_DE="Insel Malta" Name_EN="Island of Malta">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="94" ISO="MA" Name_DE="Marokko" Name_EN="Morocco">
+    <SubRegion1 Number="1-331" Name_DE="Agadir" Name_EN="Agadir">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-532" Name_DE="Marrakesch" Name_EN="Marrakesch">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="131" ISO="MQ" Name_DE="Martinique" Name_EN="Martinique">
+    <SubRegion1 Number="1-494" Name_DE="Martinique" Name_EN="Martinique">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="65" ISO="MU" Name_DE="Mauritius" Name_EN="Mauritius">
+    <SubRegion1 Number="1-130" Name_DE="Der Norden" Name_EN="The North">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-139" Name_DE="Der Osten" Name_EN="The East">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-140" Name_DE="Der Süden" Name_EN="The South">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-216" Name_DE="Der Westen" Name_EN="The West">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="147" ISO="MX" Name_DE="Mexiko" Name_EN="Mexico">
+    <SubRegion1 Number="1-484" Name_DE="Landesinnere" Name_EN="Inland">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-482" Name_DE="Ostküste" Name_EN="East Coast">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="159" ISO="MN" Name_DE="Mongolei" Name_EN="Mongolia">
+    <SubRegion1 Number="1-534" Name_DE="Ulaanbaatar und Umgebung" Name_EN="Ulan Bator and surroundings">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="66" ISO="ME" Name_DE="Montenegro" Name_EN="Montenegro">
+    <SubRegion1 Number="1-126" Name_DE="Montenegro" Name_EN="Montenegro">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="135" ISO="NA" Name_DE="Namibia" Name_EN="Namibia">
+    <SubRegion1 Number="1-430" Name_DE="Otjozondjupa" Name_EN="Otjozondjupa">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="121" ISO="NZ" Name_DE="Neuseeland" Name_EN="New Zealand">
+    <SubRegion1 Number="1-485" Name_DE="Nordinsel" Name_EN="North island">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="79" ISO="NL" Name_DE="Niederlande" Name_EN="Netherlands">
+    <SubRegion1 Number="1-433" Name_DE="Drenthe" Name_EN="Drenthe">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-434" Name_DE="Flevoland" Name_EN="Flevoland">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-342" Name_DE="Friesland" Name_EN="Friesland">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-352" Name_DE="Gelderland" Name_EN="Gelderland">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-341" Name_DE="Groningen" Name_EN="Groningen">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-353" Name_DE="Limburg" Name_EN="Limburg">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-374" Name_DE="Nordbrabant" Name_EN="North Brabant">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-340" Name_DE="Nordholland" Name_EN="Northern Netherlands">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-263" Name_DE="Overijssel" Name_EN="Overijssel">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-435" Name_DE="Utrecht" Name_EN="Utrecht">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-436" Name_DE="Watteninseln" Name_EN="Watt Islands">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-339" Name_DE="Zeeland" Name_EN="Zealand">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-338" Name_DE="Zuidholland" Name_EN="Southern Holland">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="102" ISO="AN" Name_DE="Niederländische Antillen" Name_EN="Netherlands Antilles">
+    <SubRegion1 Number="1-525" Name_DE="Bonaire" Name_EN="Bonaire">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-366" Name_DE="Curacao" Name_EN="Curacao">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="49" ISO="NO" Name_DE="Norwegen" Name_EN="Norway">
+    <SubRegion1 Number="1-185" Name_DE="Der Norden" Name_EN="The North">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-137" Name_DE="Der Süden" Name_EN="The South">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-325" Name_DE="Die Mitte" Name_EN="The Centre">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-324" Name_DE="Fjord" Name_EN="The Fjord region">
+      <SubRegion2 Number="2-331" Name_DE="Hordaland" Name_EN="Hordaland">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-333" Name_DE="More und Romsdal" Name_EN="More and Romsdal">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-330" Name_DE="Rogaland" Name_EN="Rogaland">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-332" Name_DE="Sogn und Fjordane" Name_EN="Sogn and Fjordane">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-187" Name_DE="Gebirgs - Norwegen" Name_EN="Norway Mountain region">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-186" Name_DE="Umgebung Oslos" Name_EN="Surroundings of Oslo">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="162" ISO="OM" Name_DE="Oman" Name_EN="Oman">
+    <SubRegion1 Number="1-546" Name_DE="Maskat und Umgebung" Name_EN="Muscat and Surroundings">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="91" ISO="AT" Name_DE="Österreich" Name_EN="Austria">
+    <SubRegion1 Number="1-309" Name_DE="Burgenland" Name_EN="Burgenland">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-307" Name_DE="Kärnten" Name_EN="Carinthia">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-302" Name_DE="Niederösterreich" Name_EN="Lower Austria">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-303" Name_DE="Oberösterreich" Name_EN="Upper Austria">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-304" Name_DE="Salzburger Land" Name_EN="Salzburger Land">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-308" Name_DE="Steiermark" Name_EN="Styria">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-305" Name_DE="Tirol" Name_EN="Tyrol">
+      <SubRegion2 Number="2-313" Name_DE="Osttirol" Name_EN="East Tyrol">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-306" Name_DE="Vorarlberg" Name_EN="Vorarlberg">
+      <SubRegion2 Number="2-500" Name_DE="Kleinwalsertal" Name_EN="Kleinwalsertal">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-301" Name_DE="Wien" Name_EN="Vienna">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="154" ISO="PH" Name_DE="Philippinen" Name_EN="Philippines">
+    <SubRegion1 Number="1-509" Name_DE="Visayas" Name_EN="Visayas">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="67" ISO="PL" Name_DE="Polen" Name_EN="Poland">
+    <SubRegion1 Number="1-248" Name_DE="Großpolen / Wielkopolska" Name_EN="Greater Poland / Wielkopolska">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-252" Name_DE="Kleinpolen / Malopolska" Name_EN="Small Poland">
+      <SubRegion2 Number="2-214" Name_DE="Beskidy" Name_EN="Beskidy">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-212" Name_DE="Tatra / Tatry" Name_EN="The Tatras">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-251" Name_DE="Masowien / Mazowsze" Name_EN="Masowia">
+      <SubRegion2 Number="2-215" Name_DE="Podlasie" Name_EN="Podlasia">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-250" Name_DE="Masuren / Mazury" Name_EN="The Mazurian">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-247" Name_DE="Pommern / Pomorze" Name_EN="The Pomeranian Lakeland">
+      <SubRegion2 Number="2-320" Name_DE="Nordpommern / Ostseeküste" Name_EN="North Pommeranian / Baltic sea coast">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-321" Name_DE="Rowy" Name_EN="Rowy">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-249" Name_DE="Schlesien / Slask" Name_EN="Silesia">
+      <SubRegion2 Number="2-216" Name_DE="Sudety" Name_EN="Sudety">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="52" ISO="PT" Name_DE="Portugal" Name_EN="Portugal">
+    <SubRegion1 Number="1-295" Name_DE="Alentejo" Name_EN="Alentejo">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-105" Name_DE="Algarve" Name_EN="Algarve">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-395" Name_DE="Azoren" Name_EN="Azores">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-180" Name_DE="Costa de Prata (Silberküste)" Name_EN="Silver Coast">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-181" Name_DE="Costa Verde / Norden" Name_EN="Green Coast / The North">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-136" Name_DE="Lissabon / Tejo" Name_EN="Lisbon / Tejo">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-182" Name_DE="Madeira" Name_EN="Madeira">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-383" Name_DE="Montanhas" Name_EN="Mountains">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="152" ISO="RO" Name_DE="Rumänien" Name_EN="Romania">
+    <SubRegion1 Number="1-543" Name_DE="Siebenbürgen" Name_EN="Siebenbürgen">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="53" ISO="RU" Name_DE="Russland" Name_EN="Russia">
+    <SubRegion1 Number="1-173" Name_DE="Moskau" Name_EN="Moscow">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="56" ISO="SE" Name_DE="Schweden" Name_EN="Sweden">
+    <SubRegion1 Number="1-166" Name_DE="Mittelschweden" Name_EN="Central Sweden">
+      <SubRegion2 Number="2-349" Name_DE="Gävleborgs Län" Name_EN="Gavleborgs Lan">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-351" Name_DE="Jämtlands Län" Name_EN="Jamtlands Lan">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-347" Name_DE="Örebro Län" Name_EN="Orebro Lan">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-385" Name_DE="Västerbottens Län" Name_EN="Västerbottens Län">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-167" Name_DE="Nordschweden" Name_EN="The North">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-347" Name_DE="Schwedische Inseln" Name_EN="Swedish islands">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-337" Name_DE="Schwedische Seen" Name_EN="Swedish Lakes">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-335" Name_DE="Stockholm und Umgebung" Name_EN="Stockholms and surroundings">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-168" Name_DE="Südschweden" Name_EN="The South">
+      <SubRegion2 Number="2-366" Name_DE="Blekinge Län" Name_EN="Blekinge Lan">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-376" Name_DE="Jönköpings Län" Name_EN="Jonkopings Lan">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-377" Name_DE="Kalmar Län" Name_EN="Kalmar Lan">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-345" Name_DE="Kristianstads Län" Name_EN="Kristianstads Lan">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-374" Name_DE="Kronobergs Län" Name_EN="Kronobergs Län">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-344" Name_DE="Malmöhus Län" Name_EN="Malmohus Lan">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-367" Name_DE="Smaland" Name_EN="Smaland">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-336" Name_DE="Westküste Schwedens" Name_EN="The westcoast">
+      <SubRegion2 Number="2-382" Name_DE="Älvsborgs Län" Name_EN="Alvsborgs Lan">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-384" Name_DE="Göteborgs Och Bohus Län" Name_EN="Goteborgs Och Bohus Lan">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-383" Name_DE="Hallands Län" Name_EN="Hallands Lan">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-380" Name_DE="Östergötlands Län" Name_EN="Ostergotlands Lan">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-381" Name_DE="Skaraborgs Län" Name_EN="Skaraborgs Lan">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="34" ISO="CH" Name_DE="Schweiz" Name_EN="Switzerland">
+    <SubRegion1 Number="1-454" Name_DE="Berner Oberland" Name_EN="Bernese Oberland">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-283" Name_DE="Genferseegebiet" Name_EN="Lake geneva region">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-118" Name_DE="Graubünden" Name_EN="Graubuenden">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-282" Name_DE="Jura/Berner Jura" Name_EN="Jura/Bernese Jura">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-203" Name_DE="Ostschweiz/Liechtenstein" Name_EN="Eastern Switzerland/Liechtenstein">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-451" Name_DE="Region Basel" Name_EN="Basel Region">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-281" Name_DE="Region Fribourg" Name_EN="Fribourg Region">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-452" Name_DE="Region Genf" Name_EN="Geneva Region">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-112" Name_DE="Region Zürich" Name_EN="Zurich Region">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-453" Name_DE="Schweizer Mittelland" Name_EN="Schweizer Mittelland">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-116" Name_DE="Tessin" Name_EN="Ticino">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-192" Name_DE="Wallis" Name_EN="Valais">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-117" Name_DE="Zentralschweiz" Name_EN="Central Switzerland">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="90" ISO="SK" Name_DE="Slowakei" Name_EN="Slovak Republic">
+    <SubRegion1 Number="1-292" Name_DE="Der Osten" Name_EN="The East">
+      <SubRegion2 Number="2-267" Name_DE="Kosice" Name_EN="Kosice">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-371" Name_DE="Michalovce" Name_EN="Michalovce">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-372" Name_DE="Poprad" Name_EN="Poprad">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-268" Name_DE="Presov" Name_EN="Presov">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-293" Name_DE="Der Westen" Name_EN="The West">
+      <SubRegion2 Number="2-269" Name_DE="Bratislava" Name_EN="Bratislava">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-270" Name_DE="Nitra" Name_EN="Nitra">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-271" Name_DE="Trenciansky" Name_EN="Trenciansky">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-272" Name_DE="Trnava" Name_EN="Trnava">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-294" Name_DE="Die Mitte" Name_EN="The Centre">
+      <SubRegion2 Number="2-273" Name_DE="Banska Bystrica" Name_EN="Banska Bystrica">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-506" Name_DE="Hohe Tatra" Name_EN="Hohe Tatra">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-370" Name_DE="Liptovsky Mikulas" Name_EN="Liptovsky Mikulas">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-274" Name_DE="Zilina" Name_EN="Zilina">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-368" Name_DE="Zvolen" Name_EN="Zvolen">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="118" ISO="SI" Name_DE="Slowenien" Name_EN="Slovenia">
+    <SubRegion1 Number="1-398" Name_DE="ganzes Land" Name_EN="whole country">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="57" ISO="ES" Name_DE="Spanien" Name_EN="Spain">
+    <SubRegion1 Number="1-212" Name_DE="Balearen" Name_EN="Balearic Islands">
+      <SubRegion2 Number="2-192" Name_DE="Ibiza" Name_EN="Ibiza">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-191" Name_DE="Mallorca" Name_EN="Majorca">
+        <SubRegion3 Number="3-92" Name_DE="Inselmitte (Mallorca)" Name_EN="Centre of Mallorca (Mallorca)"/>
+        <SubRegion3 Number="3-90" Name_DE="Norden (Mallorca)" Name_EN="North (Mallorca)"/>
+        <SubRegion3 Number="3-88" Name_DE="Osten (Mallorca)" Name_EN="East (Mallorca)"/>
+        <SubRegion3 Number="3-91" Name_DE="Palma und Umgebung" Name_EN="Palma and its surroundings"/>
+        <SubRegion3 Number="3-89" Name_DE="Süden (Mallorca)" Name_EN="South (Mallorca)"/>
+      </SubRegion2>
+      <SubRegion2 Number="2-262" Name_DE="Menorca" Name_EN="Menorca">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-280" Name_DE="Der Norden" Name_EN="The North">
+      <SubRegion2 Number="2-257" Name_DE="Asturien" Name_EN="Asturias">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-256" Name_DE="Galizien" Name_EN="Galicia">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-258" Name_DE="Kantabrien" Name_EN="Cantabria">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-260" Name_DE="La Rioja / Aragón" Name_EN="La Rioja / Aragón">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-438" Name_DE="Pyrenäen" Name_EN="Pyrenees">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-45" Name_DE="Der Nordosten" Name_EN="The North-East">
+      <SubRegion2 Number="2-181" Name_DE="Katalonien" Name_EN="Catalunya">
+        <SubRegion3 Number="3-72" Name_DE="Costa Brava" Name_EN="Costa Brava"/>
+        <SubRegion3 Number="3-99" Name_DE="Costa Daurada" Name_EN="Costa Daurada"/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-48" Name_DE="Der Osten" Name_EN="The East">
+      <SubRegion2 Number="2-183" Name_DE="Murcia" Name_EN="Murcia">
+        <SubRegion3 Number="3-74" Name_DE="Costa Calida" Name_EN="Costa Calida"/>
+      </SubRegion2>
+      <SubRegion2 Number="2-182" Name_DE="Valencia" Name_EN="Valencia">
+        <SubRegion3 Number="3-73" Name_DE="Costa Blanca" Name_EN="Costa Blanca"/>
+        <SubRegion3 Number="3-100" Name_DE="Costa del Azahar" Name_EN="Costa del Azahar"/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-46" Name_DE="Der Süden" Name_EN="South">
+      <SubRegion2 Number="2-34" Name_DE="Andalusien" Name_EN="Andalusia">
+        <SubRegion3 Number="3-135" Name_DE="Cordoba" Name_EN="Cordoba"/>
+        <SubRegion3 Number="3-75" Name_DE="Costa de Almeria" Name_EN="Costa de Almeria"/>
+        <SubRegion3 Number="3-44" Name_DE="Costa de la Luz" Name_EN="Costa de la Luz"/>
+        <SubRegion3 Number="3-45" Name_DE="Costa del Sol" Name_EN="Costa del Sol"/>
+        <SubRegion3 Number="3-134" Name_DE="Granada" Name_EN="Granada"/>
+        <SubRegion3 Number="3-136" Name_DE="Sevilla" Name_EN="Sevilla"/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-279" Name_DE="Der Westen" Name_EN="The West">
+      <SubRegion2 Number="2-253" Name_DE="Extremadura" Name_EN="Extremadura">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-278" Name_DE="Die Mitte" Name_EN="The Centre">
+      <SubRegion2 Number="2-252" Name_DE="Castilla La Mancha" Name_EN="Castilla La Mancha">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-251" Name_DE="Madrid" Name_EN="Madrid">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-211" Name_DE="Kanarische Inseln" Name_EN="Canary Islands">
+      <SubRegion2 Number="2-184" Name_DE="El Hierro" Name_EN="El Hierro">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-187" Name_DE="Fuerteventura" Name_EN="Fuerteventura">
+        <SubRegion3 Number="3-76" Name_DE="Norden (Fuerteventura)" Name_EN="North (Fuerteventura)"/>
+        <SubRegion3 Number="3-77" Name_DE="Süden (Fuerteventura)" Name_EN="South (Fuerteventura)"/>
+      </SubRegion2>
+      <SubRegion2 Number="2-188" Name_DE="Gran Canaria" Name_EN="Gran Canary">
+        <SubRegion3 Number="3-78" Name_DE="Norden (Gran Canaria)" Name_EN="North (Gran Canary)"/>
+        <SubRegion3 Number="3-79" Name_DE="Süden (Gran Canaria)" Name_EN="South (Gran Canary)"/>
+      </SubRegion2>
+      <SubRegion2 Number="2-185" Name_DE="La Gomera" Name_EN="La Gomera">
+        <SubRegion3 Number="3-80" Name_DE="Norden (La Gomera)" Name_EN="North (La Gomera)"/>
+        <SubRegion3 Number="3-81" Name_DE="Süden (La Gomera)" Name_EN="South (La Gomera)"/>
+      </SubRegion2>
+      <SubRegion2 Number="2-190" Name_DE="La Palma" Name_EN="La Palma">
+        <SubRegion3 Number="3-82" Name_DE="Westen (La Palma)" Name_EN="West (La Palma)"/>
+      </SubRegion2>
+      <SubRegion2 Number="2-189" Name_DE="Lanzarote" Name_EN="Lanzarote">
+        <SubRegion3 Number="3-84" Name_DE="Norden (Lanzarote)" Name_EN="North (Lanzarote)"/>
+        <SubRegion3 Number="3-85" Name_DE="Süden (Lanzarote)" Name_EN="South (Lanzarote)"/>
+      </SubRegion2>
+      <SubRegion2 Number="2-186" Name_DE="Teneriffa" Name_EN="Tenerife">
+        <SubRegion3 Number="3-86" Name_DE="Norden (Teneriffa)" Name_EN="North (Tenerife)"/>
+        <SubRegion3 Number="3-87" Name_DE="Süden (Teneriffa)" Name_EN="South (Tenerife)"/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="133" ISO="LK" Name_DE="Sri Lanka" Name_EN="Sri Lanka">
+    <SubRegion1 Number="1-424" Name_DE="Induruwa" Name_EN="Induruwa">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="96" ISO="ZA" Name_DE="Südafrika" Name_EN="South Africa">
+    <SubRegion1 Number="1-403" Name_DE="Mpumalanga" Name_EN="Mpumalanga">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-419" Name_DE="Ostkap" Name_EN="Cape - East">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-404" Name_DE="Westkap" Name_EN="Western Cape">
+      <SubRegion2 Number="2-423" Name_DE="Kapstadt" Name_EN="Cape Town">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="160" ISO="TZ" Name_DE="Tansania" Name_EN="Tanzania">
+    <SubRegion1 Number="1-544" Name_DE="Sansibar" Name_EN="Sansibar">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="73" ISO="TH" Name_DE="Thailand" Name_EN="Thailand">
+    <SubRegion1 Number="1-507" Name_DE="Bangkok" Name_EN="Bangkok">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-542" Name_DE="Der Norden" Name_EN="THe North">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-456" Name_DE="Ko Chang" Name_EN="Ko Chang">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-455" Name_DE="Ko Samui" Name_EN="Ko Samui">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-381" Name_DE="Phuket" Name_EN="Phuket">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="105" ISO="TT" Name_DE="Trinidad und Tobago" Name_EN="Trinidad and Tobago">
+    <SubRegion1 Number="1-380" Name_DE="Tobago" Name_EN="Tobago">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="89" ISO="CZ" Name_DE="Tschechische Republik" Name_EN="Czech Republic">
+    <SubRegion1 Number="1-291" Name_DE="Böhmisch-Mährische Höhe" Name_EN="Heights of Bohemia and Moravia">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-284" Name_DE="Mittleres Böhmen" Name_EN="Bohemia (Middle region)">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-288" Name_DE="Nordböhmen" Name_EN="Northern Bohemia">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-289" Name_DE="Nordmähren" Name_EN="Northern Moravia">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-290" Name_DE="Ostböhmen" Name_EN="Eastern Bohemia">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-322" Name_DE="Prag und Umgebung" Name_EN="Prague and its surroundings">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-285" Name_DE="Südböhmen" Name_EN="Southern Bohemia">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-286" Name_DE="Südmähren" Name_EN="Southern Moravia">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-287" Name_DE="Westböhmen" Name_EN="Western Bohemia">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="63" ISO="TN" Name_DE="Tunesien" Name_EN="Tunisia">
+    <SubRegion1 Number="1-386" Name_DE="Sahel" Name_EN="Sahel">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="72" ISO="TR" Name_DE="Türkei" Name_EN="Turkey">
+    <SubRegion1 Number="1-416" Name_DE="Marmara" Name_EN="Marmara">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-225" Name_DE="Türkische Ägäis" Name_EN="Turkish Aegaeis">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-396" Name_DE="Türkische Riviera" Name_EN="Turkish Riviera">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="58" ISO="HU" Name_DE="Ungarn" Name_EN="Hungary">
+    <SubRegion1 Number="1-448" Name_DE="Bacs-Kiskun" Name_EN="Bacs-Kiskun">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-61" Name_DE="Balaton" Name_EN="Balaton">
+      <SubRegion2 Number="2-309" Name_DE="Balatonfenyves und Umgebung" Name_EN="Balatonfenyves and surroundings">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-310" Name_DE="Balatonföldvar" Name_EN="Balatonfoeldvar">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-307" Name_DE="Balatonfüred und Umgebung" Name_EN="Balatonfuered">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-306" Name_DE="Heviz" Name_EN="Heviz">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-308" Name_DE="Keszthely und Umgebung" Name_EN="Keszthely and surroundings">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-327" Name_DE="Nordbalaton" Name_EN="northern Balaton">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-311" Name_DE="Siofok und Umgebung" Name_EN="Siofok and surroundings">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-326" Name_DE="Südbalaton" Name_EN="southern Balaton">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-505" Name_DE="Der Süden" Name_EN="The South">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-64" Name_DE="Grosse Tiefebene" Name_EN="Great lowlands">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-217" Name_DE="Mittlere Donauregion" Name_EN="Middle of the Danube region">
+      <SubRegion2 Number="2-205" Name_DE="Budapest" Name_EN="Budapest">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-503" Name_DE="Ostungarn" Name_EN="Eastern Hungary">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-356" Name_DE="Tata-Gebiet" Name_EN="Tata area">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-357" Name_DE="Theissee" Name_EN="Lake Theis">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-323" Name_DE="Velencer See" Name_EN="Lake of Velence">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-432" Name_DE="Westungarn" Name_EN="Western Hungary">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="60" ISO="US" Name_DE="USA" Name_EN="United States of America">
+    <SubRegion1 Number="1-445" Name_DE="Colorado" Name_EN="Colorado">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-138" Name_DE="Florida" Name_EN="Florida">
+      <SubRegion2 Number="2-124" Name_DE="Die Mitte (Florida)" Name_EN="The centre of Florida">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-263" Name_DE="Florida Keys" Name_EN="The Florida Keys">
+        <SubRegion3/>
+      </SubRegion2>
+      <SubRegion2 Number="2-118" Name_DE="Ostküste (Florida)" Name_EN="East Coast (Florida)">
+        <SubRegion3 Number="3-102" Name_DE="Nordosten (Florida)" Name_EN="North East (Florida)"/>
+        <SubRegion3 Number="3-103" Name_DE="Südosten (Florida)" Name_EN="South East (Florida)"/>
+      </SubRegion2>
+      <SubRegion2 Number="2-255" Name_DE="Westküste (Florida)" Name_EN="West Coast (Florida)">
+        <SubRegion3 Number="3-107" Name_DE="Mitte (West-Florida)" Name_EN="Centre (West Florida)"/>
+        <SubRegion3 Number="3-106" Name_DE="Südwesten (Florida)" Name_EN="South West (Florida)"/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-149" Name_DE="Kalifornien" Name_EN="California">
+      <SubRegion2 Number="2-116" Name_DE="Kalifornien / Los Angeles" Name_EN="California / Los Angeles">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-460" Name_DE="New York" Name_EN="New York">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-382" Name_DE="Utah" Name_EN="Utah">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="108" ISO="AE" Name_DE="V.A.Emirate" Name_EN="U.A.Emirates">
+    <SubRegion1 Number="1-408" Name_DE="Dubai" Name_EN="Dubai">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="103" ISO="VE" Name_DE="Venezuela" Name_EN="Venezuela">
+    <SubRegion1 Number="1-447" Name_DE="Anzoategui" Name_EN="Anzoategui">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-545" Name_DE="Aragua" Name_EN="Aragua">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-368" Name_DE="Isla Margarita" Name_EN="Isla Margarita">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+  <Land Nr="59" ISO="CY" Name_DE="Zypern" Name_EN="Cyprus">
+    <SubRegion1 Number="1-421" Name_DE="Der Süden" Name_EN="Southern Cyprus">
+      <SubRegion2 Number="2-428" Name_DE="Larnaka" Name_EN="Larnaca">
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-422" Name_DE="Der Westen" Name_EN="Western Cyprus">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+    <SubRegion1 Number="1-121" Name_DE="Pafos" Name_EN="Pafos">
+      <SubRegion2>
+        <SubRegion3/>
+      </SubRegion2>
+    </SubRegion1>
+  </Land>
+</ROOT>
